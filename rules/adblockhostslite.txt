@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250909163542
-# Last modified: 2025/09/09 16:35:42
-# Blocked domains: 11533
+# Version: 20250910003348
+# Last modified: 2025/09/10 00:33:48
+# Blocked domains: 11480
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -97,7 +97,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
 0.0.0.0	101.33.235.96
-0.0.0.0	101.43.166.60
 0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	101.43.94.35
@@ -133,7 +132,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.157.17.194
 0.0.0.0	117.50.194.20
 0.0.0.0	117.72.102.110
-0.0.0.0	117.72.183.111
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.218.179
@@ -279,7 +277,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
 0.0.0.0	zpe.klre.18183.com
-0.0.0.0	182.113.3.55
 0.0.0.0	182.113.7.250
 0.0.0.0	182.92.99.95
 0.0.0.0	photo.188kc.cn
@@ -455,7 +452,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wot.360.cn
 0.0.0.0	wows.360.cn
 0.0.0.0	yasuo.360.cn
-0.0.0.0	ykapi.luyou.360.cn
 0.0.0.0	yule.360.com
 0.0.0.0	360ads.com
 0.0.0.0	cps.360buy.com
@@ -581,7 +577,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.77.84
 0.0.0.0	47.109.90.134
 0.0.0.0	47.109.93.252
-0.0.0.0	47.113.217.92
 0.0.0.0	47.119.34.138
 0.0.0.0	47.120.32.72
 0.0.0.0	47.120.46.210
@@ -836,33 +831,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xtsk.6yush.cn
 0.0.0.0	m.6z1gf.cn
 0.0.0.0	700ok.net
-0.0.0.0	70357.xyz
-0.0.0.0	70358.xyz
-0.0.0.0	70368.xyz
-0.0.0.0	70465.xyz
-0.0.0.0	70579.xyz
-0.0.0.0	70748.xyz
-0.0.0.0	71091.xyz
 0.0.0.0	711983.com
-0.0.0.0	71476.xyz
-0.0.0.0	71479.xyz
-0.0.0.0	71511.xyz
-0.0.0.0	71514.xyz
-0.0.0.0	71520.xyz
-0.0.0.0	71526.xyz
-0.0.0.0	71531.xyz
-0.0.0.0	71545.xyz
-0.0.0.0	71560.xyz
-0.0.0.0	71563.xyz
-0.0.0.0	71570.xyz
-0.0.0.0	71572.xyz
-0.0.0.0	71574.xyz
-0.0.0.0	71576.xyz
-0.0.0.0	71579.xyz
-0.0.0.0	71580.xyz
-0.0.0.0	71582.xyz
-0.0.0.0	71590.xyz
-0.0.0.0	71594.xyz
 0.0.0.0	71717.cn
 0.0.0.0	71810.xyz
 0.0.0.0	71890.xyz
@@ -1738,7 +1707,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.199.119
 0.0.0.0	8.134.51.218
-0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
@@ -2452,7 +2420,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	aupoqstx.top
 0.0.0.0	aupoqstz.top
 0.0.0.0	aurorapush.cn
-0.0.0.0	aus-tracking.help
 0.0.0.0	ausaas.cn
 0.0.0.0	somni.aussiespecialist.cn
 0.0.0.0	somni.australia.cn
@@ -3517,7 +3484,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xiazai.crossoverchina.com
 0.0.0.0	dx.crsky.com
 0.0.0.0	crwan.applinzi.com
-0.0.0.0	cryptollm.net
 0.0.0.0	crystalmart.cn
 0.0.0.0	cs-bailing.com.cn
 0.0.0.0	gg.cs090.com
@@ -4731,12 +4697,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	summit.edm.globalsources.com
 0.0.0.0	techgifts.tradeshow.globalsources.com
 0.0.0.0	tradeshow.edm.globalsources.com
-0.0.0.0	globe-am.pro
-0.0.0.0	globe-am.xin
 0.0.0.0	globe-cu.vip
 0.0.0.0	globe-el.vip
 0.0.0.0	globe-er.vip
-0.0.0.0	globe-fsd.vip
 0.0.0.0	globe-io.vip
 0.0.0.0	globe-iv.vip
 0.0.0.0	globe-ma.vip
@@ -4934,12 +4897,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	h148.cn
 0.0.0.0	h45pmx1.cn
 0.0.0.0	h4k5.com
-0.0.0.0	h50c.xyz
-0.0.0.0	h50d.xyz
-0.0.0.0	h50n.xyz
-0.0.0.0	h50s.xyz
-0.0.0.0	h50v.xyz
-0.0.0.0	h50y.xyz
 0.0.0.0	h51.com
 0.0.0.0	h51d.xyz
 0.0.0.0	h51e.xyz
@@ -5453,10 +5410,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	i-soon.com.cn
 0.0.0.0	i36mf.cn
 0.0.0.0	ios-pclog.i4.cn
-0.0.0.0	i8club03.com
-0.0.0.0	i8club04.com
-0.0.0.0	i8club08.com
-0.0.0.0	i8club09.com
 0.0.0.0	fgp.i8l7tg.cn
 0.0.0.0	gdl.i9dhjx.ru
 0.0.0.0	iadpush.com
@@ -10306,8 +10259,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wzwjain.cn
 0.0.0.0	x-steam.com
 0.0.0.0	x1ka.cn
-0.0.0.0	x57k.xyz
-0.0.0.0	x57m.xyz
 0.0.0.0	x57o.xyz
 0.0.0.0	x58a.xyz
 0.0.0.0	x58h.xyz
@@ -10829,10 +10780,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	y74s.xyz
 0.0.0.0	y7ts.icu
 0.0.0.0	y7wr7.cn
-0.0.0.0	y88k.xyz
-0.0.0.0	y88l.xyz
-0.0.0.0	y88o.xyz
-0.0.0.0	y88q.xyz
 0.0.0.0	y89d.xyz
 0.0.0.0	y89o.xyz
 0.0.0.0	y89p.xyz

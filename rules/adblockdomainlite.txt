@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250909163542
-! Last modified: 2025/09/09 16:35:42
-! Blocked domains: 11533
+! Version: 20250910003349
+! Last modified: 2025/09/10 00:33:49
+! Blocked domains: 11480
 !
 395131115419474531.002.sh.cn
 00cdn.com
@@ -82,7 +82,6 @@ sdc.10086.cn
 101.132.131.225
 101.201.227.94
 101.33.235.96
-101.43.166.60
 101.43.2.116
 101.43.49.183
 101.43.94.35
@@ -118,7 +117,6 @@ appversion.115.com
 117.157.17.194
 117.50.194.20
 117.72.102.110
-117.72.183.111
 117.72.184.172
 117.72.206.39
 117.72.218.179
@@ -264,7 +262,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.113.3.55
 182.113.7.250
 182.92.99.95
 photo.188kc.cn
@@ -440,7 +437,6 @@ wan.360.cn
 wot.360.cn
 wows.360.cn
 yasuo.360.cn
-ykapi.luyou.360.cn
 yule.360.com
 360ads.com
 cps.360buy.com
@@ -566,7 +562,6 @@ stat.api.4399.com
 47.109.77.84
 47.109.90.134
 47.109.93.252
-47.113.217.92
 47.119.34.138
 47.120.32.72
 47.120.46.210
@@ -821,33 +816,7 @@ g.6sfg.com
 xtsk.6yush.cn
 m.6z1gf.cn
 700ok.net
-70357.xyz
-70358.xyz
-70368.xyz
-70465.xyz
-70579.xyz
-70748.xyz
-71091.xyz
 711983.com
-71476.xyz
-71479.xyz
-71511.xyz
-71514.xyz
-71520.xyz
-71526.xyz
-71531.xyz
-71545.xyz
-71560.xyz
-71563.xyz
-71570.xyz
-71572.xyz
-71574.xyz
-71576.xyz
-71579.xyz
-71580.xyz
-71582.xyz
-71590.xyz
-71594.xyz
 71717.cn
 71810.xyz
 71890.xyz
@@ -1723,7 +1692,6 @@ cp.7y7.com
 8.131.63.6
 8.134.199.119
 8.134.51.218
-8.137.114.210
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -2437,7 +2405,6 @@ aupoqsts.top
 aupoqstx.top
 aupoqstz.top
 aurorapush.cn
-aus-tracking.help
 ausaas.cn
 somni.aussiespecialist.cn
 somni.australia.cn
@@ -3502,7 +3469,6 @@ pan.crooods.com
 xiazai.crossoverchina.com
 dx.crsky.com
 crwan.applinzi.com
-cryptollm.net
 crystalmart.cn
 cs-bailing.com.cn
 gg.cs090.com
@@ -4716,12 +4682,9 @@ smkt.edm.globalsources.com
 summit.edm.globalsources.com
 techgifts.tradeshow.globalsources.com
 tradeshow.edm.globalsources.com
-globe-am.pro
-globe-am.xin
 globe-cu.vip
 globe-el.vip
 globe-er.vip
-globe-fsd.vip
 globe-io.vip
 globe-iv.vip
 globe-ma.vip
@@ -4919,12 +4882,6 @@ h01ce.cn
 h148.cn
 h45pmx1.cn
 h4k5.com
-h50c.xyz
-h50d.xyz
-h50n.xyz
-h50s.xyz
-h50v.xyz
-h50y.xyz
 h51.com
 h51d.xyz
 h51e.xyz
@@ -5438,10 +5395,6 @@ i-fk.cn
 i-soon.com.cn
 i36mf.cn
 ios-pclog.i4.cn
-i8club03.com
-i8club04.com
-i8club08.com
-i8club09.com
 fgp.i8l7tg.cn
 gdl.i9dhjx.ru
 iadpush.com
@@ -10291,8 +10244,6 @@ a.wzu.com
 wzwjain.cn
 x-steam.com
 x1ka.cn
-x57k.xyz
-x57m.xyz
 x57o.xyz
 x58a.xyz
 x58h.xyz
@@ -10814,10 +10765,6 @@ y2wj8.cn
 y74s.xyz
 y7ts.icu
 y7wr7.cn
-y88k.xyz
-y88l.xyz
-y88o.xyz
-y88q.xyz
 y89d.xyz
 y89o.xyz
 y89p.xyz
