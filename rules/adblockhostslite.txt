@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250909003227
-# Last modified: 2025/09/09 00:32:27
-# Blocked domains: 5460
+# Version: 20250909095939
+# Last modified: 2025/09/09 09:59:39
+# Blocked domains: 5458
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -305,6 +305,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	52kuwang.cn
 0.0.0.0	52pk.com
 0.0.0.0	adm.52swine.com
+0.0.0.0	api.52youtu.com
 0.0.0.0	52z.com
 0.0.0.0	a.52zxw.com
 0.0.0.0	53kf.com
@@ -695,7 +696,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.americanairlines.cn
 0.0.0.0	amerzbj.cn
 0.0.0.0	aa.analog.com
-0.0.0.0	abtest.analog.com
 0.0.0.0	images.h.analog.com
 0.0.0.0	analysys.cn
 0.0.0.0	androidblender.com
@@ -1573,7 +1573,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eitkruo.cn
 0.0.0.0	arguear.eiwennf.cn
 0.0.0.0	ejabip.com
-0.0.0.0	ejfzhh.cn
 0.0.0.0	ejhahhwq.cn
 0.0.0.0	tr.ekatox.com
 0.0.0.0	ekzmk.icu
@@ -1621,6 +1620,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	exevcl.cn
 0.0.0.0	ad.exyws.org
 0.0.0.0	veepai-device-log.eye4.cn
+0.0.0.0	qp.ezfxpuo.cn
 0.0.0.0	ezonoyuza.today
 0.0.0.0	almostess.faaokbl.cn
 0.0.0.0	fakjkwp.cn
@@ -2151,6 +2151,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	hstpnetwork.com
 0.0.0.0	g.hsw.cn
 0.0.0.0	hswfj.cn
+0.0.0.0	hsych.com
 0.0.0.0	hthvc.icu
 0.0.0.0	httpdns.pro
 0.0.0.0	huabian.com
@@ -2463,7 +2464,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jg1668.com
 0.0.0.0	jgitvf.cn
 0.0.0.0	jgoffice.com.cn
-0.0.0.0	jgzbp.cn
 0.0.0.0	8961.jianbihua.com
 0.0.0.0	ads.jianchiapp.com
 0.0.0.0	acc.jiangsujiaxue.com
@@ -2700,7 +2700,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kwqcd.cn
 0.0.0.0	kwxtdgt.cn
 0.0.0.0	kwzxrnq.cn
-0.0.0.0	kxbaywd.cn
 0.0.0.0	kxfjlpfh.cn
 0.0.0.0	ky595images.com
 0.0.0.0	kychq.cn
@@ -3075,7 +3074,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mobifobi.com
 0.0.0.0	ent.mobileanjian.com
 0.0.0.0	mobisage.cn
-0.0.0.0	denpne.modelones.com
 0.0.0.0	bd1.moguvet.com
 0.0.0.0	ad.api.moji.com
 0.0.0.0	adlaunch.moji.com
@@ -3186,6 +3184,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nhjsw.cn
 0.0.0.0	nimaxrv.cn
 0.0.0.0	ninebox.cn
+0.0.0.0	down.nishuoa.com
 0.0.0.0	nisihu.com.cn
 0.0.0.0	nithisp.cn
 0.0.0.0	taobao.niucha.ren
@@ -3690,7 +3689,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qtfoqbf.info
 0.0.0.0	qtmdzsj.cn
 0.0.0.0	qtttfdq.cn
-0.0.0.0	aa.qualcomm.cn
 0.0.0.0	saa.qualcomm.cn
 0.0.0.0	quanmama.com
 0.0.0.0	rhtc.quanminyouxi.cn
@@ -4476,6 +4474,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ukcheli.com
 0.0.0.0	ultrapay.net
 0.0.0.0	umeng.com
+0.0.0.0	gf.umenglog.com
 0.0.0.0	analytics.umetrip.com
 0.0.0.0	umiwi.com
 0.0.0.0	umkezbh.cn
@@ -4500,7 +4499,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	uri6.com
 0.0.0.0	eitherling.urjw.cn
 0.0.0.0	urlqh.cn
-0.0.0.0	lapidie.usaaimz.cn
 0.0.0.0	usrzh.cn
 0.0.0.0	utywsi.cn
 0.0.0.0	uulucky.com
@@ -4895,7 +4893,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wumii.com
 0.0.0.0	improving.wuzhuiso.com
 0.0.0.0	wvkifh.cn
-0.0.0.0	thanesque.wvvjvsg.cn
 0.0.0.0	wwads.cn
 0.0.0.0	vhs.wwstat.com
 0.0.0.0	1500020991.vodplayer.wxamedia.com
@@ -5247,6 +5244,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	analysis.yozocloud.cn
 0.0.0.0	ys630.com
 0.0.0.0	ad-material.ys7.com
+0.0.0.0	log.ys7.com
 0.0.0.0	seriesfaction.ysao3o8.cn
 0.0.0.0	ysjwj.com
 0.0.0.0	ysqlmpo.cn

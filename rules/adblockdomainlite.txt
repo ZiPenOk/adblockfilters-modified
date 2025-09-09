@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250909003227
-! Last modified: 2025/09/09 00:32:27
-! Blocked domains: 5460
+! Version: 20250909095939
+! Last modified: 2025/09/09 09:59:39
+! Blocked domains: 5458
 !
 00fa128d8f8b7fd9.com
 00xvppy.cn
@@ -290,6 +290,7 @@ go.5211game.com
 52kuwang.cn
 52pk.com
 adm.52swine.com
+api.52youtu.com
 52z.com
 a.52zxw.com
 53kf.com
@@ -680,7 +681,6 @@ log5-misc-lq.amemv.com
 metrics.americanairlines.cn
 amerzbj.cn
 aa.analog.com
-abtest.analog.com
 images.h.analog.com
 analysys.cn
 androidblender.com
@@ -1558,7 +1558,6 @@ ehxyz.com
 eitkruo.cn
 arguear.eiwennf.cn
 ejabip.com
-ejfzhh.cn
 ejhahhwq.cn
 tr.ekatox.com
 ekzmk.icu
@@ -1606,6 +1605,7 @@ excsyrv.cn
 exevcl.cn
 ad.exyws.org
 veepai-device-log.eye4.cn
+qp.ezfxpuo.cn
 ezonoyuza.today
 almostess.faaokbl.cn
 fakjkwp.cn
@@ -2136,6 +2136,7 @@ hsrgnac.cn
 hstpnetwork.com
 g.hsw.cn
 hswfj.cn
+hsych.com
 hthvc.icu
 httpdns.pro
 huabian.com
@@ -2448,7 +2449,6 @@ countrydom.jfuevalz.cn
 jg1668.com
 jgitvf.cn
 jgoffice.com.cn
-jgzbp.cn
 8961.jianbihua.com
 ads.jianchiapp.com
 acc.jiangsujiaxue.com
@@ -2685,7 +2685,6 @@ kwpht.cn
 kwqcd.cn
 kwxtdgt.cn
 kwzxrnq.cn
-kxbaywd.cn
 kxfjlpfh.cn
 ky595images.com
 kychq.cn
@@ -3060,7 +3059,6 @@ mobgi.com
 mobifobi.com
 ent.mobileanjian.com
 mobisage.cn
-denpne.modelones.com
 bd1.moguvet.com
 ad.api.moji.com
 adlaunch.moji.com
@@ -3171,6 +3169,7 @@ ggdm1.nhaidu.net
 nhjsw.cn
 nimaxrv.cn
 ninebox.cn
+down.nishuoa.com
 nisihu.com.cn
 nithisp.cn
 taobao.niucha.ren
@@ -3675,7 +3674,6 @@ upload-up.qtfm.cn
 qtfoqbf.info
 qtmdzsj.cn
 qtttfdq.cn
-aa.qualcomm.cn
 saa.qualcomm.cn
 quanmama.com
 rhtc.quanminyouxi.cn
@@ -4461,6 +4459,7 @@ ujian.cc
 ukcheli.com
 ultrapay.net
 umeng.com
+gf.umenglog.com
 analytics.umetrip.com
 umiwi.com
 umkezbh.cn
@@ -4485,7 +4484,6 @@ uqz.com
 uri6.com
 eitherling.urjw.cn
 urlqh.cn
-lapidie.usaaimz.cn
 usrzh.cn
 utywsi.cn
 uulucky.com
@@ -4880,7 +4878,6 @@ wumii.cn
 wumii.com
 improving.wuzhuiso.com
 wvkifh.cn
-thanesque.wvvjvsg.cn
 wwads.cn
 vhs.wwstat.com
 1500020991.vodplayer.wxamedia.com
@@ -5232,6 +5229,7 @@ yoyi.tv
 analysis.yozocloud.cn
 ys630.com
 ad-material.ys7.com
+log.ys7.com
 seriesfaction.ysao3o8.cn
 ysjwj.com
 ysqlmpo.cn
