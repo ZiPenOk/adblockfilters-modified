@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250910003348
-# Last modified: 2025/09/10 00:33:48
-# Blocked domains: 11480
+# Version: 20250910095539
+# Last modified: 2025/09/10 09:55:39
+# Blocked domains: 11468
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -96,7 +96,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.126.11.168
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
-0.0.0.0	101.33.235.96
+0.0.0.0	101.43.166.60
 0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	101.43.94.35
@@ -126,12 +126,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	114.fm
 0.0.0.0	1.11467.com
 0.0.0.0	114office.com.cn
-0.0.0.0	115.120.225.134
 0.0.0.0	115.159.149.113
 0.0.0.0	appversion.115.com
 0.0.0.0	117.157.17.194
 0.0.0.0	117.50.194.20
 0.0.0.0	117.72.102.110
+0.0.0.0	117.72.183.111
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.218.179
@@ -277,7 +277,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
 0.0.0.0	zpe.klre.18183.com
-0.0.0.0	182.113.7.250
 0.0.0.0	182.92.99.95
 0.0.0.0	photo.188kc.cn
 0.0.0.0	188office.com.cn
@@ -452,6 +451,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wot.360.cn
 0.0.0.0	wows.360.cn
 0.0.0.0	yasuo.360.cn
+0.0.0.0	ykapi.luyou.360.cn
 0.0.0.0	yule.360.com
 0.0.0.0	360ads.com
 0.0.0.0	cps.360buy.com
@@ -573,7 +573,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.108.198.70
 0.0.0.0	47.108.63.64
 0.0.0.0	47.109.48.57
-0.0.0.0	47.109.69.234
 0.0.0.0	47.109.77.84
 0.0.0.0	47.109.90.134
 0.0.0.0	47.109.93.252
@@ -1707,6 +1706,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.199.119
 0.0.0.0	8.134.51.218
+0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
@@ -4056,7 +4056,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	documents-ndiq9jtx0o.edgeone.app
 0.0.0.0	etihad-vrs21rnod1.edgeone.app
 0.0.0.0	flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
-0.0.0.0	ontherund-3ieqwek0pf.edgeone.app
 0.0.0.0	southwestnortheast-ixmbuce0q6.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 0.0.0.0	tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
@@ -4479,7 +4478,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	fugetech.com
 0.0.0.0	fujianryt.com
 0.0.0.0	fujincenter.com
-0.0.0.0	fuliqzj.cn
 0.0.0.0	vasd.fun.tv
 0.0.0.0	adk.funshion.com
 0.0.0.0	adm.funshion.com
@@ -5195,7 +5193,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	hly.com
 0.0.0.0	hlzyb.cn
 0.0.0.0	hmcvs.cn
-0.0.0.0	hmdjmona.cn
 0.0.0.0	hmnjf.com
 0.0.0.0	hmtoday.com
 0.0.0.0	s1.hnhbyxdq.com
@@ -5932,7 +5929,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jmlinks.cn
 0.0.0.0	jmlk.co
 0.0.0.0	jmogo.cn
-0.0.0.0	jnsgb.cn
 0.0.0.0	jnsz.net.cn
 0.0.0.0	c.jntxst.cn
 0.0.0.0	v.jntxst.cn
@@ -6012,7 +6008,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jyhwt.cn
 0.0.0.0	jzdgn.cn
 0.0.0.0	jzdwl4.cn
-0.0.0.0	jzfeiyang.cn
 0.0.0.0	jznylsf.cn
 0.0.0.0	e.jzvog.cn
 0.0.0.0	m.jzvog.cn
@@ -6290,7 +6285,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kypwdchj.cn
 0.0.0.0	kyrfnc.cn
 0.0.0.0	kysmsaj.cn
-0.0.0.0	kytvtt.cn
 0.0.0.0	kyuckfu.cn
 0.0.0.0	kzchyhr.cn
 0.0.0.0	kzdh.com
@@ -6570,7 +6564,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.lxanimation.cn
 0.0.0.0	v.lxanimation.cn
 0.0.0.0	m.lxind.cn
-0.0.0.0	lxnxt.cn
 0.0.0.0	c.lxtvb.cn
 0.0.0.0	v.lxtvb.cn
 0.0.0.0	analytics.ly200.com
@@ -6744,7 +6737,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pcweb.v1.mgtv.com
 0.0.0.0	mgzjin.cn
 0.0.0.0	mh8888.cn
-0.0.0.0	resona-reasely.mhkguao.cn
 0.0.0.0	c.mhtuucr.cn
 0.0.0.0	v.mhtuucr.cn
 0.0.0.0	mhwy6.icu
@@ -7762,7 +7754,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qiwo.cc
 0.0.0.0	qixiu88.com
 0.0.0.0	qixiwangluo.com
-0.0.0.0	www.qiyee163.com
 0.0.0.0	qiyegongqiu1.qiyegongqiu.com
 0.0.0.0	qiyeit.com.cn
 0.0.0.0	api.cupid.qiyi.com
@@ -9585,7 +9576,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	uzhuangji.cn
 0.0.0.0	uzzf.com
 0.0.0.0	v-56.com
-0.0.0.0	mall.v-kf.cn
 0.0.0.0	log.apk.v-mate.mobi
 0.0.0.0	reco.v-mate.mobi
 0.0.0.0	xapi.apk.v-mate.mobi
@@ -10354,7 +10344,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	salary.xiao84.com
 0.0.0.0	xiaobaixitong.com
 0.0.0.0	xiaobeier.cn
-0.0.0.0	jin13.xiaodong88.cn
 0.0.0.0	xiaodongrui.com
 0.0.0.0	cdn.xiaoduoai.com
 0.0.0.0	adx.xiaodutv.com
@@ -10676,7 +10665,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0	xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0	a.xnimg.cn
-0.0.0.0	xoxwvewm.cn
 0.0.0.0	xp3366.com
 0.0.0.0	xpcwrgy.cn
 0.0.0.0	xpdyqax.cn
