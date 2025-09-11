@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250911163421
-! Last modified: 2025/09/11 16:34:21
-! Blocked domains: 10637
+! Version: 20250912003233
+! Last modified: 2025/09/12 00:32:33
+! Blocked domains: 10610
 !
 395131115419474531.002.sh.cn
 00cdn.com
@@ -62,8 +62,6 @@ a1.0s.net.cn
 m.0uk9e.cn
 0x5.me
 1-bmo-client-login.com
-1.15.134.238
-1.95.135.26
 10000xing.cn
 1000su.com
 analytics.10010.com
@@ -85,7 +83,6 @@ sdc.10086.cn
 101.34.66.77
 101.43.166.60
 101.43.2.116
-101.43.49.183
 101.43.94.35
 1.1010pic.com
 2.1010pic.com
@@ -114,11 +111,9 @@ oss-asq-static.11222.cn
 1.11467.com
 114office.com.cn
 115.159.149.113
-115.55.201.155
 appversion.115.com
 117.157.17.194
 117.50.194.20
-117.50.213.233
 117.72.102.110
 117.72.117.43
 117.72.184.172
@@ -154,7 +149,6 @@ bdwmhz.120askimages.com
 121b2121211.cn
 12291.com
 js1.122cha.com
-123.57.166.174
 123.57.250.154
 123.99.198.195
 ad.12306.cn
@@ -277,7 +271,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.127.128.127
 182.92.99.95
 photo.188kc.cn
 188office.com.cn
@@ -343,7 +336,6 @@ ssp.21ic.com
 tj.21ic.com
 220.180.255.224
 221.14.17.242
-222.187.223.34
 222aa333bb.com
 228tuchuang.com
 233wo.com
@@ -361,7 +353,6 @@ m.24ihe.cn
 262j.com
 js.263y.com
 26zsd.cn
-27.212.216.64
 a1.289.com
 28office.cn
 28t1ya.cn
@@ -565,11 +556,8 @@ stat.api.4399.com
 43gw.cn
 47.101.206.165
 47.104.144.93
-47.104.169.91
 47.104.173.216
-47.106.229.212
 47.108.198.70
-47.108.63.64
 47.109.48.57
 47.109.77.84
 47.109.90.134
@@ -577,14 +565,10 @@ stat.api.4399.com
 47.119.34.138
 47.120.32.72
 47.122.30.177
-47.92.192.154
-47.92.97.100
 47.93.216.2
 47.93.28.103
 47.96.13.97
 47.97.118.238
-47.97.125.50
-47.98.136.161
 47.98.224.91
 m.479db.cn
 49.234.48.162
@@ -708,7 +692,6 @@ dl.1003b.56a.com
 img2.578965.com
 js.578965.com
 58.216.207.82
-58.87.92.169
 adshow.58.com
 adtrack.58.com
 advert.58.com
@@ -742,7 +725,6 @@ analytics.58pic.com
 isdtuis.5fun.com
 5ip9.com
 5j.com
-5j73de.cn
 5jcom.com.cn
 cp.5jjx.net
 s.5jjx.net
@@ -1198,7 +1180,6 @@ cp.7y7.com
 8.131.63.6
 8.134.199.119
 8.134.51.218
-8.137.114.210
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -2444,7 +2425,6 @@ ad.bwton.com
 dlogs.bwton.com
 bwz4e.icu
 bxg68.com
-bxjpl.cn
 bxwccii.cn
 by007.cn
 e.by29s.cn
@@ -3684,7 +3664,6 @@ api-fp-retry-sa.fengkongcloud.com
 cloudconf.fengkongcloud.com
 fp-bj.fengkongcloud.com
 fp-it.fengkongcloud.com
-fp-it-acc.fengkongcloud.com
 fp-it-tracker.fengkongcloud.com
 fp-na-it-acc.fengkongcloud.com
 fp-sa-it.fengkongcloud.com
@@ -4480,7 +4459,6 @@ hiido.com
 analytics.shop.hisense.com
 api-4know-em.hismarttv.com
 api-4know-eu.hismarttv.com
-api-cloudfalcon.hismarttv.com
 api-gps.hismarttv.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
@@ -4490,7 +4468,6 @@ api-launcher-em.hismarttv.com
 api-launcher-eu.hismarttv.com
 api-launcher-na.hismarttv.com
 api-launcher-sa.hismarttv.com
-api-vidaaasst.hismarttv.com
 api.eu.hismarttv.com
 auth-em.hismarttv.com
 auth-eu.hismarttv.com
@@ -4499,7 +4476,6 @@ auth-launcher-eu.hismarttv.com
 auth-launcher-na.hismarttv.com
 auth-launcher-sa.hismarttv.com
 auth-na.hismarttv.com
-auth-phone-afr.hismarttv.com
 auth-phone-ap.hismarttv.com
 auth-phone-na.hismarttv.com
 auth-sa.hismarttv.com
@@ -6653,7 +6629,6 @@ apps2.outfit7.com
 at-af.outfit7.com
 bidder.dsp.outfit7.com
 cdn-gcs.outfit7.com
-events-api-ak.outfit7.com
 hb-af-us-central1.outfit7.com
 revive.outin.cn
 ouyaoxiazai.com
@@ -7217,7 +7192,6 @@ report.gamecenter.qq.com
 report.imtt.qq.com
 report.kg.qq.com
 report.nfa.qq.com
-report.qcloudcdn.qq.com
 report.qqweb.qq.com
 report.syzs.qq.com
 report.trade.weixin.qq.com
@@ -7919,7 +7893,6 @@ soarfi.cn
 soarpower.com
 sobot.com
 social-touch.com
-m.sofseo.cn
 pub.softonic.cn
 wct.softonic.cn
 adx.sogaha.cn
