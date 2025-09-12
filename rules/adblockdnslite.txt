@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250912163402
-! Last modified: 2025/09/12 16:34:02
-! Blocked domains: 11446
+! Version: 20250913002857
+! Last modified: 2025/09/13 00:28:57
+! Blocked domains: 11409
 ! unBlocked domains: 52
 !
 ||395131115419474531.002.sh.cn^
@@ -105,7 +105,6 @@
 ||111.231.23.22^
 ||1.11130.com.cn^
 ||oss-asq-static.11222.cn^
-||113.31.111.76^
 ||113.98.201.248^
 ||1133.cc^
 ||114.132.169.168^
@@ -118,7 +117,6 @@
 ||115.55.203.207^
 ||appversion.115.com^
 ||117.157.17.194^
-||117.50.194.20^
 ||117.72.102.110^
 ||117.72.117.43^
 ||117.72.184.172^
@@ -133,7 +131,6 @@
 ||11888vip.cn^
 ||118office.cn^
 ||bj1.118pan.com^
-||119.29.2.30^
 ||119.91.203.199^
 ||120.25.163.165^
 ||120.27.20.98^
@@ -163,7 +160,6 @@
 ||123ko.cn^
 ||bdad.123pan.cn^
 ||124.221.116.169^
-||124.221.240.222^
 ||124.223.199.39^
 ||124.223.54.248^
 ||124.248.66.227^
@@ -203,7 +199,6 @@
 ||139.198.15.223^
 ||1391.com^
 ||14.103.234.180^
-||140.143.159.132^
 ||14198.com^
 ||d.14yaa.com^
 ||150100.cn^
@@ -576,16 +571,13 @@
 ||47.109.77.84^
 ||47.109.90.134^
 ||47.109.93.252^
-||47.113.217.92^
 ||47.119.34.138^
-||47.120.46.210^
 ||47.122.30.177^
 ||47.92.192.154^
 ||47.93.28.103^
 ||47.96.13.97^
 ||47.97.118.238^
 ||47.97.125.50^
-||47.98.136.161^
 ||47.98.224.91^
 ||m.479db.cn^
 ||49.234.48.162^
@@ -1387,28 +1379,8 @@
 ||74457.xyz^
 ||74460.xyz^
 ||74462.xyz^
-||74468.xyz^
 ||74471.xyz^
 ||74472.xyz^
-||74474.xyz^
-||74476.xyz^
-||74477.xyz^
-||74480.xyz^
-||74482.xyz^
-||74484.xyz^
-||74486.xyz^
-||74487.xyz^
-||74488.xyz^
-||74490.xyz^
-||74492.xyz^
-||74497.xyz^
-||74499.xyz^
-||74504.xyz^
-||74506.xyz^
-||74507.xyz^
-||74508.xyz^
-||74510.xyz^
-||74511.xyz^
 ||74549.xyz^
 ||74560.xyz^
 ||74564.xyz^
@@ -2406,12 +2378,10 @@
 ||atlggfy.cn^
 ||atpanel.com^
 ||atplay.cn^
-||au-package.vip^
 ||au3cs.com^
 ||tracking.aubemobile.com^
 ||audioadx.com^
 ||aujcdyw.cn^
-||aupofstr.live^
 ||aupogstu.live^
 ||aupogsty.live^
 ||aupohstc.live^
@@ -2521,7 +2491,6 @@
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||live.applicationinsights.azure.cn^
-||b1837.top^
 ||b210k.xyz^
 ||b210r.xyz^
 ||b210v.xyz^
@@ -3093,7 +3062,6 @@
 ||dispatcher-bsy.c360dn.com^
 ||c4d4.cn^
 ||c4uy.icu^
-||c530330665.top^
 ||c5d5b25fce77ec72.com^
 ||c6e8bbbae78eff89.com^
 ||ca88b.cn^
@@ -3957,7 +3925,6 @@
 ||img.dubyc.com^
 ||union.duizhuang.com^
 ||sky.dunsuan.com^
-||dunvobv.asia^
 ||duocpa2.cn^
 ||picture.duokan.com^
 ||fm.duokanbox.com^
@@ -4716,7 +4683,6 @@
 ||globe-er.vip^
 ||globe-io.vip^
 ||globe-iv.vip^
-||globe-ma.vip^
 ||globe-mc.vip^
 ||globe-me.vip^
 ||globe-qs.vip^
@@ -7230,7 +7196,6 @@
 ||nvshenfan.com^
 ||anews7.nvwu.com^
 ||q35.nwnrd.cn^
-||bd1.nxing.cn^
 ||zb.nxing.cn^
 ||m.nydjsm.cn^
 ||ks.nyho0io9.ru^
@@ -9225,7 +9190,7 @@
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
 ||a.tn.token-ad.com^
-||tokenpocket.hk.cn^
+||www.tokenpocket.hk.cn^
 ||track.tom.com^
 ||track.tomwx.net^
 ||tongbaimi.cn^
@@ -9373,8 +9338,6 @@
 ||u0r9.cn^
 ||ee.u4q2.cn^
 ||m.u4q2.cn^
-||u50t.xyz^
-||u50w.xyz^
 ||u51.me^
 ||u51b.xyz^
 ||u51p.xyz^
@@ -10526,7 +10489,7 @@
 ||xibao100.com^
 ||angste.xicp.net^
 ||yunwu1.xicp.net^
-||xidexableact.cn^
+||m.xidexableact.cn^
 ||ns2.xidian.edu.cn^
 ||m.xieyanmin.com.cn^
 ||xiezhuo038.cn^
