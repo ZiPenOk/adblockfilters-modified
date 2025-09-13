@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250913002857
-! Last modified: 2025/09/13 00:28:57
-! Blocked domains: 11409
+! Version: 20250913094938
+! Last modified: 2025/09/13 09:49:38
+! Blocked domains: 11391
 !
 395131115419474531.002.sh.cn
 00cdn.com
@@ -81,9 +81,7 @@ sdc.10086.cn
 101.126.11.168
 101.132.131.225
 101.201.227.94
-101.33.235.96
 101.34.66.77
-101.43.166.60
 101.43.2.116
 101.43.49.183
 101.43.94.35
@@ -104,6 +102,7 @@ soft.110route.com
 111.231.23.22
 1.11130.com.cn
 oss-asq-static.11222.cn
+113.31.111.76
 113.98.201.248
 1133.cc
 114.132.169.168
@@ -113,9 +112,9 @@ oss-asq-static.11222.cn
 1.11467.com
 114office.com.cn
 115.159.149.113
-115.55.203.207
 appversion.115.com
 117.157.17.194
+117.50.194.20
 117.72.102.110
 117.72.117.43
 117.72.184.172
@@ -160,7 +159,6 @@ download.123cw.cn
 bdad.123pan.cn
 124.221.116.169
 124.223.199.39
-124.223.54.248
 124.248.66.227
 ent1.12584.cn
 health1.12584.cn
@@ -570,7 +568,9 @@ stat.api.4399.com
 47.109.77.84
 47.109.90.134
 47.109.93.252
+47.113.217.92
 47.119.34.138
+47.120.46.210
 47.122.30.177
 47.92.192.154
 47.93.28.103
@@ -1698,7 +1698,6 @@ cp.7y7.com
 8.140.239.162
 8.141.15.227
 8.153.97.202
-8.154.18.17
 8.155.165.8
 8020home.com.cn
 www.805m.com
@@ -2055,7 +2054,6 @@ mmg.aty.snmsohu.aisee.tv
 domain.aishengji.com
 log.aispeech.com
 aivaylaco.com
-aivision.hk
 lcd.aivote.com
 ro.aiwan4399.com
 aiwanma99.com
@@ -3172,7 +3170,6 @@ ns1.ceshi897.cn
 ns2.ceshi897.cn
 ns3.ceshi897.cn
 cetcf.cn
-cevcmw.cn
 cf73k.com
 cfsrvbu.cn
 update.cg100iii.com
@@ -3628,7 +3625,6 @@ dtm-dre.platform.dbankcloud.cn
 events-dra.op.dbankcloud.cn
 events-drcn.op.dbankcloud.cn
 grs.dbankcloud.cn
-grs-pub.platform.dbankcloud.cn
 httpdns-browser.platform.dbankcloud.cn
 hwpub-s01-drcn.cloud.dbankcloud.cn
 logservice.dbankcloud.cn
@@ -3656,7 +3652,6 @@ events-drcn.op.dbankcloud.com
 events-dre.op.dbankcloud.com
 grs.dbankcloud.com
 grs-iot.platform.dbankcloud.com
-grs-pub.platform.dbankcloud.com
 hisearch-dra.dt.dbankcloud.com
 hisearch-drcn.dt.dbankcloud.com
 hisearch-dre.dt.dbankcloud.com
@@ -3674,7 +3669,6 @@ grs.dbankcloud.eu
 adx-drru.op.dbankcloud.ru
 dnkeeper-drru.platform.dbankcloud.ru
 events-drru.op.dbankcloud.ru
-grs-pub.platform.dbankcloud.ru
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -4053,8 +4047,6 @@ documents-ndiq9jtx0o.edgeone.app
 etihad-vrs21rnod1.edgeone.app
 flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 pdfworknew-6d9lnfzqgb.edgeone.app
-proud-teal-znnybxvye6.edgeone.app
-rival-azure-qbihrhf5gr.edgeone.app
 southwestnortheast-ixmbuce0q6.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
@@ -5750,7 +5742,6 @@ jbcbio.cn
 soft.jbdown.net
 jbflil.cn
 e.jbiev.com
-jbiqsbf.cn
 jbzj.com
 gg1.jc001.cn
 stat.jc001.cn
@@ -6522,7 +6513,6 @@ lwvrv.icu
 lx167.com
 c.lxanimation.cn
 v.lxanimation.cn
-lxhlz.cn
 m.lxind.cn
 c.lxtvb.cn
 v.lxtvb.cn
@@ -6856,7 +6846,6 @@ bwa.mize0ao1.ru
 ck.mize0ao1.ru
 mizenterex-invest.com
 mj70.cn
-mjhly.cn
 mjmobi.com
 trace.mjyx.com
 mkqdj.cn
@@ -7178,7 +7167,6 @@ ntcor.com
 ntfsformac.cc
 ntfsformac.cn
 ntkrnlpa.cn
-policization.ntpgjoj.cn
 nuaaad.cn
 pdns.nudt.edu.cn
 nuffnang.com.cn
@@ -7511,7 +7499,6 @@ post-vi.help
 postaus.help
 postedxj-5h.help
 postenno.life
-postse.help
 postut.cn
 postv1.help
 povbdf.cn
@@ -8083,7 +8070,6 @@ raeqqe.cn
 p.raidmedia.com.cn
 u.raidmedia.com.cn
 luaqxb.rainso.com
-snmanager.rangstone.com
 ravelotti.cn
 bespoke-analytics.razerapi.com
 rbift.icu
@@ -8131,7 +8117,6 @@ revenuenetwork.com
 info.revvity.cn
 reycross.cn
 track.msadcenter.rfjq.com
-rfnmtfm.cn
 rgyun.com
 rhinogo.cn
 rhinovate.tech
@@ -9157,7 +9142,6 @@ kgwr.www.tianyilin.cn
 m.www.tianyilin.cn
 psey.www.tianyilin.cn
 wap.www.tianyilin.cn
-yamaxun.tianzhe.cn
 adx-bid.tianzhuobj.com
 tiaosa.cn
 hospi.ticp.io
@@ -9189,7 +9173,6 @@ adsapi.togothermany.cn
 adscfg.togothermany.cn
 adsup.togothermany.cn
 a.tn.token-ad.com
-www.tokenpocket.hk.cn
 track.tom.com
 track.tomwx.net
 tongbaimi.cn
@@ -11161,7 +11144,6 @@ zgunion.cn
 td.zgxue.com
 zh-amazon.cn
 zh-imtoken.cn
-m.zh-imtoken.org.cn
 zhads.com
 guang1.zhakao.cn
 tfs.zhamm.cn
