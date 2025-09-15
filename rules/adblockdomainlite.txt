@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250915002804
-! Last modified: 2025/09/15 00:28:04
-! Blocked domains: 10605
+! Version: 20250915100442
+! Last modified: 2025/09/15 10:04:42
+! Blocked domains: 10578
 !
 395131115419474531.002.sh.cn
 00cdn.com
@@ -113,7 +113,6 @@ oss-asq-static.11222.cn
 115.159.149.113
 appversion.115.com
 117.157.17.194
-117.50.194.20
 117.72.102.110
 117.72.117.43
 117.72.184.172
@@ -121,7 +120,6 @@ appversion.115.com
 117.72.218.179
 117.72.36.133
 117.72.83.6
-117.72.84.117
 118.178.133.241
 118.25.68.152
 1188.com
@@ -357,7 +355,6 @@ m.24ihe.cn
 262j.com
 js.263y.com
 26zsd.cn
-27.212.216.64
 a1.289.com
 28office.cn
 28t1ya.cn
@@ -671,7 +668,6 @@ a.52zxw.com
 53kf.com
 m.53trya.cn
 54417.cn
-546138.cn
 54gtlb.cn
 54kefu.net
 54ly.com
@@ -789,7 +785,6 @@ m5.66077.cn
 6666888.xyz
 666aa777bb.com
 666bb777ww.com
-666pool.cn
 1.66law.cn
 6700.cn
 6711.com
@@ -1913,7 +1908,6 @@ adm2.autoimg.cn
 adm3.autoimg.cn
 img2.autoimg.cn
 adstatistics.av380.net
-avibazar.com
 ixav-cse.avlyun.com
 log.avlyun.com
 miav-cse.avlyun.com
@@ -2425,7 +2419,6 @@ boyidianqi.com.cn
 boyxu.cn
 bozhihua.com
 bp-net.top
-bpi-mlz.info
 bpztsxx.com
 bqdhrr.top
 bqyvip.cn
@@ -2547,7 +2540,6 @@ tracking.cat898.com
 vip.catcs.cn
 c.caxxetj.cn
 v.caxxetj.cn
-cc5myi6.cn
 adv.ccb.com
 ccbccb.cn
 ccbyte.com
@@ -2621,7 +2613,6 @@ ssgg.chazidian.com
 yong.chazidian.com
 bdasd.chdbook.cn
 chdpd.life
-cheaprepliwatches.cn
 atrace.chelaile.net.cn
 logs.chelaile.net.cn
 sp.chemacid.cn
@@ -2674,7 +2665,6 @@ chinauma.net
 a2put.chinaz.com
 stats.chinaz.com
 chinazmob.com
-chipslab.cn
 chiq-cloud.com
 chlbiz.com
 chnci.com
@@ -2792,7 +2782,6 @@ ss.cnczjy.com
 adm.cloud.cnfol.com
 gg8888.cnfol.com
 cnhdin.cn
-cnhls.com.cn
 abcd.cnhuoche.com
 cnlink8.com
 pic.cnmo-img.com.cn
@@ -3128,7 +3117,6 @@ events-op-hicloud-com-drcn.appacc-region.dbankedge.net
 m.dbiei.com
 dbsin.com
 dchdmhf.cn
-dcyrhj.cn
 matomo.dd-img.com
 ddbuwo.cn
 ddhl.qpon
@@ -3606,7 +3594,6 @@ whsycywx.face-book.cc
 wtg.face-book.cc
 xgmgyyp.face-book.cc
 yvkvd.face-book.cc
-fakerolexmenwatches.cn
 fakjkwp.cn
 z2.fakutownee.cn
 falalioo.cn
@@ -3887,7 +3874,6 @@ g2q3e.cn
 kcc.g31hc.cn
 g41i.icu
 g77776666.com
-g93od.cn
 gaikpqk.cn
 gainifyads.com
 fc.gaizong.cn
@@ -4511,7 +4497,6 @@ hjpqt.cn
 hkeig.com
 hknoq.cn
 plausible.personal.hlewfeer.cn
-hljtlg.cn
 hlrml.cn
 hlstlyy.com
 hly.com
@@ -4882,7 +4867,6 @@ inad.com
 analytics.inbobi.com
 sdhfct.inccw.com
 dlres.ind9ed.com
-index8.cn
 ssp.indexmob.com
 indonesias.me
 inepost.top
@@ -4973,7 +4957,6 @@ tpa-hcdn.iqiyi.com
 tracker.sns.iqiyi.com
 yuedu.iqiyi.com
 m.iqiyipic.com
-iqovtk.cn
 iqtsc.com
 iqyewu.cn
 trk.irco.com.cn
@@ -4990,7 +4973,6 @@ adshow.it168.com
 adshownew.it168.com
 stat.it168.com
 itaoxiaoshuo.com
-itapple.cn
 a1.itc.cn
 collect.iteam-dress.com
 cee1.iteye.com
@@ -5678,7 +5660,6 @@ i3.letvimg.com
 lezbrja.cn
 m.lglady.cn
 jc.lgtianma.cn
-augast.lgwenfd.cn
 lgygy.cn
 lhippac.cn
 li122.cn
@@ -5731,7 +5712,6 @@ liteautotop.cn
 litetopfindworld.cn
 fan.liuxiaoer.com
 xi.liuxiaoer.com
-liuxue51.cn
 hw-p2p-pull.live-voip.com
 tx-p2p-pull.live-voip.com
 ws-p2p-pull.live-voip.com
@@ -6826,7 +6806,6 @@ ptgdb.cn
 pthejzb.com
 ptmabek.cn
 ptmind.com
-pttlk.life
 pufhzpt.cn
 pig.pupuapi.com
 puqer.cn
@@ -6893,7 +6872,6 @@ fundation.qfuumddf.cn
 qgdvyvd.cn
 qgg7e.icu
 qguwoq.cn
-qhckp.cn
 qhdast.com
 m-sbisec.qhddjzs.cn
 sbisec-jp.qhddjzs.cn
@@ -6946,7 +6924,6 @@ logger.qingting.fm
 kf.qingwk.com
 fly.qingyuji.cn
 log.qiniuapi.com
-qinrenwang.com.cn
 qipskd.cn
 analytics.qiqiuyun.net
 kbae.qiqqh.cn
@@ -7871,6 +7848,7 @@ soarfi.cn
 soarpower.com
 sobot.com
 social-touch.com
+m.sofseo.cn
 pub.softonic.cn
 wct.softonic.cn
 adx.sogaha.cn
@@ -8486,7 +8464,6 @@ job3.trnebaiek.cn
 trpyceq.cn
 ta.trs.cn
 trustutn.org
-trytif.cn
 ts166.net
 tsfkjbw.com
 m.tsgyg.cn
@@ -8548,7 +8525,6 @@ livetech.shopee.vn.txlivecdn.com
 txsadql.cn
 txscn.cn
 txstatic.cn
-txtmvq.cn
 m.txtxr.com
 txtxz.org.cn
 u.txuesoft.cn
@@ -8650,7 +8626,6 @@ udr26c.cn
 udrig.com
 ueg.cc
 uegsjnk.com
-ueijed.cn
 uenmh.cn
 uerzyr.cn
 ueuser.com
@@ -9993,7 +9968,6 @@ yha67.com
 yhbsk.cn
 yhjccj.cn
 yhmogbc.cn
-yhrrdec.cn
 yhwt.cn
 yhz18.com
 analytics.yicai.com
@@ -10419,7 +10393,6 @@ zhongsijiacheng.com
 zhongwangmy.cn
 zhongxinlm.com
 jy.zhongxues.com
-zhongyicts.com.cn
 zhongzicili.cc
 zhoz.com
 zhuangjizhuli.net
