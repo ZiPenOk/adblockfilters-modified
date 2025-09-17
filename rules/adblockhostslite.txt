@@ -3,8 +3,8 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250917003314
-# Last modified: 2025/09/17 00:33:14
+# Version: 20250917095520
+# Last modified: 2025/09/17 09:55:20
 # Blocked domains: 9902
 #
 127.0.0.1	localhost
@@ -138,6 +138,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdjs.120askimages.com
 0.0.0.0	bdlm.120askimages.com
 0.0.0.0	bdwmhz.120askimages.com
+0.0.0.0	121.40.18.128
 0.0.0.0	121.41.167.80
 0.0.0.0	12291.com
 0.0.0.0	js1.122cha.com
@@ -321,8 +322,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ssp.21ic.com
 0.0.0.0	tj.21ic.com
 0.0.0.0	220.180.255.224
-0.0.0.0	222.187.223.34
-0.0.0.0	222.243.95.50
 0.0.0.0	222aa333bb.com
 0.0.0.0	228tuchuang.com
 0.0.0.0	233wo.com
@@ -550,7 +549,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.77.84
 0.0.0.0	47.109.90.134
 0.0.0.0	47.109.93.252
-0.0.0.0	47.119.34.138
 0.0.0.0	47.120.32.72
 0.0.0.0	47.122.30.177
 0.0.0.0	47.92.192.154
@@ -558,6 +556,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.96.13.97
 0.0.0.0	47.97.118.238
 0.0.0.0	47.97.125.50
+0.0.0.0	47.98.136.161
 0.0.0.0	47.98.224.91
 0.0.0.0	m.479db.cn
 0.0.0.0	49.234.48.162
@@ -1017,6 +1016,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
 0.0.0.0	8.153.97.202
+0.0.0.0	8.154.18.17
 0.0.0.0	8020home.com.cn
 0.0.0.0	www.805m.com
 0.0.0.0	a.80982.org
@@ -6439,7 +6439,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.qookkagames.com
 0.0.0.0	gvideo.qpic.cn
 0.0.0.0	mmgame.qpic.cn
-0.0.0.0	qpncx.cn
 0.0.0.0	a.ac.qq.com
 0.0.0.0	ac.o2.qq.com
 0.0.0.0	act.qq.com
@@ -8091,6 +8090,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	urlqh.cn
 0.0.0.0	usn.cc
 0.0.0.0	usrzh.cn
+0.0.0.0	www.etax.usvlg.cn
 0.0.0.0	wap.utmei.cn
 0.0.0.0	utywsi.cn
 0.0.0.0	app.uu.cc

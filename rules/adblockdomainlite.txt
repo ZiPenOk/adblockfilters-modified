@@ -3,8 +3,8 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250917003314
-! Last modified: 2025/09/17 00:33:14
+! Version: 20250917095520
+! Last modified: 2025/09/17 09:55:20
 ! Blocked domains: 9902
 !
 395131115419474531.002.sh.cn
@@ -123,6 +123,7 @@ x.120ask.com
 bdjs.120askimages.com
 bdlm.120askimages.com
 bdwmhz.120askimages.com
+121.40.18.128
 121.41.167.80
 12291.com
 js1.122cha.com
@@ -306,8 +307,6 @@ ad.21cn.com
 ssp.21ic.com
 tj.21ic.com
 220.180.255.224
-222.187.223.34
-222.243.95.50
 222aa333bb.com
 228tuchuang.com
 233wo.com
@@ -535,7 +534,6 @@ stat.api.4399.com
 47.109.77.84
 47.109.90.134
 47.109.93.252
-47.119.34.138
 47.120.32.72
 47.122.30.177
 47.92.192.154
@@ -543,6 +541,7 @@ stat.api.4399.com
 47.96.13.97
 47.97.118.238
 47.97.125.50
+47.98.136.161
 47.98.224.91
 m.479db.cn
 49.234.48.162
@@ -1002,6 +1001,7 @@ cp.7y7.com
 8.140.239.162
 8.141.15.227
 8.153.97.202
+8.154.18.17
 8020home.com.cn
 www.805m.com
 a.80982.org
@@ -6424,7 +6424,6 @@ qooic.com
 log.qookkagames.com
 gvideo.qpic.cn
 mmgame.qpic.cn
-qpncx.cn
 a.ac.qq.com
 ac.o2.qq.com
 act.qq.com
@@ -8076,6 +8075,7 @@ eitherling.urjw.cn
 urlqh.cn
 usn.cc
 usrzh.cn
+www.etax.usvlg.cn
 wap.utmei.cn
 utywsi.cn
 app.uu.cc
