@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250917163418
-! Last modified: 2025/09/17 16:34:18
-! Blocked domains: 10092
+! Version: 20250918003244
+! Last modified: 2025/09/18 00:32:44
+! Blocked domains: 10073
 ! unBlocked domains: 51
 !
 ||395131115419474531.002.sh.cn^
@@ -77,7 +77,6 @@
 ||101.201.227.94^
 ||101.33.235.96^
 ||101.34.66.77^
-||101.43.166.60^
 ||101.43.49.183^
 ||1.1010pic.com^
 ||2.1010pic.com^
@@ -157,7 +156,6 @@
 ||124.221.29.185^
 ||124.222.151.47^
 ||124.223.199.39^
-||124.223.54.248^
 ||124.248.66.227^
 ||ent1.12584.cn^
 ||health1.12584.cn^
@@ -547,7 +545,6 @@
 ||47.104.144.93^
 ||47.104.169.91^
 ||47.104.173.216^
-||47.106.229.212^
 ||47.108.63.64^
 ||47.109.48.57^
 ||47.109.77.84^
@@ -555,14 +552,11 @@
 ||47.109.93.252^
 ||47.113.217.92^
 ||47.120.32.72^
-||47.120.46.210^
 ||47.122.30.177^
 ||47.92.192.154^
 ||47.93.28.103^
-||47.96.13.97^
 ||47.97.118.238^
 ||47.97.125.50^
-||47.98.136.161^
 ||47.98.224.91^
 ||m.479db.cn^
 ||49.234.48.162^
@@ -1079,7 +1073,6 @@
 ||8.134.199.119^
 ||8.134.51.218^
 ||8.137.114.210^
-||8.138.182.17^
 ||8.140.239.162^
 ||8.141.15.227^
 ||8.153.97.202^
@@ -1352,7 +1345,6 @@
 ||afopr.cn^
 ||afterdg.cn^
 ||agentogel4d.com^
-||ad.aginomoto.com^
 ||data-reporting.agora.io^
 ||logservice.agora.io^
 ||logservice-north-america.agora.io^
@@ -2693,7 +2685,6 @@
 ||d-markets.net^
 ||ggjs.d17.cc^
 ||d5r.icu^
-||d600.cn^
 ||ee.d6s2pn5t.cn^
 ||m.d6s2pn5t.cn^
 ||d99q.cn^
@@ -3114,6 +3105,7 @@
 ||bdstatic.eastmoney.com^
 ||bduserlog.eastmoney.com^
 ||bdwblog.eastmoney.com^
+||cmsjs.eastmoney.com^
 ||cp.eastmoney.com^
 ||cp2.eastmoney.com^
 ||emdcadvertise.eastmoney.com^
@@ -3375,7 +3367,6 @@
 ||api-fp-retry-sa.fengkongcloud.com^
 ||cloudconf.fengkongcloud.com^
 ||fp-it.fengkongcloud.com^
-||fp-it-acc.fengkongcloud.com^
 ||fp-it-tracker.fengkongcloud.com^
 ||fp-na-it-acc.fengkongcloud.com^
 ||fp-sa-it.fengkongcloud.com^
@@ -3544,7 +3535,6 @@
 ||click.gamersky.com^
 ||ja.gamersky.com^
 ||ja1.gamersky.com^
-||ja2.gamersky.com^
 ||wmbd.gamersky.com^
 ||gangda.info^
 ||jiaoben.ganji.cn^
@@ -4099,7 +4089,6 @@
 ||analytics.shop.hisense.com^
 ||api-4know-em.hismarttv.com^
 ||api-4know-eu.hismarttv.com^
-||api-cloudfalcon.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
@@ -4109,7 +4098,6 @@
 ||api-launcher-eu.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-launcher-sa.hismarttv.com^
-||api-vidaaasst.hismarttv.com^
 ||api.eu.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||auth-eu.hismarttv.com^
@@ -5141,7 +5129,6 @@
 ||log.kuwo.cn^
 ||log1.kuwo.cn^
 ||mobilead.kuwo.cn^
-||nmobi.kuwo.cn^
 ||rich.kuwo.cn^
 ||updatepage.kuwo.cn^
 ||wa.kuwo.cn^
@@ -6156,7 +6143,6 @@
 ||country.oqwenjg.cn^
 ||oqyiapj.cn^
 ||sl-tk.oray.com^
-||tk.oray.com^
 ||sl-log.oray.net^
 ||oriental-et.com^
 ||c.originz.cn^
@@ -6180,7 +6166,6 @@
 ||apps2.outfit7.com^
 ||at-af.outfit7.com^
 ||bidder.dsp.outfit7.com^
-||events-api-ak.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
 ||revive.outin.cn^
 ||ouyaoxiazai.com^
@@ -8658,7 +8643,6 @@
 ||wangzhan5.com^
 ||analytics.wanmei.com^
 ||analytics-gw.games.wanmei.com^
-||dlog.wanmei.com^
 ||h5.wannaplay.cn^
 ||m.wantemachine.com.cn^
 ||a.wanzhuang.com^
@@ -8720,7 +8704,6 @@
 ||royalbankofca5.wecom.work^
 ||royalbankofca6.wecom.work^
 ||weddingeeos.com^
-||event.wedobest.com.cn^
 ||event.stat.wedobest.com.cn^
 ||dns.weibo.cn^
 ||dp.im.weibo.cn^
@@ -9312,7 +9295,6 @@
 ||xn--suki-uf1gk54ba.cn^
 ||xn--swt207gl1hzc.net^
 ||xn--w9q675dm1p7em.net^
-||ads.xn--wxtr44c.live^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xp3366.com^
@@ -9648,7 +9630,6 @@
 ||myes.youku.com^
 ||orange-dc.youku.com^
 ||pcapp-data-collect.youku.com^
-||pis-tel-pcdn.youku.com^
 ||pl.youku.com^
 ||player-lg.youku.com^
 ||playlog.youku.com^

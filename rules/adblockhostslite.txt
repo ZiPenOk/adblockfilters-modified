@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250917163418
-# Last modified: 2025/09/17 16:34:18
-# Blocked domains: 10092
+# Version: 20250918003245
+# Last modified: 2025/09/18 00:32:45
+# Blocked domains: 10073
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -91,7 +91,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.201.227.94
 0.0.0.0	101.33.235.96
 0.0.0.0	101.34.66.77
-0.0.0.0	101.43.166.60
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -171,7 +170,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	124.221.29.185
 0.0.0.0	124.222.151.47
 0.0.0.0	124.223.199.39
-0.0.0.0	124.223.54.248
 0.0.0.0	124.248.66.227
 0.0.0.0	ent1.12584.cn
 0.0.0.0	health1.12584.cn
@@ -561,7 +559,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.104.144.93
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
-0.0.0.0	47.106.229.212
 0.0.0.0	47.108.63.64
 0.0.0.0	47.109.48.57
 0.0.0.0	47.109.77.84
@@ -569,14 +566,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.93.252
 0.0.0.0	47.113.217.92
 0.0.0.0	47.120.32.72
-0.0.0.0	47.120.46.210
 0.0.0.0	47.122.30.177
 0.0.0.0	47.92.192.154
 0.0.0.0	47.93.28.103
-0.0.0.0	47.96.13.97
 0.0.0.0	47.97.118.238
 0.0.0.0	47.97.125.50
-0.0.0.0	47.98.136.161
 0.0.0.0	47.98.224.91
 0.0.0.0	m.479db.cn
 0.0.0.0	49.234.48.162
@@ -1093,7 +1087,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.134.199.119
 0.0.0.0	8.134.51.218
 0.0.0.0	8.137.114.210
-0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
 0.0.0.0	8.153.97.202
@@ -1366,7 +1359,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	afopr.cn
 0.0.0.0	afterdg.cn
 0.0.0.0	agentogel4d.com
-0.0.0.0	ad.aginomoto.com
 0.0.0.0	data-reporting.agora.io
 0.0.0.0	logservice.agora.io
 0.0.0.0	logservice-north-america.agora.io
@@ -2707,7 +2699,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	d-markets.net
 0.0.0.0	ggjs.d17.cc
 0.0.0.0	d5r.icu
-0.0.0.0	d600.cn
 0.0.0.0	ee.d6s2pn5t.cn
 0.0.0.0	m.d6s2pn5t.cn
 0.0.0.0	d99q.cn
@@ -3128,6 +3119,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdstatic.eastmoney.com
 0.0.0.0	bduserlog.eastmoney.com
 0.0.0.0	bdwblog.eastmoney.com
+0.0.0.0	cmsjs.eastmoney.com
 0.0.0.0	cp.eastmoney.com
 0.0.0.0	cp2.eastmoney.com
 0.0.0.0	emdcadvertise.eastmoney.com
@@ -3389,7 +3381,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-fp-retry-sa.fengkongcloud.com
 0.0.0.0	cloudconf.fengkongcloud.com
 0.0.0.0	fp-it.fengkongcloud.com
-0.0.0.0	fp-it-acc.fengkongcloud.com
 0.0.0.0	fp-it-tracker.fengkongcloud.com
 0.0.0.0	fp-na-it-acc.fengkongcloud.com
 0.0.0.0	fp-sa-it.fengkongcloud.com
@@ -3558,7 +3549,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.gamersky.com
 0.0.0.0	ja.gamersky.com
 0.0.0.0	ja1.gamersky.com
-0.0.0.0	ja2.gamersky.com
 0.0.0.0	wmbd.gamersky.com
 0.0.0.0	gangda.info
 0.0.0.0	jiaoben.ganji.cn
@@ -4113,7 +4103,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.shop.hisense.com
 0.0.0.0	api-4know-em.hismarttv.com
 0.0.0.0	api-4know-eu.hismarttv.com
-0.0.0.0	api-cloudfalcon.hismarttv.com
 0.0.0.0	api-gps.hismarttv.com
 0.0.0.0	api-gps-em.hismarttv.com
 0.0.0.0	api-gps-eu.hismarttv.com
@@ -4123,7 +4112,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-launcher-eu.hismarttv.com
 0.0.0.0	api-launcher-na.hismarttv.com
 0.0.0.0	api-launcher-sa.hismarttv.com
-0.0.0.0	api-vidaaasst.hismarttv.com
 0.0.0.0	api.eu.hismarttv.com
 0.0.0.0	auth-em.hismarttv.com
 0.0.0.0	auth-eu.hismarttv.com
@@ -5155,7 +5143,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.kuwo.cn
 0.0.0.0	log1.kuwo.cn
 0.0.0.0	mobilead.kuwo.cn
-0.0.0.0	nmobi.kuwo.cn
 0.0.0.0	rich.kuwo.cn
 0.0.0.0	updatepage.kuwo.cn
 0.0.0.0	wa.kuwo.cn
@@ -6170,7 +6157,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	country.oqwenjg.cn
 0.0.0.0	oqyiapj.cn
 0.0.0.0	sl-tk.oray.com
-0.0.0.0	tk.oray.com
 0.0.0.0	sl-log.oray.net
 0.0.0.0	oriental-et.com
 0.0.0.0	c.originz.cn
@@ -6194,7 +6180,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	apps2.outfit7.com
 0.0.0.0	at-af.outfit7.com
 0.0.0.0	bidder.dsp.outfit7.com
-0.0.0.0	events-api-ak.outfit7.com
 0.0.0.0	hb-af-us-central1.outfit7.com
 0.0.0.0	revive.outin.cn
 0.0.0.0	ouyaoxiazai.com
@@ -8672,7 +8657,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wangzhan5.com
 0.0.0.0	analytics.wanmei.com
 0.0.0.0	analytics-gw.games.wanmei.com
-0.0.0.0	dlog.wanmei.com
 0.0.0.0	h5.wannaplay.cn
 0.0.0.0	m.wantemachine.com.cn
 0.0.0.0	a.wanzhuang.com
@@ -8734,7 +8718,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	royalbankofca5.wecom.work
 0.0.0.0	royalbankofca6.wecom.work
 0.0.0.0	weddingeeos.com
-0.0.0.0	event.wedobest.com.cn
 0.0.0.0	event.stat.wedobest.com.cn
 0.0.0.0	dns.weibo.cn
 0.0.0.0	dp.im.weibo.cn
@@ -9326,7 +9309,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xn--suki-uf1gk54ba.cn
 0.0.0.0	xn--swt207gl1hzc.net
 0.0.0.0	xn--w9q675dm1p7em.net
-0.0.0.0	ads.xn--wxtr44c.live
 0.0.0.0	xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0	xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0	xp3366.com
@@ -9662,7 +9644,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	myes.youku.com
 0.0.0.0	orange-dc.youku.com
 0.0.0.0	pcapp-data-collect.youku.com
-0.0.0.0	pis-tel-pcdn.youku.com
 0.0.0.0	pl.youku.com
 0.0.0.0	player-lg.youku.com
 0.0.0.0	playlog.youku.com
