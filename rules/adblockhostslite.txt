@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250918003245
-# Last modified: 2025/09/18 00:32:45
-# Blocked domains: 10073
+# Version: 20250918095530
+# Last modified: 2025/09/18 09:55:30
+# Blocked domains: 10068
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -89,8 +89,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.126.11.168
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
-0.0.0.0	101.33.235.96
 0.0.0.0	101.34.66.77
+0.0.0.0	101.43.166.60
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -133,7 +133,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.83.6
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
-0.0.0.0	118.31.173.19
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
 0.0.0.0	118office.cn
@@ -159,7 +158,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	js1.122cha.com
 0.0.0.0	123.57.166.174
 0.0.0.0	123.57.250.154
-0.0.0.0	123.99.198.195
 0.0.0.0	ad.12306.cn
 0.0.0.0	12322app.com
 0.0.0.0	123cha.com
@@ -566,11 +564,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.93.252
 0.0.0.0	47.113.217.92
 0.0.0.0	47.120.32.72
+0.0.0.0	47.120.46.210
 0.0.0.0	47.122.30.177
 0.0.0.0	47.92.192.154
 0.0.0.0	47.93.28.103
+0.0.0.0	47.96.13.97
 0.0.0.0	47.97.118.238
 0.0.0.0	47.97.125.50
+0.0.0.0	47.98.136.161
 0.0.0.0	47.98.224.91
 0.0.0.0	m.479db.cn
 0.0.0.0	49.234.48.162
@@ -1087,10 +1088,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.134.199.119
 0.0.0.0	8.134.51.218
 0.0.0.0	8.137.114.210
+0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
 0.0.0.0	8.153.97.202
-0.0.0.0	8.154.18.17
 0.0.0.0	8020home.com.cn
 0.0.0.0	www.805m.com
 0.0.0.0	80vn.cn
@@ -1410,7 +1411,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yddgh.aiquna.com.cn
 0.0.0.0	airad.com
 0.0.0.0	aircsgo.com
-0.0.0.0	airpushmarketing.s3.amazonaws.com
 0.0.0.0	agn.aty.snmsohu.aisee.tv
 0.0.0.0	m.aty.snmsohu.aisee.tv
 0.0.0.0	mmg.aty.snmsohu.aisee.tv
@@ -3369,8 +3369,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	job2.fdwehzitx.cn
 0.0.0.0	1.feihua.com
 0.0.0.0	wmeng.feihuadns.com
-0.0.0.0	c.feilan5.cn
-0.0.0.0	v.feilan5.cn
 0.0.0.0	wq.feiniaoai.cn
 0.0.0.0	m.feipaihehuoren.cn
 0.0.0.0	feitian001.com
@@ -4763,7 +4761,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.jg59q.cn
 0.0.0.0	jglinks.cn
 0.0.0.0	jgmlink.cn
-0.0.0.0	jgoffice.com.cn
 0.0.0.0	jgshare.cn
 0.0.0.0	app.jgyee.com
 0.0.0.0	jgygtv.cn
@@ -7014,7 +7011,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rvzlobj.cn
 0.0.0.0	rwpt.top
 0.0.0.0	rwsignal.com
-0.0.0.0	rwyxf.cn
 0.0.0.0	c.rxconkz.cn
 0.0.0.0	v.rxconkz.cn
 0.0.0.0	rxfygd.cn
@@ -8259,7 +8255,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	urlqh.cn
 0.0.0.0	usn.cc
 0.0.0.0	usrzh.cn
-0.0.0.0	www.etax.usvlg.cn
 0.0.0.0	wap.utmei.cn
 0.0.0.0	utywsi.cn
 0.0.0.0	app.uu.cc
