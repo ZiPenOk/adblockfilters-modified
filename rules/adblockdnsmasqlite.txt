@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250918163406
-# Last modified: 2025/09/18 16:34:06
-# Blocked domains: 10011
+# Version: 20250919003239
+# Last modified: 2025/09/19 00:32:39
+# Blocked domains: 10006
 #
 local=/395131115419474531.002.sh.cn/
 local=/00xvppy.cn/
@@ -58,8 +58,6 @@ local=/100tone.com/
 local=/101.126.11.168/
 local=/101.132.131.225/
 local=/101.201.227.94/
-local=/101.34.66.77/
-local=/101.43.166.60/
 local=/101.43.49.183/
 local=/2.1010pic.com/
 local=/103.40.13.122/
@@ -103,7 +101,6 @@ local=/118office.cn/
 local=/bj1.118pan.com/
 local=/119.91.203.199/
 local=/120.25.163.165/
-local=/120.77.253.240/
 local=/analysis.120ask.com/
 local=/ax.120ask.com/
 local=/eclick.120ask.com/
@@ -222,7 +219,6 @@ local=/169bj.cn/
 local=/17173.com/
 local=/s.17173cdn.com/
 local=/175.1.189.168/
-local=/175.178.112.168/
 local=/175bar.com/
 local=/178gg.com/
 local=/trk1.17admob.com/
@@ -1068,8 +1064,6 @@ local=/13023.url.7wkw.com/
 local=/7x24s.com/
 local=/cp.7y7.com/
 local=/7ywl.com/
-local=/8.130.49.29/
-local=/8.130.74.111/
 local=/8.131.63.6/
 local=/8.134.199.119/
 local=/8.134.51.218/
@@ -1225,6 +1219,7 @@ local=/a910445285.cn/
 local=/a9v8.cn/
 local=/aa88691468.cn/
 local=/aaalian.com/
+local=/aaaweb.cn/
 local=/aafanke.cc/
 local=/aaoffice.cn/
 local=/aazcio.cn/
