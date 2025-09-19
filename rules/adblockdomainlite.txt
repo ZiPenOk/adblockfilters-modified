@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250919163422
-! Last modified: 2025/09/19 16:34:22
-! Blocked domains: 10479
+! Version: 20250920003200
+! Last modified: 2025/09/20 00:32:00
+! Blocked domains: 10465
 !
 00-gov.cn
 0010jz.com
@@ -69,7 +69,6 @@ m.0uk9e.cn
 0x5.me
 1-bmo-client-login.com
 1.15.134.238
-1.15.174.189
 10000xing.cn
 1000su.com
 1717.1000uc.com
@@ -95,7 +94,6 @@ sdc.10086.cn
 106.14.68.26
 106.52.208.143
 106.54.239.134
-106.75.214.122
 107788.com
 adm.10jqka.com.cn
 stat.10jqka.com.cn
@@ -130,7 +128,6 @@ appversion.115.com
 117.72.83.6
 118.178.133.241
 118.25.68.152
-118.31.173.19
 118678.com
 1188.com
 11888vip.cn
@@ -264,7 +261,6 @@ tz.1688988.com
 1.17110.com
 17173.com
 s.17173cdn.com
-175.1.189.168
 175bar.com
 178gg.com
 trk1.17admob.com
@@ -579,14 +575,10 @@ stat.api.4399.com
 47.109.77.84
 47.109.90.134
 47.109.93.252
-47.113.217.92
-47.117.174.198
-47.119.34.138
 47.120.32.72
 47.120.46.210
 47.120.70.161
 47.122.30.177
-47.92.192.154
 47.93.28.103
 47.96.13.97
 47.97.118.238
@@ -2919,6 +2911,7 @@ net.daraz.pk
 darm.cn
 sgtm.darryring.com
 dartsearch-cn.net
+clickserve.dartsearch.net
 darwin.red
 dashantechan.cn
 dashet.com
@@ -3131,7 +3124,6 @@ jspassport.ssl.qhimg.com.cdn.dnsv1.com
 v1-feed-ad.ap4r.com.cdn.dnsv1.com
 dnyzbp.cn
 do-global.com
-stat.doc88.com
 info.meihua.docer.com
 fpb.docin.com
 zx.docin.com
@@ -3201,7 +3193,6 @@ zhgg.dre8.com
 zhggw.dre8.com
 adm.dreamad.mobi
 dreamfull.cn
-drivethelife.com
 drqft.cn
 email-verification-tbw2hsczpwmnv0lvrtfpuq-authentification.on.drv.tw
 drxrc.com
@@ -6152,7 +6143,6 @@ mxevdii.cn
 m.mxguan.com
 my-hr.cn
 fdc.my0511.com
-ads.api.my7v.com
 hwads-t.api.my7v.com
 testads.api.my7v.com
 apiyd.my91app.com
@@ -7035,8 +7025,6 @@ omgid.qq.com
 omgmta1.qq.com
 openapi.guanjia.qq.com
 openmsf.3g.qq.com
-oth.eve.mdt.qq.com
-oth.str.mdt.qq.com
 p.store.qq.com
 p2p.qq.com
 p2pupdate.gamedl.qq.com
@@ -7696,7 +7684,6 @@ m.skspt.cn
 c.skwenq.cn
 v.skwenq.cn
 skyjh.cn
-clog.skysrt.com
 sleepmed.cn
 sljiaobanji.cn
 sljkj.com
@@ -10059,7 +10046,6 @@ photo.yqydjr.cn
 yrszy.com.cn
 ys630.com
 ys6ot.cn
-ad-material.ys7.com
 log.ys7.com
 seriesfaction.ysao3o8.cn
 ysdqww.com
