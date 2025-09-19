@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250919003239
-! Last modified: 2025/09/19 00:32:39
-! Blocked domains: 10006
+! Version: 20250919095851
+! Last modified: 2025/09/19 09:58:51
+! Blocked domains: 9984
 !
 395131115419474531.002.sh.cn
 00xvppy.cn
@@ -21,7 +21,6 @@ coach.028csc.com
 028office.cn
 028office.com.cn
 036e.cn
-0411dd.com
 0434j.cn
 0512pifa.com.cn
 lkbf.0532ci.com.cn
@@ -503,7 +502,6 @@ ios-pclog.3u.com
 4009997658.com
 m.408uo.cn
 41grk.icu
-42.239.247.206
 426g.com
 43.143.123.40
 43.226.39.44
@@ -528,7 +526,6 @@ stat.api.4399.com
 47.96.13.97
 47.97.118.238
 47.97.125.50
-47.98.136.161
 47.98.224.91
 m.479db.cn
 49.234.48.162
@@ -642,7 +639,6 @@ dl.1003b.56a.com
 img2.578965.com
 js.578965.com
 58.216.207.82
-58.87.92.169
 adshow.58.com
 adtrack.58.com
 advert.58.com
@@ -945,7 +941,6 @@ v.76768hwj.cn
 77874.xyz
 77875.xyz
 77879.xyz
-778831.com
 77884.xyz
 77885.xyz
 77886.xyz
@@ -2333,7 +2328,6 @@ changshuohr.net
 chaojilamei.cn
 chaoliangyun.com
 analysis.chatglm.cn
-chatterzx.cn
 ssgg.chazidian.com
 yong.chazidian.com
 bdasd.chdbook.cn
@@ -3482,7 +3476,6 @@ fy6x8o.cn
 fyjyhm.com
 bixia.fymm.cn
 fywuywf.cn
-fzdqjn.cn
 fzgetdy.cn
 c.fzjarow.cn
 v.fzjarow.cn
@@ -3719,7 +3712,6 @@ gqdfgyz.cn
 cms.grandcloud.cn
 download.grandcloud.cn
 analytics.granddongshan.com
-greatgo.cn
 greenprints.org.cn
 z.grfyw.com
 gridsum.com
@@ -4125,7 +4117,6 @@ hoodor.com
 hopemobi.net
 hot-stories.cn
 om.hotels.cn
-hotrofer.cn
 hotslotpot.cn
 ad.house365.com
 adadmin.house365.com
@@ -4590,7 +4581,6 @@ ivzfpwm.cn
 iwb.com.cn
 ad.iwhop.cn
 tracking.iwhop.cn
-ixeajki.cn
 ixelrsd.cn
 api5-normal-quic-lf.ixigua.com
 search.ixigua.com
@@ -5272,7 +5262,6 @@ log.liepin.com
 lieqitianxia.cn
 lieying.cn
 ligfdjnfd.cn
-light-player.com
 lihongli5.cn
 lilangdianqi.cn
 limkokwing-edu.cn
@@ -5344,13 +5333,6 @@ lovecar.net.cn
 49453k0l.vs.loveota.com
 game.loveota.com
 sdk.loveota.net
-lovewomenfree10.cn
-lovewomenfree2.cn
-lovewomenfree4.cn
-lovewomenfree6.cn
-lovewomenfree7.cn
-lovewomenfree8.cn
-lovewomenfree9.cn
 dlimg.lovfp.com
 lowadec.cn
 lozmtk.cn
@@ -5811,7 +5793,6 @@ myad.cn
 iuou.myadobe.cn
 a.myapp.com
 sqdd.myapp.com
-mybesttube.cn
 mycleanmymac.com
 icons.mydrivers.com
 myfeng.cn
@@ -6924,7 +6905,6 @@ robotbobot.cn
 a.rohde-schwarz.com.cn
 metrics.rolex.cn
 rolexmenwatchescopy.cn
-romsoftware.cn
 midas.rong360.com
 rongangongzu.cn
 feedback.cn.ronghub.com
@@ -8693,7 +8673,6 @@ wghjq.cn
 wgnpq.com
 wgpjz.cn
 whalecloud.com
-web.whatsapp-sp.com.cn
 whbmy.com
 whoclick.cn
 wholefreshposts.com
@@ -9701,7 +9680,6 @@ z21h.xyz
 z21l.xyz
 z3zex.icu
 m.z83rj.cn
-z8berdr.cn
 z8o.cn
 z9k7.icu
 za5.net
