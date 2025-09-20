@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250920003200
-! Last modified: 2025/09/20 00:32:00
-! Blocked domains: 10465
+! Version: 20250920095356
+! Last modified: 2025/09/20 09:53:56
+! Blocked domains: 10451
 !
 00-gov.cn
 0010jz.com
@@ -69,6 +69,7 @@ m.0uk9e.cn
 0x5.me
 1-bmo-client-login.com
 1.15.134.238
+1.15.174.189
 10000xing.cn
 1000su.com
 1717.1000uc.com
@@ -117,7 +118,6 @@ oss-asq-static.11222.cn
 115.159.149.113
 appversion.115.com
 115fx.com
-117.157.17.194
 117.50.194.20
 117.72.102.110
 117.72.184.172
@@ -261,6 +261,7 @@ tz.1688988.com
 1.17110.com
 17173.com
 s.17173cdn.com
+175.1.189.168
 175bar.com
 178gg.com
 trk1.17admob.com
@@ -568,15 +569,14 @@ stat.api.4399.com
 47.104.144.93
 47.104.169.91
 47.104.173.216
-47.106.229.212
 47.108.217.44
 47.108.63.64
 47.109.48.57
 47.109.77.84
 47.109.90.134
 47.109.93.252
-47.120.32.72
-47.120.46.210
+47.113.217.92
+47.119.34.138
 47.120.70.161
 47.122.30.177
 47.93.28.103
@@ -1608,7 +1608,6 @@ pcookie.aliexpress.com
 aemetrics.aliexpress.ru
 cddp-track.aligames.com
 g.aligames.com
-optimus-ads.amap.com.w.alikunlun.com
 acookie.alimama.com
 afpeng.alimama.com
 afpssp.alimama.com
@@ -2906,12 +2905,10 @@ daoyoudao.com
 s1.dapenti.com
 daque.cn
 daraz.com
-marketing.net.daraz.lk
 net.daraz.pk
 darm.cn
 sgtm.darryring.com
 dartsearch-cn.net
-clickserve.dartsearch.net
 darwin.red
 dashantechan.cn
 dashet.com
@@ -3124,6 +3121,7 @@ jspassport.ssl.qhimg.com.cdn.dnsv1.com
 v1-feed-ad.ap4r.com.cdn.dnsv1.com
 dnyzbp.cn
 do-global.com
+stat.doc88.com
 info.meihua.docer.com
 fpb.docin.com
 zx.docin.com
@@ -3193,6 +3191,7 @@ zhgg.dre8.com
 zhggw.dre8.com
 adm.dreamad.mobi
 dreamfull.cn
+drivethelife.com
 drqft.cn
 email-verification-tbw2hsczpwmnv0lvrtfpuq-authentification.on.drv.tw
 drxrc.com
@@ -3328,7 +3327,6 @@ eddong.com
 etihad-vrs21rnod1.edgeone.app
 flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 pdfworknew-6d9lnfzqgb.edgeone.app
-powerful-tan-ks8mpqad9l-w2r56ynb1z.edgeone.app
 southwestnortheast-ixmbuce0q6.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
@@ -3414,7 +3412,6 @@ m.epoch168.com
 lib.eqh5.com
 eavs02.eqifa.com
 eqqi.cn
-integration.equans.cn
 sso.equans.cn
 stg.equans.cn
 eqw002.cn
@@ -3526,7 +3523,6 @@ show3.fang.com
 uv.wap.fang.com
 fangcunzhijian1.cn
 fangdalaw.gd.cn
-fangshe.cn
 fangyi.cn
 fanjis.cn
 fanqianbb.com
@@ -3676,7 +3672,6 @@ freedrive.cn
 dd1.freep.cn
 dd2.freep.cn
 fric.cn
-frwjiv.cn
 fsjjrbz.cn
 fsshengyuan.cn
 fsslg.com
@@ -5435,7 +5430,6 @@ kwqcd.cn
 kwsa.cn
 ky595images.com
 kychq.cn
-kyjlt.cn
 kystrains.com
 kzchyhr.cn
 kzdh.com
@@ -5665,7 +5659,6 @@ lolblog.cn
 lomark.cn
 kil.longkoupeanut.cn
 looyu.com
-lorprpx.cn
 m.louisan.cn
 lousecn.cn
 m.lousivency.com.cn
@@ -5679,7 +5672,6 @@ dlimg.lovfp.com
 lowadec.cn
 lozmtk.cn
 lpmzt.cn
-lrsdh.cn
 lrswl.com
 ny.lshdw.cc
 a1.lshou.com
@@ -5871,7 +5863,6 @@ a.mfcad.net
 mfcvxw.cn
 stayaire.mfuwwfzb.cn
 mgs123.com
-odml.ad.intl.xiaomi.com.mgslb.com
 mgsptv-live.cn
 audit.aaa.mgtv.com
 cmop.mgtv.com
@@ -6414,7 +6405,6 @@ officewinon.org.cn
 officex8.cn
 offshoreoilandgas.net
 orthistic.ofudnyza.cn
-ogtys0l.cn
 static.oh100.com
 e.ohuam.com
 apps5.oingo.com
@@ -7025,6 +7015,8 @@ omgid.qq.com
 omgmta1.qq.com
 openapi.guanjia.qq.com
 openmsf.3g.qq.com
+oth.eve.mdt.qq.com
+oth.str.mdt.qq.com
 p.store.qq.com
 p2p.qq.com
 p2pupdate.gamedl.qq.com
@@ -7563,7 +7555,6 @@ shuzijz.cn
 shuzilm.cn
 shwlyb.cn
 shxinjie.cn
-ads-monitoring.shziyi.com
 sibian.cn
 yun.sifuhe.cn
 sigmob.com
@@ -7873,10 +7864,8 @@ specialshapeshop.com
 speedhorse.site
 spinexpo.cn
 spkh.cn
-arnonym.spotify.com.cn
 cohorts.spotify.com.cn
 xn--6krsm155l.spotify.com.cn
-yasukichi.spotify.com.cn
 js.spreton.com
 y1.spreton.com
 sq59.cn
@@ -8486,7 +8475,6 @@ m.tzh019.cn
 n.tzh019.cn
 m.tzh315.cn
 n.tzh315.cn
-tzifuxp.cn
 tzlit.cn
 kn.tzsmab.cn
 tzstudy.com
@@ -9046,7 +9034,6 @@ wanfeng1.com
 wangbiaowangzhan.cn
 wanghejun.cn
 wangluoruanjian.com
-wangping721.com.cn
 mlog.wangsu.com
 wangyouxs.cn
 wangzhan5.com
@@ -10022,7 +10009,6 @@ ykad-gateway.youku.com
 ykrec.youku.com
 ykrectab.youku.com
 youku-crm-product.youku.com
-519332da.rtc.youme.im
 youmi.net
 report.ml.youngjoygame.com
 api.youngle.site
