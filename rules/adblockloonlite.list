@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/20 16:31:36
-#!support=10767
+#!date=2025/09/21 00:28:36
+#!support=10760
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -151,7 +151,6 @@ DOMAIN-SUFFIX,bdlm.120askimages.com
 DOMAIN-SUFFIX,bdwmhz.120askimages.com
 DOMAIN-SUFFIX,120jj.cn
 DOMAIN-SUFFIX,120soft.cn
-DOMAIN-SUFFIX,121.40.18.128
 DOMAIN-SUFFIX,121.41.167.80
 DOMAIN-SUFFIX,12291.com
 DOMAIN-SUFFIX,js1.122cha.com
@@ -275,7 +274,6 @@ DOMAIN-SUFFIX,1816soso.com
 DOMAIN-SUFFIX,eezdx.erc.18183.com
 DOMAIN-SUFFIX,img1.18183.com
 DOMAIN-SUFFIX,zpe.klre.18183.com
-DOMAIN-SUFFIX,182.113.1.52
 DOMAIN-SUFFIX,182.92.99.95
 DOMAIN-SUFFIX,photo.188kc.cn
 DOMAIN-SUFFIX,188office.com.cn
@@ -582,7 +580,6 @@ DOMAIN-SUFFIX,47.109.48.57
 DOMAIN-SUFFIX,47.109.77.84
 DOMAIN-SUFFIX,47.109.90.134
 DOMAIN-SUFFIX,47.109.93.252
-DOMAIN-SUFFIX,47.113.217.92
 DOMAIN-SUFFIX,47.119.34.138
 DOMAIN-SUFFIX,47.120.70.161
 DOMAIN-SUFFIX,47.122.30.177
@@ -1199,7 +1196,6 @@ DOMAIN-SUFFIX,7ywl.com
 DOMAIN-SUFFIX,8.131.63.6
 DOMAIN-SUFFIX,8.134.199.119
 DOMAIN-SUFFIX,8.134.51.218
-DOMAIN-SUFFIX,8.137.114.210
 DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
@@ -3246,7 +3242,6 @@ DOMAIN-SUFFIX,bjzhwx.dre8.com
 DOMAIN-SUFFIX,wxggtg.dre8.com
 DOMAIN-SUFFIX,zhgg.dre8.com
 DOMAIN-SUFFIX,zhggw.dre8.com
-DOMAIN-SUFFIX,adm.dreamad.mobi
 DOMAIN-SUFFIX,dreamfull.cn
 DOMAIN-SUFFIX,drivethelife.com
 DOMAIN-SUFFIX,drqft.cn
@@ -3613,7 +3608,6 @@ DOMAIN-SUFFIX,fbqrt.cn
 DOMAIN-SUFFIX,fca6f.icu
 DOMAIN-SUFFIX,aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
 DOMAIN-SUFFIX,api-pyciglnrcf.cn-beijing.fcapp.run
-DOMAIN-SUFFIX,cngov-gov-xejpcmqhyb.cn-shanghai.fcapp.run
 DOMAIN-SUFFIX,demo-ztxhfeoqql.cn-hangzhou.fcapp.run
 DOMAIN-SUFFIX,helloworld-aogxlrocvl.cn-hangzhou.fcapp.run
 DOMAIN-SUFFIX,image-oieeodlcsb.cn-hangzhou.fcapp.run
@@ -3813,7 +3807,6 @@ DOMAIN-SUFFIX,simulatelab-datasink.fzzixun.com
 DOMAIN-SUFFIX,xyoss.g.com.cn
 DOMAIN-SUFFIX,m.g1ao7q.cn
 DOMAIN-SUFFIX,r01.g1c5.com
-DOMAIN-SUFFIX,h.g1d.net
 DOMAIN-SUFFIX,ppva.g1d.net
 DOMAIN-SUFFIX,video-va.g1d.net
 DOMAIN-SUFFIX,g2q3e.cn

@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250920163136
-! Last modified: 2025/09/20 16:31:36
-! Blocked domains: 10767
+! Version: 20250921002836
+! Last modified: 2025/09/21 00:28:36
+! Blocked domains: 10760
 !
 00-gov.cn
 0010jz.com
@@ -147,7 +147,6 @@ bdlm.120askimages.com
 bdwmhz.120askimages.com
 120jj.cn
 120soft.cn
-121.40.18.128
 121.41.167.80
 12291.com
 js1.122cha.com
@@ -271,7 +270,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.113.1.52
 182.92.99.95
 photo.188kc.cn
 188office.com.cn
@@ -578,7 +576,6 @@ stat.api.4399.com
 47.109.77.84
 47.109.90.134
 47.109.93.252
-47.113.217.92
 47.119.34.138
 47.120.70.161
 47.122.30.177
@@ -1195,7 +1192,6 @@ cp.7y7.com
 8.131.63.6
 8.134.199.119
 8.134.51.218
-8.137.114.210
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -3242,7 +3238,6 @@ bjzhwx.dre8.com
 wxggtg.dre8.com
 zhgg.dre8.com
 zhggw.dre8.com
-adm.dreamad.mobi
 dreamfull.cn
 drivethelife.com
 drqft.cn
@@ -3609,7 +3604,6 @@ fbqrt.cn
 fca6f.icu
 aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
 api-pyciglnrcf.cn-beijing.fcapp.run
-cngov-gov-xejpcmqhyb.cn-shanghai.fcapp.run
 demo-ztxhfeoqql.cn-hangzhou.fcapp.run
 helloworld-aogxlrocvl.cn-hangzhou.fcapp.run
 image-oieeodlcsb.cn-hangzhou.fcapp.run
@@ -3809,7 +3803,6 @@ simulatelab-datasink.fzzixun.com
 xyoss.g.com.cn
 m.g1ao7q.cn
 r01.g1c5.com
-h.g1d.net
 ppva.g1d.net
 video-va.g1d.net
 g2q3e.cn
