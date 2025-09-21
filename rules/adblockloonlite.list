@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/21 16:30:00
-#!support=10762
+#!date=2025/09/22 00:29:32
+#!support=10748
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -90,7 +90,6 @@ DOMAIN-SUFFIX,100tone.com
 DOMAIN-SUFFIX,101.126.11.168
 DOMAIN-SUFFIX,101.132.131.225
 DOMAIN-SUFFIX,101.201.227.94
-DOMAIN-SUFFIX,101.33.235.96
 DOMAIN-SUFFIX,101.43.49.183
 DOMAIN-SUFFIX,1.1010pic.com
 DOMAIN-SUFFIX,2.1010pic.com
@@ -584,9 +583,7 @@ DOMAIN-SUFFIX,47.109.48.57
 DOMAIN-SUFFIX,47.109.77.84
 DOMAIN-SUFFIX,47.109.90.134
 DOMAIN-SUFFIX,47.109.93.252
-DOMAIN-SUFFIX,47.113.217.92
 DOMAIN-SUFFIX,47.119.34.138
-DOMAIN-SUFFIX,47.120.46.210
 DOMAIN-SUFFIX,47.120.70.161
 DOMAIN-SUFFIX,47.122.30.177
 DOMAIN-SUFFIX,47.93.28.103
@@ -1210,7 +1207,6 @@ DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
 DOMAIN-SUFFIX,8.153.97.202
-DOMAIN-SUFFIX,8.154.18.17
 DOMAIN-SUFFIX,8020home.com.cn
 DOMAIN-SUFFIX,www.805m.com
 DOMAIN-SUFFIX,80vn.cn
@@ -1359,8 +1355,6 @@ DOMAIN-SUFFIX,a0c77.com
 DOMAIN-SUFFIX,tgd.a1eg07.cn
 DOMAIN-SUFFIX,a2m.cn
 DOMAIN-SUFFIX,a2wx.icu
-DOMAIN-SUFFIX,telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
-DOMAIN-SUFFIX,telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn
 DOMAIN-SUFFIX,a32a.com.cn
 DOMAIN-SUFFIX,a395813236.cn
 DOMAIN-SUFFIX,a3p4.net
@@ -1683,7 +1677,6 @@ DOMAIN-SUFFIX,beacon-api.aliyuncs.com
 DOMAIN-SUFFIX,bruplong.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,chaoku.oss-cn-chengdu.aliyuncs.com
-DOMAIN-SUFFIX,cngov.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,commondata.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
@@ -1718,7 +1711,6 @@ DOMAIN-SUFFIX,nlmrjnew.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,ossyqztest.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,overseas-ad-bucket.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,playing-music.oss-ap-southeast-7.aliyuncs.com
 DOMAIN-SUFFIX,r2001.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,retcode-sg-lazada.arms.aliyuncs.com
 DOMAIN-SUFFIX,ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
@@ -3189,7 +3181,6 @@ DOMAIN-SUFFIX,jspassport.ssl.qhimg.com.cdn.dnsv1.com
 DOMAIN-SUFFIX,v1-feed-ad.ap4r.com.cdn.dnsv1.com
 DOMAIN-SUFFIX,dnyzbp.cn
 DOMAIN-SUFFIX,do-global.com
-DOMAIN-SUFFIX,stat.doc88.com
 DOMAIN-SUFFIX,info.meihua.docer.com
 DOMAIN-SUFFIX,fpb.docin.com
 DOMAIN-SUFFIX,zx.docin.com
@@ -5637,7 +5628,6 @@ DOMAIN-SUFFIX,ads-uo.api.leiniao.com
 DOMAIN-SUFFIX,ads-ut.api.leiniao.com
 DOMAIN-SUFFIX,euads-o.api.leiniao.com
 DOMAIN-SUFFIX,update.lejiao.tv
-DOMAIN-SUFFIX,adm.leju.com
 DOMAIN-SUFFIX,src.leju.com
 DOMAIN-SUFFIX,staticadm.leju.com
 DOMAIN-SUFFIX,lejuliang.com
@@ -6451,7 +6441,6 @@ DOMAIN-SUFFIX,ggdm1.nhaidu.net
 DOMAIN-SUFFIX,nhfpdc.cn
 DOMAIN-SUFFIX,nhjsw.cn
 DOMAIN-SUFFIX,nigutfinernagi.info
-DOMAIN-SUFFIX,analytics.nike.com.cn
 DOMAIN-SUFFIX,nike666.com
 DOMAIN-SUFFIX,nikey.cn
 DOMAIN-SUFFIX,nimaxrv.cn
@@ -6514,7 +6503,6 @@ DOMAIN-SUFFIX,c.nuhcpf.com
 DOMAIN-SUFFIX,yasu.nunbae.cn
 DOMAIN-SUFFIX,ray2jing.808.nuno.cn
 DOMAIN-SUFFIX,log.nuomi.com
-DOMAIN-SUFFIX,ads.nuonuo.com
 DOMAIN-SUFFIX,metric.nuonuo.com
 DOMAIN-SUFFIX,nuxwlc.cn
 DOMAIN-SUFFIX,m.nuxyz.cn
@@ -8820,7 +8808,6 @@ DOMAIN-SUFFIX,a.umilu.com
 DOMAIN-SUFFIX,umiwi.com
 DOMAIN-SUFFIX,umkezbh.cn
 DOMAIN-SUFFIX,umm6.cn
-DOMAIN-SUFFIX,stat.umu.cn
 DOMAIN-SUFFIX,ccb.uncle-ad.com
 DOMAIN-SUFFIX,vhs.wwstat.com.eo.unicomcdn.com.cn
 DOMAIN-SUFFIX,unionli.com
@@ -9464,7 +9451,6 @@ DOMAIN-SUFFIX,go.pardot.wondershare.com
 DOMAIN-SUFFIX,helper-stats.wondershare.com
 DOMAIN-SUFFIX,platform.wondershare.com
 DOMAIN-SUFFIX,irurng.wondershare.jp
-DOMAIN-SUFFIX,matomo.wongcw.com
 DOMAIN-SUFFIX,woniu.com
 DOMAIN-SUFFIX,analytics.woozooo.com
 DOMAIN-SUFFIX,statics.woozooo.com

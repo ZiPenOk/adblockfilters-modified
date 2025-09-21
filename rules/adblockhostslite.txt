@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250921163000
-# Last modified: 2025/09/21 16:30:00
-# Blocked domains: 10762
+# Version: 20250922002932
+# Last modified: 2025/09/22 00:29:32
+# Blocked domains: 10748
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -101,7 +101,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.126.11.168
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
-0.0.0.0	101.33.235.96
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -595,9 +594,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.77.84
 0.0.0.0	47.109.90.134
 0.0.0.0	47.109.93.252
-0.0.0.0	47.113.217.92
 0.0.0.0	47.119.34.138
-0.0.0.0	47.120.46.210
 0.0.0.0	47.120.70.161
 0.0.0.0	47.122.30.177
 0.0.0.0	47.93.28.103
@@ -1221,7 +1218,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
 0.0.0.0	8.153.97.202
-0.0.0.0	8.154.18.17
 0.0.0.0	8020home.com.cn
 0.0.0.0	www.805m.com
 0.0.0.0	80vn.cn
@@ -1370,8 +1366,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tgd.a1eg07.cn
 0.0.0.0	a2m.cn
 0.0.0.0	a2wx.icu
-0.0.0.0	telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
-0.0.0.0	telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn
 0.0.0.0	a32a.com.cn
 0.0.0.0	a395813236.cn
 0.0.0.0	a3p4.net
@@ -1694,7 +1688,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bruplong.oss-accelerate.aliyuncs.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	chaoku.oss-cn-chengdu.aliyuncs.com
-0.0.0.0	cngov.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	commondata.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
@@ -1729,7 +1722,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	ossyqztest.oss-cn-beijing.aliyuncs.com
 0.0.0.0	overseas-ad-bucket.oss-cn-hongkong.aliyuncs.com
-0.0.0.0	playing-music.oss-ap-southeast-7.aliyuncs.com
 0.0.0.0	r2001.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	retcode-sg-lazada.arms.aliyuncs.com
 0.0.0.0	ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
@@ -3200,7 +3192,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	v1-feed-ad.ap4r.com.cdn.dnsv1.com
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
-0.0.0.0	stat.doc88.com
 0.0.0.0	info.meihua.docer.com
 0.0.0.0	fpb.docin.com
 0.0.0.0	zx.docin.com
@@ -5648,7 +5639,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads-ut.api.leiniao.com
 0.0.0.0	euads-o.api.leiniao.com
 0.0.0.0	update.lejiao.tv
-0.0.0.0	adm.leju.com
 0.0.0.0	src.leju.com
 0.0.0.0	staticadm.leju.com
 0.0.0.0	lejuliang.com
@@ -6462,7 +6452,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	nhfpdc.cn
 0.0.0.0	nhjsw.cn
 0.0.0.0	nigutfinernagi.info
-0.0.0.0	analytics.nike.com.cn
 0.0.0.0	nike666.com
 0.0.0.0	nikey.cn
 0.0.0.0	nimaxrv.cn
@@ -6525,7 +6514,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yasu.nunbae.cn
 0.0.0.0	ray2jing.808.nuno.cn
 0.0.0.0	log.nuomi.com
-0.0.0.0	ads.nuonuo.com
 0.0.0.0	metric.nuonuo.com
 0.0.0.0	nuxwlc.cn
 0.0.0.0	m.nuxyz.cn
@@ -8831,7 +8819,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	umiwi.com
 0.0.0.0	umkezbh.cn
 0.0.0.0	umm6.cn
-0.0.0.0	stat.umu.cn
 0.0.0.0	ccb.uncle-ad.com
 0.0.0.0	vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0	unionli.com
@@ -9475,7 +9462,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	helper-stats.wondershare.com
 0.0.0.0	platform.wondershare.com
 0.0.0.0	irurng.wondershare.jp
-0.0.0.0	matomo.wongcw.com
 0.0.0.0	woniu.com
 0.0.0.0	analytics.woozooo.com
 0.0.0.0	statics.woozooo.com
