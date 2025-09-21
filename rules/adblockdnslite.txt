@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250921002835
-! Last modified: 2025/09/21 00:28:35
-! Blocked domains: 10760
+! Version: 20250921100642
+! Last modified: 2025/09/21 10:06:42
+! Blocked domains: 10733
 ! unBlocked domains: 52
 !
 ||00-gov.cn^
@@ -69,7 +69,6 @@
 ||0x5.me^
 ||1-bmo-client-login.com^
 ||1.15.134.238^
-||1.15.174.189^
 ||10000xing.cn^
 ||1000su.com^
 ||enrichgw.10010.com^
@@ -135,7 +134,6 @@
 ||118office.cn^
 ||bj1.118pan.com^
 ||119.91.203.199^
-||120.25.163.165^
 ||analysis.120ask.com^
 ||ax.120ask.com^
 ||eclick.120ask.com^
@@ -336,7 +334,6 @@
 ||220.180.255.224^
 ||222.187.223.34^
 ||222aa333bb.com^
-||228tuchuang.com^
 ||233599.com^
 ||233wo.com^
 ||2345.cc^
@@ -577,6 +574,7 @@
 ||47.109.77.84^
 ||47.109.90.134^
 ||47.109.93.252^
+||47.113.217.92^
 ||47.119.34.138^
 ||47.120.70.161^
 ||47.122.30.177^
@@ -584,7 +582,6 @@
 ||47.96.13.97^
 ||47.97.118.238^
 ||47.97.125.50^
-||47.98.136.161^
 ||47.98.224.91^
 ||47.99.125.121^
 ||m.479db.cn^
@@ -665,7 +662,6 @@
 ||52pk.com^
 ||adm.52swine.com^
 ||52xiyou.com^
-||api.52youtu.com^
 ||52z.com^
 ||a.52zxw.com^
 ||53kf.com^
@@ -820,7 +816,6 @@
 ||m.6z1gf.cn^
 ||700ok.net^
 ||711983.com^
-||71504.xyz^
 ||trail.71baomu.com^
 ||alicoccdncnc-xn.inter.71edge.com^
 ||alicoccdnct-xn.inter.71edge.com^
@@ -1182,7 +1177,6 @@
 ||7kjiiu.cn^
 ||cysd.7kww.net^
 ||tj.7kww.net^
-||7mkead6.cn^
 ||7moor.com^
 ||7r227ut.cn^
 ||7ssw.cn^
@@ -1193,6 +1187,7 @@
 ||8.131.63.6^
 ||8.134.199.119^
 ||8.134.51.218^
+||8.137.114.210^
 ||8.138.182.17^
 ||8.140.239.162^
 ||8.141.15.227^
@@ -3386,7 +3381,6 @@
 ||webmail-ahu9fi8hu2.edgeone.app^
 ||webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app^
 ||weerrtyy-i4on0bpgim.edgeone.app^
-||y495809jff50950-509-5585-444-44-gd8z5bwsxf.edgeone.app^
 ||ediuschina.com^
 ||edty.com^
 ||eduace.com.cn^
@@ -3516,11 +3510,7 @@
 ||ez33.org.cn^
 ||ez4q2.cn^
 ||analytics.ezbim.net^
-||qp.ezfxpuo.cn^
 ||ezucods.cn^
-||f0ma17l.cn^
-||f102m.xyz^
-||www.f108l.xyz^
 ||f116q.xyz^
 ||f116w.xyz^
 ||f117d.xyz^
@@ -4019,7 +4009,6 @@
 ||pagead-googlehosted.l.google.com^
 ||ssl-google-analytics.l.google.com^
 ||www-google-analytics.l.google.com^
-||www-googletagmanager.l.google.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googleanalytics.com^
@@ -4548,7 +4537,6 @@
 ||hstpnetwork.com^
 ||g.hsw.cn^
 ||hswfj.cn^
-||hsych.com^
 ||hsykj.net^
 ||ht55.cn^
 ||htgjkm.cn^
@@ -5350,7 +5338,6 @@
 ||e.kguaq.com^
 ||m.kguaq.com^
 ||khgj.cn^
-||ki7kfgf.cn^
 ||kiees.com^
 ||dl.kinbest.cn^
 ||king-oak.cn^
@@ -5443,7 +5430,6 @@
 ||api.kingdata.ksyun.com^
 ||hdns.ksyun.com^
 ||ssp.kss.ksyun.com^
-||kthliuy.cn^
 ||webstat.ktvme.com^
 ||ktzte.cn^
 ||ku6.com^
@@ -5946,7 +5932,6 @@
 ||analytics.meituan.net^
 ||data-sdk-uuid-log.d.meituan.net^
 ||dreport.meituan.net^
-||cloudcollect.meitudata.com^
 ||meitubeauty.meitudata.com^
 ||my-material.zone1.meitudata.com^
 ||stat.meitudata.com^
@@ -6159,7 +6144,6 @@
 ||update.avlyun.sec.miui.com^
 ||mj70.cn^
 ||mjmobi.com^
-||mjv8kei0.cn^
 ||trace.mjyx.com^
 ||mkqdj.cn^
 ||mo.mktrkn.cn^
@@ -6345,7 +6329,6 @@
 ||mzxl.org.cn^
 ||mzxun.com^
 ||fdsz.n27lw.cn^
-||www.n32c.xyz^
 ||n69.com^
 ||n85853.cn^
 ||na7.cc^
@@ -6438,7 +6421,6 @@
 ||nike666.com^
 ||nikey.cn^
 ||nimaxrv.cn^
-||down.nishuoa.com^
 ||nisihu.com.cn^
 ||nithisp.cn^
 ||taobao.niucha.ren^
@@ -6654,7 +6636,6 @@
 ||p188.cn^
 ||p2cdn.com^
 ||p555.cc^
-||p78q.xyz^
 ||p88e.xyz^
 ||p88h.xyz^
 ||p88s.xyz^
@@ -7540,7 +7521,6 @@
 ||s11.cn^
 ||s3d4.cn^
 ||m.s47e8.cn^
-||s59i.xyz^
 ||s76o.xyz^
 ||s77c.xyz^
 ||s77o.xyz^
@@ -8060,7 +8040,6 @@
 ||icn.southmoney.com^
 ||sowx.cn^
 ||space-nodes.com^
-||spbvdxt.cn^
 ||specialshapeshop.com^
 ||speedhorse.site^
 ||spinexpo.cn^
@@ -8806,7 +8785,6 @@
 ||umapi.cn^
 ||m.umbbs.cn^
 ||umeng.com^
-||gf.umenglog.com^
 ||analytics.umetrip.com^
 ||a.umilu.com^
 ||umiwi.com^
@@ -8845,8 +8823,6 @@
 ||uqixednews.info^
 ||c.uqjflmw.cn^
 ||v.uqjflmw.cn^
-||adscfg.uqualities.com^
-||adsoss.uqualities.com^
 ||uqz.com^
 ||urhu.cn^
 ||uri6.com^
@@ -9240,7 +9216,6 @@
 ||vzvvifw.cn^
 ||w010w.com.cn^
 ||vigensive.w0aouys.cn^
-||w17f.xyz^
 ||w25h.xyz^
 ||w25p.xyz^
 ||w25u.xyz^
@@ -9543,7 +9518,6 @@
 ||wzscales.com^
 ||a.wzu.com^
 ||x-steam.com^
-||www.x46n.xyz^
 ||x63b.xyz^
 ||x63e.xyz^
 ||x63n.xyz^
@@ -9683,6 +9657,7 @@
 ||console.admin.xmpush.xiaomi.com^
 ||controller.india.xiaomi.com^
 ||data.game.xiaomi.com^
+||data.mistat.xiaomi.com^
 ||de.pandora.xiaomi.com^
 ||dev.staging.api.developer.n.xiaomi.com^
 ||drm.market.xiaomi.com^
@@ -9779,6 +9754,7 @@
 ||static.game.xiaomi.com^
 ||stats-fm.music.xiaomi.com^
 ||stats.music.xiaomi.com^
+||storeconfig.mistat.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||t.app.xiaomi.com^
 ||t1.a.market.xiaomi.com^
@@ -10108,7 +10084,6 @@
 ||ycxjtd.com^
 ||yd126.com^
 ||kl.yditweb.cn^
-||ydktwsy.cn^
 ||andre21.ydns.eu^
 ||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
@@ -10332,7 +10307,6 @@
 ||yrszy.com.cn^
 ||ys630.com^
 ||ys6ot.cn^
-||log.ys7.com^
 ||seriesfaction.ysao3o8.cn^
 ||ysbaojia.com^
 ||ysdqww.com^
@@ -10509,7 +10483,6 @@
 ||td.zgxue.com^
 ||zh-amazon.cn^
 ||zh-imtoken.cn^
-||zh-imtoken.org.cn^
 ||zh-telegram-app.com.cn^
 ||zhads.com^
 ||guang1.zhakao.cn^
