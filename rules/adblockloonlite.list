@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/23 00:34:28
-#!support=10511
+#!date=2025/09/23 09:56:27
+#!support=10509
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -1263,7 +1263,6 @@ DOMAIN-SUFFIX,a395813236.cn
 DOMAIN-SUFFIX,a3p4.net
 DOMAIN-SUFFIX,a48505.cn
 DOMAIN-SUFFIX,a7shun.com
-DOMAIN-SUFFIX,a8eif8o.cn
 DOMAIN-SUFFIX,a8pck.cn
 DOMAIN-SUFFIX,cdntest.a8tiyu.com
 DOMAIN-SUFFIX,a910445285.cn
@@ -3271,7 +3270,6 @@ DOMAIN-SUFFIX,edurbadowiw.com
 DOMAIN-SUFFIX,ee035.cn
 DOMAIN-SUFFIX,eeeqi.cn
 DOMAIN-SUFFIX,mfo25978.eeo1h1.cn
-DOMAIN-SUFFIX,ppaixshuhw.sosiuweyahnbjgjsd.eeohlj.com
 DOMAIN-SUFFIX,eeryt111.fun
 DOMAIN-SUFFIX,eexlgyn.cn
 DOMAIN-SUFFIX,effectivehealthy.cn

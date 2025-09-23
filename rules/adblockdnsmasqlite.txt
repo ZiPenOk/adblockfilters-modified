@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250923003428
-# Last modified: 2025/09/23 00:34:28
-# Blocked domains: 10511
+# Version: 20250923095626
+# Last modified: 2025/09/23 09:56:26
+# Blocked domains: 10509
 #
 local=/00-gov.cn/
 local=/0010jz.com/
@@ -1259,7 +1259,6 @@ local=/a395813236.cn/
 local=/a3p4.net/
 local=/a48505.cn/
 local=/a7shun.com/
-local=/a8eif8o.cn/
 local=/a8pck.cn/
 local=/cdntest.a8tiyu.com/
 local=/a910445285.cn/
@@ -3267,7 +3266,6 @@ local=/edurbadowiw.com/
 local=/ee035.cn/
 local=/eeeqi.cn/
 local=/mfo25978.eeo1h1.cn/
-local=/ppaixshuhw.sosiuweyahnbjgjsd.eeohlj.com/
 local=/eeryt111.fun/
 local=/eexlgyn.cn/
 local=/effectivehealthy.cn/
