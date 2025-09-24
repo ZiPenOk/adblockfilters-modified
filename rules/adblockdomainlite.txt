@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250924163604
-! Last modified: 2025/09/24 16:36:04
-! Blocked domains: 11103
+! Version: 20250925003435
+! Last modified: 2025/09/25 00:34:35
+! Blocked domains: 11002
 !
 0010jz.com
 001office.cn
@@ -69,7 +69,6 @@ a1.0s.net.cn
 m.0uk9e.cn
 0x5.me
 1-bmo-client-login.com
-1.15.174.189
 10000xing.cn
 1000su.com
 1717.1000uc.com
@@ -85,16 +84,12 @@ sdc.10086.cn
 100hezi.com
 100tone.com
 101.126.11.168
-101.132.131.225
 101.201.227.94
-101.37.14.54
 101.43.49.183
 1.1010pic.com
 2.1010pic.com
-103.205.253.156
 103.40.13.122
 106.14.68.26
-106.52.208.143
 106.54.239.134
 107788.com
 adm.10jqka.com.cn
@@ -107,8 +102,6 @@ soft.110route.com
 111.231.23.22
 1.11130.com.cn
 oss-asq-static.11222.cn
-113.31.111.76
-113.98.201.248
 1133.cc
 114.55.106.136
 114.55.250.233
@@ -121,16 +114,13 @@ appversion.115.com
 115fx.com
 117.157.17.194
 117.50.194.20
-117.72.102.110
 117.72.184.172
 117.72.206.39
 117.72.218.179
 117.72.222.203
 117.72.36.133
-117.72.72.84
 117.72.83.6
 118.178.133.241
-118.25.68.152
 118678.com
 1188.com
 11888vip.cn
@@ -153,11 +143,8 @@ bdwmhz.120askimages.com
 120jj.cn
 120soft.cn
 121.40.18.128
-121.41.167.80
-122.51.46.102
 12291.com
 js1.122cha.com
-123.57.166.174
 123.57.250.154
 ad.12306.cn
 12322app.com
@@ -167,9 +154,7 @@ download.123cw.cn
 123ko.cn
 bdad.123pan.cn
 124.221.29.185
-124.222.151.47
 124.223.199.39
-124.248.66.227
 ent1.12584.cn
 health1.12584.cn
 img.12584.cn
@@ -269,7 +254,6 @@ tz.1688988.com
 1.17110.com
 17173.com
 s.17173cdn.com
-175.1.189.168
 175bar.com
 178gg.com
 trk1.17admob.com
@@ -337,13 +321,11 @@ u1.2048sj.com
 2144.cn
 2144.com
 218.108.181.2
-218.22.21.248
 218.93.208.24
 ad.21cn.com
 21gmail.com
 ssp.21ic.com
 tj.21ic.com
-220.180.255.224
 222.187.223.34
 222aa333bb.com
 228tuchuang.com
@@ -511,13 +493,11 @@ mail1.371.net
 382.cn
 3889.cn
 m.38xs.com
-39.100.33.142
 39.103.217.92
 39.104.161.178
 39.105.165.37
 39.106.144.162
 39.107.85.83
-39.97.35.139
 abody.39.net
 app-g.39.net
 d.39.net
@@ -569,7 +549,6 @@ m.408uo.cn
 409998.cn
 41grk.icu
 426g.com
-43.138.139.240
 43.139.146.100
 43.226.39.44
 43366.cn
@@ -583,15 +562,10 @@ stat.api.4399.com
 47.109.145.121
 47.109.48.57
 47.109.77.84
-47.109.90.134
 47.109.93.252
 47.119.34.138
-47.122.30.177
 47.93.28.103
 47.96.13.97
-47.97.118.238
-47.97.125.50
-47.98.136.161
 47.98.224.91
 47.99.125.121
 m.479db.cn
@@ -762,7 +736,6 @@ m.5vst8h.cn
 shrek.6.cn
 simba.6.cn
 union.6.cn
-60.204.169.16
 60.22.23.50
 60608787.com
 6071.com
@@ -917,54 +890,8 @@ mfkn.71mxc6.cn
 72894.xyz
 72897.xyz
 72899.xyz
-72903.xyz
-72904.xyz
 72905.xyz
-72909.xyz
-72912.xyz
-72917.xyz
-72921.xyz
-72922.xyz
-72924.xyz
-72931.xyz
-72933.xyz
-72937.xyz
-72938.xyz
-72941.xyz
-72950.xyz
-72955.xyz
-72960.xyz
-72961.xyz
-72962.xyz
-72968.xyz
-72971.xyz
-72976.xyz
-72978.xyz
-72981.xyz
-72983.xyz
-72985.xyz
-72994.xyz
-72996.xyz
-72998.xyz
 7299tu75.cc
-73001.xyz
-73002.xyz
-73003.xyz
-73008.xyz
-73009.xyz
-73010.xyz
-73011.xyz
-73012.xyz
-73013.xyz
-73014.xyz
-73015.xyz
-73017.xyz
-73018.xyz
-73019.xyz
-73020.xyz
-73022.xyz
-73023.xyz
-73025.xyz
 73336zubo25326.com
 m.73z9p.cn
 a.75111.com
@@ -1449,12 +1376,10 @@ cp.7y7.com
 8.140.239.162
 8.141.15.227
 8.153.97.202
-8.154.18.17
 8020home.com.cn
 www.805m.com
 a.80982.org
 80vn.cn
-81.70.85.113
 81.71.159.99
 m1.81312.com
 815ss.cn
@@ -1721,7 +1646,6 @@ app.aflink.com
 afopr.cn
 afterdg.cn
 agentogel4d.com
-ad.aginomoto.com
 data-reporting.agora.io
 logservice.agora.io
 logservice-north-america.agora.io
@@ -1978,13 +1902,10 @@ alphkiwf.cfd
 alphlna.cfd
 alphlopd.cfd
 alphmjyh.cfd
-alphnmkl.cfd
 alphpsad.cfd
 alphqzlw.cfd
 alphuiz.cfd
-alphwasxc.cfd
 alphxoar.cfd
-alphzwun.cfd
 altan5.com
 altzx.cn
 am-hotel.com
@@ -2522,7 +2443,6 @@ bigtruckstopseek.cn
 bigwww.com
 bihaipack.com
 bihusaa.info
-bijmz.cn
 bikedelivery.cn
 dataflow.biliapi.com
 ali-web-player-tracker.biliapi.net
@@ -3079,7 +2999,6 @@ cootek-file.cdn.cootekservice.com
 dialer.cdn.cootekservice.com
 ws2.cootekservice.com
 bdu1.coozhi.cn
-corehive.cn
 coreldrawchina.com
 corneroffice.com.cn
 sentry-v2.coros.com
@@ -3634,6 +3553,7 @@ ay.eastmoney.com
 bdstatic.eastmoney.com
 bduserlog.eastmoney.com
 bdwblog.eastmoney.com
+cmsjs.eastmoney.com
 cp.eastmoney.com
 cp2.eastmoney.com
 emdcadvertise.eastmoney.com
@@ -4510,7 +4430,6 @@ happybao.com.cn
 log.dc.cn.happyelements.com
 hapying.com
 hashnest.com
-hassbian.com
 havenaguy.com
 hbalx.cn
 m.hbaog.com
@@ -4701,9 +4620,7 @@ hihufu.cn
 hiido.com
 hilpinkwho.info
 analytics.shop.hisense.com
-api-4know-em.hismarttv.com
 api-4know-eu.hismarttv.com
-api-cloudfalcon.hismarttv.com
 api-gps.hismarttv.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
@@ -4713,7 +4630,6 @@ api-launcher-em.hismarttv.com
 api-launcher-eu.hismarttv.com
 api-launcher-na.hismarttv.com
 api-launcher-sa.hismarttv.com
-api-vidaaasst.hismarttv.com
 api.eu.hismarttv.com
 auth-em.hismarttv.com
 auth-eu.hismarttv.com
@@ -4722,7 +4638,6 @@ auth-launcher-eu.hismarttv.com
 auth-launcher-na.hismarttv.com
 auth-launcher-sa.hismarttv.com
 auth-na.hismarttv.com
-auth-phone-afr.hismarttv.com
 auth-phone-ap.hismarttv.com
 auth-phone-na.hismarttv.com
 auth-sa.hismarttv.com
@@ -4787,7 +4702,6 @@ hoverming.cn
 abtest-api-data-sg.hoyoverse.com
 ad-log-upload-os.hoyoverse.com
 apm-log-upload-os.hoyoverse.com
-bh3-sdk-os-static.hoyoverse.com
 devlog-upload-os.hoyoverse.com
 hkrpg-log-upload-os.hoyoverse.com
 log-upload-os.hoyoverse.com
@@ -5068,7 +4982,6 @@ c1.ifengimg.com
 y3.ifengimg.com
 log.iflytek.com
 logconf.iflytek.com
-log.igamecj.com
 igckaiotsevol.today
 igehuo.com
 entree.igetget.com
@@ -5095,7 +5008,6 @@ e.ik20nd.cn
 m.ik20nd.cn
 a3.ikafan.com
 a4.ikafan.com
-iktbyk.cn
 ikuailian.com
 sha.ikwb.com
 static.ilclock.com
@@ -5696,7 +5608,6 @@ smetrics.kone.cn
 adsmart.konka.com
 sdkapi.kookong.com
 koowo.com
-kopvx.cn
 kotopes.cn
 kouclo.com
 a.koudai.com
@@ -5713,7 +5624,6 @@ slb-p2p.vcloud.ks-live.com
 log-sdk.ksapisrv.com
 multi-az-ulog.ksapisrv.com
 ulog.ksapisrv.com
-ulog-sdk.ksapisrv.com
 ulogjs.ksapisrv.com
 ulogs1.ksapisrv.com
 ulogs2.ksapisrv.com
@@ -5822,7 +5732,6 @@ kwmsg.kuwo.cn
 log.kuwo.cn
 log1.kuwo.cn
 mobilead.kuwo.cn
-nmobi.kuwo.cn
 rich.kuwo.cn
 updatepage.kuwo.cn
 wa.kuwo.cn
@@ -6331,7 +6240,6 @@ miduoke.net
 midway.run
 mielefood.cn
 hz.miercn.com
-migenta.shop
 app.log.nf.migu.cn
 uem.migu.cn
 report.migufun.com
@@ -6755,7 +6663,6 @@ nokicri.com
 nonfatcarbest.cn
 notification-list.com
 nouvelles247.com
-ustr.nouz.cn
 novepo.pro
 web.novogene.com
 nowchip.com
@@ -6943,7 +6850,6 @@ apps2.outfit7.com
 at-af.outfit7.com
 bidder.dsp.outfit7.com
 cdn-gcs.outfit7.com
-events-api-ak.outfit7.com
 hb-af-us-central1.outfit7.com
 revive.outin.cn
 ouyaoxiazai.com
@@ -7002,7 +6908,6 @@ patquuwiyof.pro
 monitor.patzer0.com
 paypa1.cn
 pbaiyho.cn
-docs.pbihub.cn
 ipad.pc899.cn
 count.pcauto.com.cn
 counter.pcauto.com.cn
@@ -7526,7 +7431,6 @@ recmd.html5.qq.com
 report.qq.com
 report.cms.qq.com
 report.gamecenter.qq.com
-report.gp.qq.com
 report.imtt.qq.com
 report.kg.qq.com
 report.nfa.qq.com
@@ -8781,7 +8685,6 @@ info.thermoscientific.cn
 sstats.thermoscientific.cn
 thewotuxoqeize.live
 thinkdream.com
-analytics.thinkingcloud.net
 thinkingdata.cn
 thinkmd.cn
 ad.thinkmedia.cn
@@ -9591,7 +9494,6 @@ mlog.wangsu.com
 wangyouxs.cn
 analytics.wanmei.com
 analytics-gw.games.wanmei.com
-dlog.wanmei.com
 h5.wannaplay.cn
 m.wantemachine.com.cn
 k1.wanwenwan.cn
@@ -9654,8 +9556,6 @@ ifm5.wecom.work
 royalbankofca5.wecom.work
 royalbankofca6.wecom.work
 weddingeeos.com
-event.wedobest.com.cn
-event.stat.wedobest.com.cn
 dns.weibo.cn
 dp.im.weibo.cn
 game.weibo.cn
@@ -10681,7 +10581,6 @@ yr3icjq.cn
 yrszy.com.cn
 ys630.com
 ys6ot.cn
-ad-material.ys7.com
 log.ys7.com
 ysbaojia.com
 ysdqww.com
