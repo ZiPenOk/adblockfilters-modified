@@ -1,9 +1,9 @@
 !
 ! Title: uBlock₀ filters – Badware risks
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc. The purpose is to at least ensure a user is warned of the risks ahead.
-! Version: 1.0.19.63
+! Version: 1.0.19.65
 ! Homepage: https://github.com/uBlockOrigin/uAssets
-! Last modified: 2025-09-25T08:11:01.371Z
+! Last modified: 2025-09-25T15:09:00.343Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -658,6 +658,7 @@
 ://account.booking.xn--
 ||complete-to-continue.pages.dev^
 ||pichk.myqcloud.com^
+||gooqlee.com^
 
 ||webuzz.me^
 ||coup-ling.net^
@@ -3572,3 +3573,7 @@
 ||official-ledger.live^
 ||install-ledger.live^
 ||en-ledger-install.com^
+
+||nachdiewelt.click^
+||seloriva.com^
+||seloriva.net^
