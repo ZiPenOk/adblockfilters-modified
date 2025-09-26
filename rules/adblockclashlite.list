@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250926003307
-# Last modified: 2025/09/26 00:33:07
-# Blocked domains: 10566
+# Version: 20250926095753
+# Last modified: 2025/09/26 09:57:53
+# Blocked domains: 10557
 #
 [Rule]
 DOMAIN-SUFFIX,0010jz.com,REJECT-DROP
@@ -555,7 +555,6 @@ DOMAIN-SUFFIX,47.109.77.84,REJECT-DROP
 DOMAIN-SUFFIX,47.109.93.252,REJECT-DROP
 DOMAIN-SUFFIX,47.119.34.138,REJECT-DROP
 DOMAIN-SUFFIX,47.93.28.103,REJECT-DROP
-DOMAIN-SUFFIX,47.96.13.97,REJECT-DROP
 DOMAIN-SUFFIX,47.98.224.91,REJECT-DROP
 DOMAIN-SUFFIX,47.99.125.121,REJECT-DROP
 DOMAIN-SUFFIX,m.479db.cn,REJECT-DROP
@@ -3284,7 +3283,6 @@ DOMAIN-SUFFIX,webmailssostorageupdates-epfsa543h5.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,weerrtyy-i4on0bpgim.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,workinglikeaman-gxg78kvb24.edgeone.app,REJECT-DROP
-DOMAIN-SUFFIX,workinglikeaman-kmd1tnd2ci.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,ediuschina.com,REJECT-DROP
 DOMAIN-SUFFIX,edty.com,REJECT-DROP
 DOMAIN-SUFFIX,eduace.com.cn,REJECT-DROP
@@ -3411,7 +3409,6 @@ DOMAIN-SUFFIX,ez4q2.cn,REJECT-DROP
 DOMAIN-SUFFIX,analytics.ezbim.net,REJECT-DROP
 DOMAIN-SUFFIX,qp.ezfxpuo.cn,REJECT-DROP
 DOMAIN-SUFFIX,ezucods.cn,REJECT-DROP
-DOMAIN-SUFFIX,f109e.xyz,REJECT-DROP
 DOMAIN-SUFFIX,f118y.xyz,REJECT-DROP
 DOMAIN-SUFFIX,f119c.xyz,REJECT-DROP
 DOMAIN-SUFFIX,f119d.xyz,REJECT-DROP
@@ -4983,7 +4980,6 @@ DOMAIN-SUFFIX,jgshare.cn,REJECT-DROP
 DOMAIN-SUFFIX,app.jgyee.com,REJECT-DROP
 DOMAIN-SUFFIX,jgygtv.cn,REJECT-DROP
 DOMAIN-SUFFIX,jhbsq.cn,REJECT-DROP
-DOMAIN-SUFFIX,jhlong20.cn,REJECT-DROP
 DOMAIN-SUFFIX,jhqku.cn,REJECT-DROP
 DOMAIN-SUFFIX,jhwap.cn,REJECT-DROP
 DOMAIN-SUFFIX,rffsa.jiahaitao.cn,REJECT-DROP
@@ -5273,8 +5269,6 @@ DOMAIN-SUFFIX,tj.koudaitong.com,REJECT-DROP
 DOMAIN-SUFFIX,trade.koudaitong.com,REJECT-DROP
 DOMAIN-SUFFIX,wap.koudaitong.com,REJECT-DROP
 DOMAIN-SUFFIX,b.kouke5.com,REJECT-DROP
-DOMAIN-SUFFIX,d.kpzip.com,REJECT-DROP
-DOMAIN-SUFFIX,mininews.kpzip.com,REJECT-DROP
 DOMAIN-SUFFIX,kqgn.cn,REJECT-DROP
 DOMAIN-SUFFIX,kraventokep7.top,REJECT-DROP
 DOMAIN-SUFFIX,marketing.krones.com,REJECT-DROP
@@ -7317,7 +7311,6 @@ DOMAIN-SUFFIX,all.rising.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,bi-tracker-cn.rivergame.net,REJECT-DROP
 DOMAIN-SUFFIX,bi-tracker-global.rivergame.net,REJECT-DROP
 DOMAIN-SUFFIX,tatracker-us.rivergame.net,REJECT-DROP
-DOMAIN-SUFFIX,riyecai.cn,REJECT-DROP
 DOMAIN-SUFFIX,rja.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,rmzbfum.cn,REJECT-DROP
 DOMAIN-SUFFIX,roadqavuxalpra.com,REJECT-DROP
@@ -8362,7 +8355,6 @@ DOMAIN-SUFFIX,img2.titan007.com,REJECT-DROP
 DOMAIN-SUFFIX,titaniumarchery.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,tiyanwang.cn,REJECT-DROP
 DOMAIN-SUFFIX,a.tiyuxiu.com,REJECT-DROP
-DOMAIN-SUFFIX,tjagvvo.cn,REJECT-DROP
 DOMAIN-SUFFIX,tjblhg.cn,REJECT-DROP
 DOMAIN-SUFFIX,n.tjlms.cn,REJECT-DROP
 DOMAIN-SUFFIX,tjnkxy.cn,REJECT-DROP
@@ -9874,7 +9866,6 @@ DOMAIN-SUFFIX,bmjs.xzw.com,REJECT-DROP
 DOMAIN-SUFFIX,xzyituo.com,REJECT-DROP
 DOMAIN-SUFFIX,y0764.cn,REJECT-DROP
 DOMAIN-SUFFIX,y0mwy.icu,REJECT-DROP
-DOMAIN-SUFFIX,y1n6a.cn,REJECT-DROP
 DOMAIN-SUFFIX,y2wj8.cn,REJECT-DROP
 DOMAIN-SUFFIX,y7ts.icu,REJECT-DROP
 DOMAIN-SUFFIX,y7wr7.cn,REJECT-DROP

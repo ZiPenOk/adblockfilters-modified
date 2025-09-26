@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/26 00:33:07
-#!support=10566
+#!date=2025/09/26 09:57:53
+#!support=10557
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0010jz.com
@@ -558,7 +558,6 @@ DOMAIN-SUFFIX,47.109.77.84
 DOMAIN-SUFFIX,47.109.93.252
 DOMAIN-SUFFIX,47.119.34.138
 DOMAIN-SUFFIX,47.93.28.103
-DOMAIN-SUFFIX,47.96.13.97
 DOMAIN-SUFFIX,47.98.224.91
 DOMAIN-SUFFIX,47.99.125.121
 DOMAIN-SUFFIX,m.479db.cn
@@ -3287,7 +3286,6 @@ DOMAIN-SUFFIX,webmailssostorageupdates-epfsa543h5.edgeone.app
 DOMAIN-SUFFIX,webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
 DOMAIN-SUFFIX,weerrtyy-i4on0bpgim.edgeone.app
 DOMAIN-SUFFIX,workinglikeaman-gxg78kvb24.edgeone.app
-DOMAIN-SUFFIX,workinglikeaman-kmd1tnd2ci.edgeone.app
 DOMAIN-SUFFIX,ediuschina.com
 DOMAIN-SUFFIX,edty.com
 DOMAIN-SUFFIX,eduace.com.cn
@@ -3414,7 +3412,6 @@ DOMAIN-SUFFIX,ez4q2.cn
 DOMAIN-SUFFIX,analytics.ezbim.net
 DOMAIN-SUFFIX,qp.ezfxpuo.cn
 DOMAIN-SUFFIX,ezucods.cn
-DOMAIN-SUFFIX,f109e.xyz
 DOMAIN-SUFFIX,f118y.xyz
 DOMAIN-SUFFIX,f119c.xyz
 DOMAIN-SUFFIX,f119d.xyz
@@ -4986,7 +4983,6 @@ DOMAIN-SUFFIX,jgshare.cn
 DOMAIN-SUFFIX,app.jgyee.com
 DOMAIN-SUFFIX,jgygtv.cn
 DOMAIN-SUFFIX,jhbsq.cn
-DOMAIN-SUFFIX,jhlong20.cn
 DOMAIN-SUFFIX,jhqku.cn
 DOMAIN-SUFFIX,jhwap.cn
 DOMAIN-SUFFIX,rffsa.jiahaitao.cn
@@ -5276,8 +5272,6 @@ DOMAIN-SUFFIX,tj.koudaitong.com
 DOMAIN-SUFFIX,trade.koudaitong.com
 DOMAIN-SUFFIX,wap.koudaitong.com
 DOMAIN-SUFFIX,b.kouke5.com
-DOMAIN-SUFFIX,d.kpzip.com
-DOMAIN-SUFFIX,mininews.kpzip.com
 DOMAIN-SUFFIX,kqgn.cn
 DOMAIN-SUFFIX,kraventokep7.top
 DOMAIN-SUFFIX,marketing.krones.com
@@ -7320,7 +7314,6 @@ DOMAIN-SUFFIX,all.rising.com.cn
 DOMAIN-SUFFIX,bi-tracker-cn.rivergame.net
 DOMAIN-SUFFIX,bi-tracker-global.rivergame.net
 DOMAIN-SUFFIX,tatracker-us.rivergame.net
-DOMAIN-SUFFIX,riyecai.cn
 DOMAIN-SUFFIX,rja.com.cn
 DOMAIN-SUFFIX,rmzbfum.cn
 DOMAIN-SUFFIX,roadqavuxalpra.com
@@ -8365,7 +8358,6 @@ DOMAIN-SUFFIX,img2.titan007.com
 DOMAIN-SUFFIX,titaniumarchery.com.cn
 DOMAIN-SUFFIX,tiyanwang.cn
 DOMAIN-SUFFIX,a.tiyuxiu.com
-DOMAIN-SUFFIX,tjagvvo.cn
 DOMAIN-SUFFIX,tjblhg.cn
 DOMAIN-SUFFIX,n.tjlms.cn
 DOMAIN-SUFFIX,tjnkxy.cn
@@ -9877,7 +9869,6 @@ DOMAIN-SUFFIX,bmjs.xzw.com
 DOMAIN-SUFFIX,xzyituo.com
 DOMAIN-SUFFIX,y0764.cn
 DOMAIN-SUFFIX,y0mwy.icu
-DOMAIN-SUFFIX,y1n6a.cn
 DOMAIN-SUFFIX,y2wj8.cn
 DOMAIN-SUFFIX,y7ts.icu
 DOMAIN-SUFFIX,y7wr7.cn

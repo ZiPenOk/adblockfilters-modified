@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250926003307
-# Last modified: 2025/09/26 00:33:07
-# Blocked domains: 10566
+# Version: 20250926095753
+# Last modified: 2025/09/26 09:57:53
+# Blocked domains: 10557
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -569,7 +569,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.93.252
 0.0.0.0	47.119.34.138
 0.0.0.0	47.93.28.103
-0.0.0.0	47.96.13.97
 0.0.0.0	47.98.224.91
 0.0.0.0	47.99.125.121
 0.0.0.0	m.479db.cn
@@ -3298,7 +3297,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
 0.0.0.0	weerrtyy-i4on0bpgim.edgeone.app
 0.0.0.0	workinglikeaman-gxg78kvb24.edgeone.app
-0.0.0.0	workinglikeaman-kmd1tnd2ci.edgeone.app
 0.0.0.0	ediuschina.com
 0.0.0.0	edty.com
 0.0.0.0	eduace.com.cn
@@ -3425,7 +3423,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.ezbim.net
 0.0.0.0	qp.ezfxpuo.cn
 0.0.0.0	ezucods.cn
-0.0.0.0	f109e.xyz
 0.0.0.0	f118y.xyz
 0.0.0.0	f119c.xyz
 0.0.0.0	f119d.xyz
@@ -4997,7 +4994,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	app.jgyee.com
 0.0.0.0	jgygtv.cn
 0.0.0.0	jhbsq.cn
-0.0.0.0	jhlong20.cn
 0.0.0.0	jhqku.cn
 0.0.0.0	jhwap.cn
 0.0.0.0	rffsa.jiahaitao.cn
@@ -5287,8 +5283,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	trade.koudaitong.com
 0.0.0.0	wap.koudaitong.com
 0.0.0.0	b.kouke5.com
-0.0.0.0	d.kpzip.com
-0.0.0.0	mininews.kpzip.com
 0.0.0.0	kqgn.cn
 0.0.0.0	kraventokep7.top
 0.0.0.0	marketing.krones.com
@@ -7331,7 +7325,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bi-tracker-cn.rivergame.net
 0.0.0.0	bi-tracker-global.rivergame.net
 0.0.0.0	tatracker-us.rivergame.net
-0.0.0.0	riyecai.cn
 0.0.0.0	rja.com.cn
 0.0.0.0	rmzbfum.cn
 0.0.0.0	roadqavuxalpra.com
@@ -8376,7 +8369,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	titaniumarchery.com.cn
 0.0.0.0	tiyanwang.cn
 0.0.0.0	a.tiyuxiu.com
-0.0.0.0	tjagvvo.cn
 0.0.0.0	tjblhg.cn
 0.0.0.0	n.tjlms.cn
 0.0.0.0	tjnkxy.cn
@@ -9888,7 +9880,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xzyituo.com
 0.0.0.0	y0764.cn
 0.0.0.0	y0mwy.icu
-0.0.0.0	y1n6a.cn
 0.0.0.0	y2wj8.cn
 0.0.0.0	y7ts.icu
 0.0.0.0	y7wr7.cn

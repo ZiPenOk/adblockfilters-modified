@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250926003307
-! Last modified: 2025/09/26 00:33:07
-! Blocked domains: 10566
+! Version: 20250926095753
+! Last modified: 2025/09/26 09:57:53
+! Blocked domains: 10557
 !
 0010jz.com
 001office.cn
@@ -554,7 +554,6 @@ stat.api.4399.com
 47.109.93.252
 47.119.34.138
 47.93.28.103
-47.96.13.97
 47.98.224.91
 47.99.125.121
 m.479db.cn
@@ -3283,7 +3282,6 @@ webmailssostorageupdates-epfsa543h5.edgeone.app
 webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
 weerrtyy-i4on0bpgim.edgeone.app
 workinglikeaman-gxg78kvb24.edgeone.app
-workinglikeaman-kmd1tnd2ci.edgeone.app
 ediuschina.com
 edty.com
 eduace.com.cn
@@ -3410,7 +3408,6 @@ ez4q2.cn
 analytics.ezbim.net
 qp.ezfxpuo.cn
 ezucods.cn
-f109e.xyz
 f118y.xyz
 f119c.xyz
 f119d.xyz
@@ -4982,7 +4979,6 @@ jgshare.cn
 app.jgyee.com
 jgygtv.cn
 jhbsq.cn
-jhlong20.cn
 jhqku.cn
 jhwap.cn
 rffsa.jiahaitao.cn
@@ -5272,8 +5268,6 @@ tj.koudaitong.com
 trade.koudaitong.com
 wap.koudaitong.com
 b.kouke5.com
-d.kpzip.com
-mininews.kpzip.com
 kqgn.cn
 kraventokep7.top
 marketing.krones.com
@@ -7316,7 +7310,6 @@ all.rising.com.cn
 bi-tracker-cn.rivergame.net
 bi-tracker-global.rivergame.net
 tatracker-us.rivergame.net
-riyecai.cn
 rja.com.cn
 rmzbfum.cn
 roadqavuxalpra.com
@@ -8361,7 +8354,6 @@ img2.titan007.com
 titaniumarchery.com.cn
 tiyanwang.cn
 a.tiyuxiu.com
-tjagvvo.cn
 tjblhg.cn
 n.tjlms.cn
 tjnkxy.cn
@@ -9873,7 +9865,6 @@ bmjs.xzw.com
 xzyituo.com
 y0764.cn
 y0mwy.icu
-y1n6a.cn
 y2wj8.cn
 y7ts.icu
 y7wr7.cn
