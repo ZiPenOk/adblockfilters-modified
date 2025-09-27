@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250927163011
-! Last modified: 2025/09/27 16:30:11
-! Blocked domains: 10464
+! Version: 20250928002930
+! Last modified: 2025/09/28 00:29:30
+! Blocked domains: 10374
 ! unBlocked domains: 52
 !
 ||0010jz.com^
@@ -163,7 +163,6 @@
 ||123ko.cn^
 ||bdad.123pan.cn^
 ||124.221.29.185^
-||124.222.151.47^
 ||124.223.199.39^
 ||124.248.66.227^
 ||ent1.12584.cn^
@@ -194,7 +193,6 @@
 ||wanproxy.127.net^
 ||yt-adp.nosdn.127.net^
 ||129.204.103.151^
-||129.204.16.71^
 ||129.204.254.108^
 ||12i.cn^
 ||133u.com^
@@ -582,7 +580,6 @@
 ||47.109.90.134^
 ||47.109.93.252^
 ||47.119.34.138^
-||47.120.46.210^
 ||47.122.119.55^
 ||47.122.30.177^
 ||47.93.28.103^
@@ -1104,70 +1101,9 @@
 ||77296.xyz^
 ||77298.xyz^
 ||77299.xyz^
-||77310.xyz^
 ||77313.xyz^
 ||77318.xyz^
-||77320.xyz^
 ||77322.xyz^
-||77323.xyz^
-||77324.xyz^
-||77325.xyz^
-||77326.xyz^
-||77328.xyz^
-||77334.xyz^
-||77342.xyz^
-||77345.xyz^
-||77346.xyz^
-||77351.xyz^
-||77357.xyz^
-||77359.xyz^
-||77360.xyz^
-||77363.xyz^
-||77367.xyz^
-||77369.xyz^
-||77371.xyz^
-||77372.xyz^
-||77376.xyz^
-||77387.xyz^
-||77388.xyz^
-||77390.xyz^
-||77395.xyz^
-||77396.xyz^
-||77399.xyz^
-||77400.xyz^
-||77401.xyz^
-||77402.xyz^
-||77411.xyz^
-||77413.xyz^
-||77416.xyz^
-||77419.xyz^
-||77421.xyz^
-||77422.xyz^
-||77423.xyz^
-||77424.xyz^
-||77426.xyz^
-||77427.xyz^
-||77429.xyz^
-||77430.xyz^
-||77431.xyz^
-||77432.xyz^
-||77433.xyz^
-||77435.xyz^
-||77438.xyz^
-||77439.xyz^
-||77441.xyz^
-||77442.xyz^
-||77443.xyz^
-||77446.xyz^
-||77447.xyz^
-||77448.xyz^
-||77452.xyz^
-||77453.xyz^
-||77462.xyz^
-||77465.xyz^
-||77471.xyz^
-||77472.xyz^
-||77527.xyz^
 ||7759.com^
 ||777bb111ww.com^
 ||7794.com^
@@ -1917,7 +1853,6 @@
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||live.applicationinsights.azure.cn^
-||b216c.xyz^
 ||b216p.xyz^
 ||b217e.xyz^
 ||b217i.xyz^
@@ -3148,7 +3083,6 @@
 ||v1-feed-ad.ap4r.com.cdn.dnsv1.com^
 ||dnyzbp.cn^
 ||do-global.com^
-||stat.doc88.com^
 ||info.meihua.docer.com^
 ||fpb.docin.com^
 ||zx.docin.com^
@@ -3442,7 +3376,6 @@
 ||triptality.erioydo.cn^
 ||blennette.eriqepn.cn^
 ||erlpbwy.cn^
-||analytics.escience.org.cn^
 ||ethan.wang^
 ||sell1.etlong.com^
 ||marketing.etouch.cn^
@@ -3478,7 +3411,6 @@
 ||analytics.ezbim.net^
 ||qp.ezfxpuo.cn^
 ||ezucods.cn^
-||f118y.xyz^
 ||f119c.xyz^
 ||f119d.xyz^
 ||f119e.xyz^
@@ -3663,7 +3595,6 @@
 ||bdu.focus.cn^
 ||pv.focus.cn^
 ||focusbrand.cn^
-||herbcomeery.fohcnbw.cn^
 ||foisonad.com^
 ||fooae.com^
 ||fopsl.cn^
@@ -4073,9 +4004,6 @@
 ||h4k5.com^
 ||h51.com^
 ||bm.h576.com^
-||h58m.xyz^
-||h58n.xyz^
-||h58v.xyz^
 ||h59a.xyz^
 ||h59h.xyz^
 ||h59q.xyz^
@@ -5559,7 +5487,6 @@
 ||lgxky.vip^
 ||lgygy.cn^
 ||lhippac.cn^
-||lhrrs.cn^
 ||li122.cn^
 ||liadano.com.cn^
 ||liagand.cn^
@@ -5728,7 +5655,6 @@
 ||lzjycy.com^
 ||mjs.lzmmil.cn^
 ||x.lzspf.com^
-||m104z.xyz^
 ||m105l.xyz^
 ||m105q.xyz^
 ||mlog.m1905.cn^
@@ -6644,7 +6570,6 @@
 ||postew.com^
 ||postindom.art^
 ||postofce.top^
-||postoflice.top^
 ||postut.cn^
 ||postv1.help^
 ||povbdf.cn^
@@ -7334,9 +7259,6 @@
 ||s11.cn^
 ||s3d4.cn^
 ||m.s47e8.cn^
-||s78j.xyz^
-||s78n.xyz^
-||s78p.xyz^
 ||s79g.xyz^
 ||s79k.xyz^
 ||s79m.xyz^
@@ -7858,7 +7780,6 @@
 ||js.spreton.com^
 ||y1.spreton.com^
 ||sq59.cn^
-||sqdlnw.cn^
 ||sqmlrg.cn^
 ||srbzw.cn^
 ||m.srnoh.cn^
@@ -7992,7 +7913,6 @@
 ||szxf4.icu^
 ||t2.szyweb.com^
 ||t101.cn^
-||t27n.xyz^
 ||t28goe.cn^
 ||t28l.xyz^
 ||t29f.xyz^
@@ -8324,7 +8244,6 @@
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
 ||a.tn.token-ad.com^
-||token.hk.cn^
 ||track.tom.com^
 ||track.tomwx.net^
 ||tongbaimi.cn^
@@ -8441,7 +8360,6 @@
 ||twjsx.cn^
 ||tb.code.twyxi.com^
 ||twzui6.com^
-||whatever.txkntml.cn^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.co.th.txlivecdn.com^
 ||livetech.shopee.vn.txlivecdn.com^
@@ -8573,7 +8491,6 @@
 ||umiwi.com^
 ||umkezbh.cn^
 ||umm6.cn^
-||stat.umu.cn^
 ||ccb.uncle-ad.com^
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
 ||unionli.com^
@@ -8990,8 +8907,6 @@
 ||vzt.com.cn^
 ||vzvvifw.cn^
 ||w010w.com.cn^
-||w26n.xyz^
-||w26u.xyz^
 ||w27p.xyz^
 ||w28l.xyz^
 ||w28w.xyz^
@@ -9014,7 +8929,6 @@
 ||wangzhan5.com^
 ||analytics.wanmei.com^
 ||analytics-gw.games.wanmei.com^
-||dlog.wanmei.com^
 ||h5.wannaplay.cn^
 ||m.wantemachine.com.cn^
 ||k1.wanwenwan.cn^
@@ -9283,7 +9197,6 @@
 ||wzscales.com^
 ||a.wzu.com^
 ||x-steam.com^
-||x64t.xyz^
 ||x65i.xyz^
 ||x65p.xyz^
 ||x65x.xyz^
@@ -9783,8 +9696,6 @@
 ||y7wr7.cn^
 ||e.y9062t.cn^
 ||m.y9062t.cn^
-||y95o.xyz^
-||y95q.xyz^
 ||y96a.xyz^
 ||y96j.xyz^
 ||y96m.xyz^
@@ -10451,7 +10362,6 @@
 ||zxrcfw.com^
 ||zxrtb.com^
 ||zxw51.com^
-||zxy33.cn^
 ||zxziyuan.com^
 ||zxzj.top^
 ||zxzs365.cn^
