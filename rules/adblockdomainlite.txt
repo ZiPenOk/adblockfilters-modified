@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250928163024
-! Last modified: 2025/09/28 16:30:24
-! Blocked domains: 10374
+! Version: 20250929002830
+! Last modified: 2025/09/29 00:28:30
+! Blocked domains: 10345
 !
 0010jz.com
 001office.cn
@@ -85,7 +85,6 @@ sdc.10086.cn
 101.126.11.168
 101.132.131.225
 101.201.227.94
-101.33.235.96
 101.43.49.183
 1.1010pic.com
 2.1010pic.com
@@ -103,7 +102,6 @@ ytx-file.110route.cn
 111.231.23.22
 1.11130.com.cn
 oss-asq-static.11222.cn
-113.31.111.76
 113.98.201.248
 1133.cc
 114.55.106.136
@@ -119,19 +117,17 @@ appversion.115.com
 117.72.102.110
 117.72.184.172
 117.72.206.39
+117.72.218.179
 117.72.222.203
 117.72.36.133
-117.72.51.114
 117.72.72.84
 117.72.83.6
 118.178.133.241
 118.25.68.152
-118.25.85.198
 118678.com
 1188.com
 11888vip.cn
 bj1.118pan.com
-119.91.203.199
 120.25.163.165
 120.48.50.33
 analysis.120ask.com
@@ -480,7 +476,6 @@ p1.360soucha.com
 display.360totalsecurity.com
 hot.m.shouji.360tpcdn.com
 36500.com
-365886xz8.com
 365dmp.com
 365hxq.cn
 c.365yigou.cn
@@ -570,7 +565,6 @@ stat.api.4399.com
 44629.com
 46676.cn
 47.101.206.165
-47.102.87.217
 47.104.169.91
 47.104.173.216
 47.108.63.64
@@ -1146,6 +1140,7 @@ www.805m.com
 a.80982.org
 80vn.cn
 81.70.85.113
+81.71.159.99
 812nn211.shop
 812y128.com
 m1.81312.com
@@ -1185,7 +1180,6 @@ ngcc.8800.org
 89kvh.cn
 8ail6.icu
 8ao8ao.com
-8dvzi.cn
 8ff0.cn
 8gl.com.cn
 8gra3.icu
@@ -2755,7 +2749,6 @@ cqtlimi.cn
 m.cqytjzgc.com
 crasheye.cn
 crashlyticsreports-pa.googleapis.com
-crestkaleido.com
 cbots.m.crooods.com
 pan.crooods.com
 xiazai.crossoverchina.com
@@ -3142,7 +3135,6 @@ stun1.douyucdn.cn
 dotcounter.douyutv.com
 s.doyo.cn
 s.dpcq1.net
-dpdlil.com
 dpjzzgw.cn
 drdwy.com
 bjzhwx.dre8.com
@@ -3285,7 +3277,6 @@ eddcc.icu
 eddong.com
 accgovgetwayuk-70ldffym6a.edgeone.app
 flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
-hoose273.edgeone.app
 pdfworknew-6d9lnfzqgb.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
@@ -3294,7 +3285,6 @@ webmail-ahu9fi8hu2.edgeone.app
 webmailssostorageupdates-epfsa543h5.edgeone.app
 webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
 weerrtyy-i4on0bpgim.edgeone.app
-workinglikeaman-gxg78kvb24.edgeone.app
 ediuschina.com
 edty.com
 eduace.com.cn
@@ -3375,6 +3365,7 @@ log.ergeduoduo.com
 triptality.erioydo.cn
 blennette.eriqepn.cn
 erlpbwy.cn
+analytics.escience.org.cn
 ethan.wang
 sell1.etlong.com
 marketing.etouch.cn
@@ -4818,13 +4809,6 @@ xladapi.izuiyou.com
 xlstat.izuiyou.com
 ee.j06kc.cn
 m.j06kc.cn
-j217g.xyz
-j217h.xyz
-j217i.xyz
-j217s.xyz
-j217t.xyz
-j217u.xyz
-j217y.xyz
 j218f.xyz
 j218t.xyz
 j218u.xyz
@@ -5156,7 +5140,6 @@ j.kfd3sm2c.com
 kfnkkng.cn
 kfpnqug.cn
 kfqizu.cn
-kghrt.cn
 mail.kguapp.com
 e.kguaq.com
 m.kguaq.com
@@ -5340,7 +5323,6 @@ kuxkddg.cn
 kuyun.com
 kvona.com
 kvyyyde.cn
-kw8ok26.cn
 api.kwaizt.com
 open.kwaizt.com
 kwcmrfb.cn
@@ -6229,7 +6211,6 @@ niudashu.com
 photo.njlymyd.cn
 njob.com.cn
 njzyjy.cn
-nkgxzs.com
 nkscdn.com
 img.nktcw.cn
 nlhki1k.cn
@@ -6254,7 +6235,6 @@ util.nphoto.net
 nphqw.cn
 ylhbn.nptech.cn
 m.nqut.cn
-sportist.nriapgt.cn
 nrjzkj.cn
 nryiou.cn
 nryqr.cn
@@ -6297,7 +6277,6 @@ oadz.com
 gtm.oasisfeng.com
 oc00co.cn
 analytics.oceanengine.com
-ocwrhh.cn
 odmoffice.com.cn
 oemka.com
 adcanopus.offerstrack.net
@@ -6566,9 +6545,7 @@ popupad.cn
 poqwua.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
-postew.com
 postindom.art
-postofce.top
 postut.cn
 postv1.help
 povbdf.cn
@@ -7393,7 +7370,6 @@ sharele.cn
 sharesdk.cn
 sharestores.cn
 sc.shayugg.com
-shbaoan.cn
 shbxugs.cn
 shbxukj.cn
 shbywsd.cn
@@ -7437,7 +7413,6 @@ jpaasne.e.shifen.com
 shihe.cn
 shijixinrui.cn
 shilian168.cn
-log.shimo.im
 shinedaily.cn
 c.shishishiguixinfangfuzhuangshanghan.cn
 v.shishishiguixinfangfuzhuangshanghan.cn
@@ -7466,7 +7441,6 @@ shuzijz.cn
 shuzilm.cn
 shwlyb.cn
 shxinjie.cn
-ads-monitoring.shziyi.com
 yun.sifuhe.cn
 sigmob.com
 signtu.cn
@@ -7779,7 +7753,6 @@ xn--6krsm155l.spotify.com.cn
 js.spreton.com
 y1.spreton.com
 sq59.cn
-sqmlrg.cn
 srbzw.cn
 m.srnoh.cn
 sscefsol.com
@@ -7811,7 +7784,6 @@ goto.stnts.com
 stock888.cn
 info.stockstar.com
 same.stockstar.com
-smbc.stoeckli.cn
 stoneb.cn
 studylabs.cn
 autotrack.studyquicks.com
@@ -8204,7 +8176,6 @@ kgwr.www.tianyilin.cn
 m.www.tianyilin.cn
 psey.www.tianyilin.cn
 wap.www.tianyilin.cn
-yamaxun.tianzhe.cn
 adx-bid.tianzhuobj.com
 tiaosa.cn
 hospi.ticp.io
