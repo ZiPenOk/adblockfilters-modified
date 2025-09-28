@@ -3,8 +3,8 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250928002930
-# Last modified: 2025/09/28 00:29:30
+# Version: 20250928100729
+# Last modified: 2025/09/28 10:07:29
 # Blocked domains: 10374
 #
 127.0.0.1	localhost
@@ -134,7 +134,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.102.110
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
-0.0.0.0	117.72.218.179
 0.0.0.0	117.72.222.203
 0.0.0.0	117.72.36.133
 0.0.0.0	117.72.51.114
@@ -177,6 +176,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	123ko.cn
 0.0.0.0	bdad.123pan.cn
 0.0.0.0	124.221.29.185
+0.0.0.0	124.222.151.47
 0.0.0.0	124.223.199.39
 0.0.0.0	124.248.66.227
 0.0.0.0	ent1.12584.cn
@@ -207,6 +207,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wanproxy.127.net
 0.0.0.0	yt-adp.nosdn.127.net
 0.0.0.0	129.204.103.151
+0.0.0.0	129.204.16.71
 0.0.0.0	129.204.254.108
 0.0.0.0	12i.cn
 0.0.0.0	133u.com
@@ -1160,7 +1161,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.80982.org
 0.0.0.0	80vn.cn
 0.0.0.0	81.70.85.113
-0.0.0.0	81.71.159.99
 0.0.0.0	812nn211.shop
 0.0.0.0	812y128.com
 0.0.0.0	m1.81312.com
