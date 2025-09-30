@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20250930002731
-# Last modified: 2025/09/30 00:27:31
-# Blocked domains: 10235
+# Version: 20250930095546
+# Last modified: 2025/09/30 09:55:46
+# Blocked domains: 10231
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -81,7 +81,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.0uk9e.cn
 0.0.0.0	0x5.me
 0.0.0.0	1-bmo-client-login.com
-0.0.0.0	1.15.174.189
 0.0.0.0	10000xing.cn
 0.0.0.0	1000su.com
 0.0.0.0	1717.1000uc.com
@@ -100,6 +99,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.126.11.168
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
+0.0.0.0	101.33.235.96
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -139,7 +139,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.83.6
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
-0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -586,6 +585,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.90.134
 0.0.0.0	47.109.93.252
 0.0.0.0	47.119.34.138
+0.0.0.0	47.120.46.210
 0.0.0.0	47.122.119.55
 0.0.0.0	47.122.30.177
 0.0.0.0	47.93.28.103
@@ -3378,7 +3378,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vwldz.face-book.cc
 0.0.0.0	wtg.face-book.cc
 0.0.0.0	xgmgyyp.face-book.cc
-0.0.0.0	facebok.website
 0.0.0.0	facebookma.cn
 0.0.0.0	fakjkwp.cn
 0.0.0.0	z2.fakutownee.cn
@@ -7513,7 +7512,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sms.info.smart.com
 0.0.0.0	smarttrade.cn
 0.0.0.0	smds.com
-0.0.0.0	tracking.smobird.cc
 0.0.0.0	smoffice.cn
 0.0.0.0	smpkw.com
 0.0.0.0	smucdn.com
@@ -8142,7 +8140,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	topsem.com
 0.0.0.0	topstat.cn
 0.0.0.0	static.topxgun.com
-0.0.0.0	yodobashi-numer.tostog.cn
 0.0.0.0	tottaldomain.cn
 0.0.0.0	api.touch-moblie.com
 0.0.0.0	touclick.com
@@ -10152,7 +10149,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zmdesf.cn
 0.0.0.0	zmhqhuq.cn
 0.0.0.0	zmkma.com
-0.0.0.0	resoacard-furti.zmtne.cn
 0.0.0.0	m.zn8ni.cn
 0.0.0.0	znaiweb.com
 0.0.0.0	znxblom.cn
