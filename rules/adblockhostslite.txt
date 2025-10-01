@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251001163526
-# Last modified: 2025/10/01 16:35:26
-# Blocked domains: 10212
+# Version: 20251002003332
+# Last modified: 2025/10/02 00:33:32
+# Blocked domains: 10124
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -99,7 +99,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.126.11.168
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
-0.0.0.0	101.33.235.96
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -279,7 +278,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eezdx.erc.18183.com
 0.0.0.0	img1.18183.com
 0.0.0.0	zpe.klre.18183.com
-0.0.0.0	182.113.8.57
 0.0.0.0	182.92.99.95
 0.0.0.0	photo.188kc.cn
 0.0.0.0	webwebfenxi.189.cn
@@ -1090,71 +1088,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	77096.xyz
 0.0.0.0	77097.xyz
 0.0.0.0	77098.xyz
-0.0.0.0	77101.xyz
-0.0.0.0	77102.xyz
-0.0.0.0	77103.xyz
-0.0.0.0	77104.xyz
 0.0.0.0	77105.xyz
-0.0.0.0	77107.xyz
-0.0.0.0	77108.xyz
-0.0.0.0	77113.xyz
-0.0.0.0	77114.xyz
-0.0.0.0	77119.xyz
-0.0.0.0	77121.xyz
-0.0.0.0	77131.xyz
-0.0.0.0	77132.xyz
-0.0.0.0	77137.xyz
-0.0.0.0	77139.xyz
-0.0.0.0	77141.xyz
-0.0.0.0	77143.xyz
-0.0.0.0	77144.xyz
-0.0.0.0	77147.xyz
-0.0.0.0	77148.xyz
-0.0.0.0	77149.xyz
-0.0.0.0	77150.xyz
-0.0.0.0	77152.xyz
-0.0.0.0	77153.xyz
-0.0.0.0	77154.xyz
-0.0.0.0	77156.xyz
-0.0.0.0	77157.xyz
-0.0.0.0	77159.xyz
-0.0.0.0	77162.xyz
-0.0.0.0	77165.xyz
-0.0.0.0	77167.xyz
-0.0.0.0	77168.xyz
-0.0.0.0	77169.xyz
-0.0.0.0	77171.xyz
-0.0.0.0	77173.xyz
-0.0.0.0	77174.xyz
-0.0.0.0	77178.xyz
-0.0.0.0	77179.xyz
-0.0.0.0	77180.xyz
-0.0.0.0	77181.xyz
-0.0.0.0	77183.xyz
-0.0.0.0	77189.xyz
-0.0.0.0	77191.xyz
-0.0.0.0	77194.xyz
-0.0.0.0	77196.xyz
-0.0.0.0	77201.xyz
-0.0.0.0	77202.xyz
-0.0.0.0	77203.xyz
-0.0.0.0	77204.xyz
-0.0.0.0	77207.xyz
-0.0.0.0	77209.xyz
-0.0.0.0	77210.xyz
-0.0.0.0	77212.xyz
-0.0.0.0	77213.xyz
-0.0.0.0	77214.xyz
-0.0.0.0	77215.xyz
-0.0.0.0	77216.xyz
-0.0.0.0	77217.xyz
-0.0.0.0	77219.xyz
-0.0.0.0	77224.xyz
-0.0.0.0	77226.xyz
-0.0.0.0	77230.xyz
-0.0.0.0	77232.xyz
-0.0.0.0	77235.xyz
-0.0.0.0	77237.xyz
 0.0.0.0	77245.xyz
 0.0.0.0	77250.xyz
 0.0.0.0	77274.xyz
@@ -1195,7 +1129,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.199.119
 0.0.0.0	8.134.51.218
-0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
@@ -1880,9 +1813,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dc.applicationinsights.azure.cn
 0.0.0.0	live.applicationinsights.azure.cn
 0.0.0.0	b101n.xyz
-0.0.0.0	b217e.xyz
-0.0.0.0	b217i.xyz
-0.0.0.0	b217j.xyz
 0.0.0.0	b217t.xyz
 0.0.0.0	b217w.xyz
 0.0.0.0	b218f.xyz
@@ -2687,7 +2617,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cnyibs.com
 0.0.0.0	cnzz.cn
 0.0.0.0	cnzz.com
-0.0.0.0	co-whatsappweb.com.cn
 0.0.0.0	coco988.cn
 0.0.0.0	code222.com
 0.0.0.0	codenow.cn
@@ -3090,7 +3019,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	v1-feed-ad.ap4r.com.cdn.dnsv1.com
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
-0.0.0.0	stat.doc88.com
 0.0.0.0	info.meihua.docer.com
 0.0.0.0	fpb.docin.com
 0.0.0.0	zx.docin.com
@@ -3294,7 +3222,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eddong.com
 0.0.0.0	accgovgetwayuk-70ldffym6a.edgeone.app
 0.0.0.0	earthewndegtheyased.edgeone.app
-0.0.0.0	flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 0.0.0.0	pdfworknew-6d9lnfzqgb.edgeone.app
 0.0.0.0	pointball-llvwkkfsoo.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
@@ -3305,7 +3232,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	webmail-ahu9fi8hu2.edgeone.app
 0.0.0.0	webmailssostorageupdates-epfsa543h5.edgeone.app
 0.0.0.0	webodpdofiugdbdbcccbdhdeu-ohombkp435.edgeone.app
-0.0.0.0	weerrtyy-i4on0bpgim.edgeone.app
 0.0.0.0	ediuschina.com
 0.0.0.0	edty.com
 0.0.0.0	eduace.com.cn
@@ -5362,7 +5288,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads-ut.api.leiniao.com
 0.0.0.0	euads-o.api.leiniao.com
 0.0.0.0	update.lejiao.tv
-0.0.0.0	adm.leju.com
 0.0.0.0	src.leju.com
 0.0.0.0	staticadm.leju.com
 0.0.0.0	lejuliang.com
@@ -5409,10 +5334,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lezbrja.cn
 0.0.0.0	m.lglady.cn
 0.0.0.0	jc.lgtianma.cn
-0.0.0.0	lgxka.vip
-0.0.0.0	lgxkf.vip
-0.0.0.0	lgxkh.vip
-0.0.0.0	lgxks.vip
 0.0.0.0	lgygy.cn
 0.0.0.0	lhippac.cn
 0.0.0.0	li122.cn
@@ -5435,7 +5356,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cr.m.liebao.cn
 0.0.0.0	j.wan.liebao.cn
 0.0.0.0	liebaovip.com
-0.0.0.0	log.liepin.com
 0.0.0.0	lieqitianxia.cn
 0.0.0.0	lieying.cn
 0.0.0.0	ligfdjnfd.cn
@@ -5720,7 +5640,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.mfcad.net
 0.0.0.0	mfcvxw.cn
 0.0.0.0	mgs123.com
-0.0.0.0	mgsptv-live.cn
 0.0.0.0	audit.aaa.mgtv.com
 0.0.0.0	cmop.mgtv.com
 0.0.0.0	disp.titan.mgtv.com
@@ -5996,7 +5915,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	testads.api.my7v.com
 0.0.0.0	apiyd.my91app.com
 0.0.0.0	myad.cn
-0.0.0.0	optservicenote.myallvalue.com
 0.0.0.0	a.myapp.com
 0.0.0.0	sqdd.myapp.com
 0.0.0.0	mycleanmymac.com
@@ -7336,7 +7254,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jpaasne.e.shifen.com
 0.0.0.0	shijixinrui.cn
 0.0.0.0	shilian168.cn
-0.0.0.0	log.shimo.im
 0.0.0.0	shinedaily.cn
 0.0.0.0	c.shishishiguixinfangfuzhuangshanghan.cn
 0.0.0.0	v.shishishiguixinfangfuzhuangshanghan.cn
@@ -7364,7 +7281,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	shuzilm.cn
 0.0.0.0	shwlyb.cn
 0.0.0.0	shxinjie.cn
-0.0.0.0	ads-monitoring.shziyi.com
 0.0.0.0	sibian.cn
 0.0.0.0	yun.sifuhe.cn
 0.0.0.0	sigao.cn
@@ -7466,7 +7382,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rs.sinajs.cn
 0.0.0.0	tjs.sjs.sinajs.cn
 0.0.0.0	sinawap.com
-0.0.0.0	singtlel.top
 0.0.0.0	mail.siom.ac.cn
 0.0.0.0	sipcoj.com
 0.0.0.0	sdk.sipujia.cn
@@ -9797,7 +9712,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ykrec.youku.com
 0.0.0.0	ykrectab.youku.com
 0.0.0.0	youku-crm-product.youku.com
-0.0.0.0	519332da.rtc.youme.im
 0.0.0.0	youmi.net
 0.0.0.0	report.ml.youngjoygame.com
 0.0.0.0	api.youngle.site
@@ -9822,7 +9736,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yrszy.com.cn
 0.0.0.0	ys630.com
 0.0.0.0	ys6ot.cn
-0.0.0.0	ad-material.ys7.com
 0.0.0.0	log.ys7.com
 0.0.0.0	ysdqww.com
 0.0.0.0	ysgsq.cn
@@ -9983,7 +9896,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1234.zgxue.com
 0.0.0.0	td.zgxue.com
 0.0.0.0	zh-imtoken.cn
-0.0.0.0	zh-telegram-app.com.cn
 0.0.0.0	zhads.com
 0.0.0.0	guang1.zhakao.cn
 0.0.0.0	tfs.zhamm.cn
