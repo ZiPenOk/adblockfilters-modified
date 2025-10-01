@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20251001003331
-# Last modified: 2025/10/01 00:33:31
-# Blocked domains: 10292
+# Version: 20251001100841
+# Last modified: 2025/10/01 10:08:41
+# Blocked domains: 10289
 #
 [Rule]
 DOMAIN-SUFFIX,00-gov.cn,REJECT-DROP
@@ -439,6 +439,7 @@ DOMAIN-SUFFIX,wan.360.cn,REJECT-DROP
 DOMAIN-SUFFIX,wot.360.cn,REJECT-DROP
 DOMAIN-SUFFIX,wows.360.cn,REJECT-DROP
 DOMAIN-SUFFIX,yasuo.360.cn,REJECT-DROP
+DOMAIN-SUFFIX,ykapi.luyou.360.cn,REJECT-DROP
 DOMAIN-SUFFIX,yule.360.com,REJECT-DROP
 DOMAIN-SUFFIX,360ads.com,REJECT-DROP
 DOMAIN-SUFFIX,cps.360buy.com,REJECT-DROP
@@ -1831,7 +1832,6 @@ DOMAIN-SUFFIX,o36j7a2.azhhr.cn,REJECT-DROP
 DOMAIN-SUFFIX,collector.azure.cn,REJECT-DROP
 DOMAIN-SUFFIX,dc.applicationinsights.azure.cn,REJECT-DROP
 DOMAIN-SUFFIX,live.applicationinsights.azure.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.b207m.xyz,REJECT-DROP
 DOMAIN-SUFFIX,b217e.xyz,REJECT-DROP
 DOMAIN-SUFFIX,b217j.xyz,REJECT-DROP
 DOMAIN-SUFFIX,b217t.xyz,REJECT-DROP
@@ -2557,7 +2557,6 @@ DOMAIN-SUFFIX,cieloo2.duckdns.org,REJECT-DROP
 DOMAIN-SUFFIX,cig.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,cihc.cn,REJECT-DROP
 DOMAIN-SUFFIX,cilipa.cn,REJECT-DROP
-DOMAIN-SUFFIX,cippe.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,metrics.citi.cn,REJECT-DROP
 DOMAIN-SUFFIX,metrics.citi.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,metrics.citibank.cn,REJECT-DROP
@@ -3372,7 +3371,6 @@ DOMAIN-SUFFIX,ez4q2.cn,REJECT-DROP
 DOMAIN-SUFFIX,analytics.ezbim.net,REJECT-DROP
 DOMAIN-SUFFIX,qp.ezfxpuo.cn,REJECT-DROP
 DOMAIN-SUFFIX,ezucods.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.f104b.xyz,REJECT-DROP
 DOMAIN-SUFFIX,f119q.xyz,REJECT-DROP
 DOMAIN-SUFFIX,f119v.xyz,REJECT-DROP
 DOMAIN-SUFFIX,g.f11w.com,REJECT-DROP
@@ -5599,7 +5597,6 @@ DOMAIN-SUFFIX,p.m5bn.com,REJECT-DROP
 DOMAIN-SUFFIX,m77s.cn,REJECT-DROP
 DOMAIN-SUFFIX,e.m8l0ka.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.m8l0ka.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.m92b.xyz,REJECT-DROP
 DOMAIN-SUFFIX,macautravel.cn,REJECT-DROP
 DOMAIN-SUFFIX,macron.cn,REJECT-DROP
 DOMAIN-SUFFIX,madhouse.cn,REJECT-DROP

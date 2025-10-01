@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/01 00:33:31
-#!support=10292
+#!date=2025/10/01 10:08:41
+#!support=10289
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -442,6 +442,7 @@ DOMAIN-SUFFIX,wan.360.cn
 DOMAIN-SUFFIX,wot.360.cn
 DOMAIN-SUFFIX,wows.360.cn
 DOMAIN-SUFFIX,yasuo.360.cn
+DOMAIN-SUFFIX,ykapi.luyou.360.cn
 DOMAIN-SUFFIX,yule.360.com
 DOMAIN-SUFFIX,360ads.com
 DOMAIN-SUFFIX,cps.360buy.com
@@ -1834,7 +1835,6 @@ DOMAIN-SUFFIX,o36j7a2.azhhr.cn
 DOMAIN-SUFFIX,collector.azure.cn
 DOMAIN-SUFFIX,dc.applicationinsights.azure.cn
 DOMAIN-SUFFIX,live.applicationinsights.azure.cn
-DOMAIN-SUFFIX,www.b207m.xyz
 DOMAIN-SUFFIX,b217e.xyz
 DOMAIN-SUFFIX,b217j.xyz
 DOMAIN-SUFFIX,b217t.xyz
@@ -2560,7 +2560,6 @@ DOMAIN-SUFFIX,cieloo2.duckdns.org
 DOMAIN-SUFFIX,cig.com.cn
 DOMAIN-SUFFIX,cihc.cn
 DOMAIN-SUFFIX,cilipa.cn
-DOMAIN-SUFFIX,cippe.com.cn
 DOMAIN-SUFFIX,metrics.citi.cn
 DOMAIN-SUFFIX,metrics.citi.com.cn
 DOMAIN-SUFFIX,metrics.citibank.cn
@@ -3375,7 +3374,6 @@ DOMAIN-SUFFIX,ez4q2.cn
 DOMAIN-SUFFIX,analytics.ezbim.net
 DOMAIN-SUFFIX,qp.ezfxpuo.cn
 DOMAIN-SUFFIX,ezucods.cn
-DOMAIN-SUFFIX,www.f104b.xyz
 DOMAIN-SUFFIX,f119q.xyz
 DOMAIN-SUFFIX,f119v.xyz
 DOMAIN-SUFFIX,g.f11w.com
@@ -5602,7 +5600,6 @@ DOMAIN-SUFFIX,p.m5bn.com
 DOMAIN-SUFFIX,m77s.cn
 DOMAIN-SUFFIX,e.m8l0ka.cn
 DOMAIN-SUFFIX,m.m8l0ka.cn
-DOMAIN-SUFFIX,www.m92b.xyz
 DOMAIN-SUFFIX,macautravel.cn
 DOMAIN-SUFFIX,macron.cn
 DOMAIN-SUFFIX,madhouse.cn
