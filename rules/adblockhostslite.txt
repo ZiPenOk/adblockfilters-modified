@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251003163357
-# Last modified: 2025/10/03 16:33:57
-# Blocked domains: 10231
+# Version: 20251004003205
+# Last modified: 2025/10/04 00:32:05
+# Blocked domains: 10199
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -123,7 +123,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.11130.com.cn
 0.0.0.0	oss-asq-static.11222.cn
 0.0.0.0	113.31.111.76
-0.0.0.0	113.44.4.61
 0.0.0.0	113.98.201.248
 0.0.0.0	1133.cc
 0.0.0.0	114.55.106.136
@@ -145,7 +144,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.83.6
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
-0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -527,7 +525,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	39.100.33.142
 0.0.0.0	39.103.217.92
 0.0.0.0	39.104.161.178
-0.0.0.0	39.105.165.37
 0.0.0.0	39.106.144.162
 0.0.0.0	39.107.85.83
 0.0.0.0	abody.39.net
@@ -602,7 +599,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.111.146.110
 0.0.0.0	47.116.208.81
 0.0.0.0	47.119.34.138
-0.0.0.0	47.120.46.210
 0.0.0.0	47.122.119.55
 0.0.0.0	47.122.30.177
 0.0.0.0	47.122.66.99
@@ -1288,7 +1284,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	94ab.com
 0.0.0.0	ads.95516.com
 0.0.0.0	analytics.95516.com
-0.0.0.0	9592bw.com
 0.0.0.0	959995.cn
 0.0.0.0	95photo.cn
 0.0.0.0	1.95ye.com
@@ -1895,9 +1890,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	collector.azure.cn
 0.0.0.0	dc.applicationinsights.azure.cn
 0.0.0.0	live.applicationinsights.azure.cn
-0.0.0.0	b208g.xyz
-0.0.0.0	b217t.xyz
-0.0.0.0	b217w.xyz
+0.0.0.0	www.b208g.xyz
 0.0.0.0	b218f.xyz
 0.0.0.0	b218p.xyz
 0.0.0.0	b218s.xyz
@@ -2608,7 +2601,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cieloo2.duckdns.org
 0.0.0.0	cig.com.cn
 0.0.0.0	cilipa.cn
-0.0.0.0	cippe.com.cn
 0.0.0.0	metrics.citi.cn
 0.0.0.0	metrics.citi.com.cn
 0.0.0.0	metrics.citibank.cn
@@ -3260,7 +3252,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.e-toys.cn
 0.0.0.0	e-wei.com.cn
 0.0.0.0	e106d.xyz
-0.0.0.0	e106l.xyz
 0.0.0.0	e106x.xyz
 0.0.0.0	e106y.xyz
 0.0.0.0	newscname1.e23.cn
@@ -3655,7 +3646,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.fxltsbl.com
 0.0.0.0	uxaz.fxnfk.cn
 0.0.0.0	fxtducb.cn
-0.0.0.0	fxzch.cn
+0.0.0.0	www.fxzch.cn
 0.0.0.0	fy14.cn
 0.0.0.0	m.fy4zb.cn
 0.0.0.0	fy60.icu
@@ -3720,7 +3711,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gdhongyu17.cn
 0.0.0.0	gdtimg.com
 0.0.0.0	gdtqq.cn
-0.0.0.0	gdxt10.cn
 0.0.0.0	gdyjs.com
 0.0.0.0	m.gdzyo.cn
 0.0.0.0	ge.cn
@@ -3755,7 +3745,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jy.ggweb.net
 0.0.0.0	shqdown.ggzuhao.com
 0.0.0.0	stats.dmp.ghac.cn
-0.0.0.0	gharieni.cn
 0.0.0.0	ghdoor.com
 0.0.0.0	ghost8.cn
 0.0.0.0	ghshbt.cn
@@ -3879,7 +3868,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	googleminiapps.cn
 0.0.0.0	googleoptimize-cn.com
 0.0.0.0	googleoptimize.com
-0.0.0.0	googlepay.cn
 0.0.0.0	googlesapis.com.cn
 0.0.0.0	googlesyndication-cn.com
 0.0.0.0	googlesyndication.com
@@ -4817,9 +4805,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xlstat.izuiyou.com
 0.0.0.0	ee.j06kc.cn
 0.0.0.0	m.j06kc.cn
-0.0.0.0	j220a.xyz
-0.0.0.0	j220l.xyz
-0.0.0.0	j220o.xyz
 0.0.0.0	j221o.xyz
 0.0.0.0	j23l.xyz
 0.0.0.0	j23r.xyz
@@ -5625,8 +5610,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lzio.com
 0.0.0.0	lzjycy.com
 0.0.0.0	x.lzspf.com
-0.0.0.0	m106h.xyz
-0.0.0.0	m106q.xyz
 0.0.0.0	m106t.xyz
 0.0.0.0	m106w.xyz
 0.0.0.0	mlog.m1905.cn
@@ -6253,7 +6236,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yasu.nunbae.cn
 0.0.0.0	ray2jing.808.nuno.cn
 0.0.0.0	log.nuomi.com
-0.0.0.0	metric.nuonuo.com
 0.0.0.0	nuxwlc.cn
 0.0.0.0	m.nuxyz.cn
 0.0.0.0	promotionad.nvcam.net
@@ -6378,8 +6360,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	p188.cn
 0.0.0.0	p2cdn.com
 0.0.0.0	p555.cc
-0.0.0.0	p91t.xyz
-0.0.0.0	p91w.xyz
 0.0.0.0	p92g.xyz
 0.0.0.0	p92n.xyz
 0.0.0.0	p93h.xyz
@@ -7204,7 +7184,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.s47e8.cn
 0.0.0.0	s66t.xyz
 0.0.0.0	s8.pw
-0.0.0.0	s80j.xyz
 0.0.0.0	s80u.xyz
 0.0.0.0	s81c.xyz
 0.0.0.0	g.s8dj.com
@@ -7841,9 +7820,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	t2.szyweb.com
 0.0.0.0	t101.cn
 0.0.0.0	t28goe.cn
-0.0.0.0	t29a.xyz
 0.0.0.0	t29f.xyz
-0.0.0.0	t29g.xyz
 0.0.0.0	t8qza2m.cn
 0.0.0.0	taboola.com.cn
 0.0.0.0	tagcommander.com
@@ -8314,7 +8291,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ee.u4q2.cn
 0.0.0.0	m.u4q2.cn
 0.0.0.0	u51.me
-0.0.0.0	u58f.xyz
 0.0.0.0	u59a.xyz
 0.0.0.0	u59p.xyz
 0.0.0.0	u5ps5.icu
@@ -8802,7 +8778,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vzvvifw.cn
 0.0.0.0	w010w.com.cn
 0.0.0.0	w28u.xyz
-0.0.0.0	w28w.xyz
 0.0.0.0	w29b.xyz
 0.0.0.0	w29s.xyz
 0.0.0.0	w4pma.cn
@@ -9084,8 +9059,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wzscales.com
 0.0.0.0	a.wzu.com
 0.0.0.0	x-steam.com
-0.0.0.0	x66e.xyz
-0.0.0.0	x66z.xyz
 0.0.0.0	x67a.xyz
 0.0.0.0	x67q.xyz
 0.0.0.0	x68a.xyz
@@ -9579,9 +9552,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	y7wr7.cn
 0.0.0.0	e.y9062t.cn
 0.0.0.0	m.y9062t.cn
-0.0.0.0	y97a.xyz
-0.0.0.0	y97f.xyz
-0.0.0.0	y97m.xyz
 0.0.0.0	y98b.xyz
 0.0.0.0	y98c.xyz
 0.0.0.0	y98g.xyz
@@ -9802,7 +9772,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	myes.youku.com
 0.0.0.0	orange-dc.youku.com
 0.0.0.0	pcapp-data-collect.youku.com
-0.0.0.0	pis-tel-pcdn.youku.com
 0.0.0.0	pl.youku.com
 0.0.0.0	player-lg.youku.com
 0.0.0.0	playlog.youku.com
@@ -10192,7 +10161,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zq-hk.cn
 0.0.0.0	zqvhr.cn
 0.0.0.0	a.zqycftmex.cn
-0.0.0.0	octavette.zricflc.cn
 0.0.0.0	writerwise.zrinhbs.cn
 0.0.0.0	zsdexun.com.cn
 0.0.0.0	zsjxwj.com

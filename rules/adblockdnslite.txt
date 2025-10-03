@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251003163357
-! Last modified: 2025/10/03 16:33:57
-! Blocked domains: 10231
+! Version: 20251004003205
+! Last modified: 2025/10/04 00:32:05
+! Blocked domains: 10199
 ! unBlocked domains: 51
 !
 ||00-gov.cn^
@@ -109,7 +109,6 @@
 ||1.11130.com.cn^
 ||oss-asq-static.11222.cn^
 ||113.31.111.76^
-||113.44.4.61^
 ||113.98.201.248^
 ||1133.cc^
 ||114.55.106.136^
@@ -131,7 +130,6 @@
 ||117.72.83.6^
 ||118.178.133.241^
 ||118.25.68.152^
-||118.25.85.198^
 ||118678.com^
 ||1188.com^
 ||11888vip.cn^
@@ -513,7 +511,6 @@
 ||39.100.33.142^
 ||39.103.217.92^
 ||39.104.161.178^
-||39.105.165.37^
 ||39.106.144.162^
 ||39.107.85.83^
 ||abody.39.net^
@@ -588,7 +585,6 @@
 ||47.111.146.110^
 ||47.116.208.81^
 ||47.119.34.138^
-||47.120.46.210^
 ||47.122.119.55^
 ||47.122.30.177^
 ||47.122.66.99^
@@ -1274,7 +1270,6 @@
 ||94ab.com^
 ||ads.95516.com^
 ||analytics.95516.com^
-||9592bw.com^
 ||959995.cn^
 ||95photo.cn^
 ||1.95ye.com^
@@ -1881,9 +1876,7 @@
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||live.applicationinsights.azure.cn^
-||b208g.xyz^
-||b217t.xyz^
-||b217w.xyz^
+||www.b208g.xyz^
 ||b218f.xyz^
 ||b218p.xyz^
 ||b218s.xyz^
@@ -2594,7 +2587,6 @@
 ||cieloo2.duckdns.org^
 ||cig.com.cn^
 ||cilipa.cn^
-||cippe.com.cn^
 ||metrics.citi.cn^
 ||metrics.citi.com.cn^
 ||metrics.citibank.cn^
@@ -3246,7 +3238,6 @@
 ||api.e-toys.cn^
 ||e-wei.com.cn^
 ||e106d.xyz^
-||e106l.xyz^
 ||e106x.xyz^
 ||e106y.xyz^
 ||newscname1.e23.cn^
@@ -3641,7 +3632,7 @@
 ||a.fxltsbl.com^
 ||uxaz.fxnfk.cn^
 ||fxtducb.cn^
-||fxzch.cn^
+||www.fxzch.cn^
 ||fy14.cn^
 ||m.fy4zb.cn^
 ||fy60.icu^
@@ -3706,7 +3697,6 @@
 ||gdhongyu17.cn^
 ||gdtimg.com^
 ||gdtqq.cn^
-||gdxt10.cn^
 ||gdyjs.com^
 ||m.gdzyo.cn^
 ||ge.cn^
@@ -3741,7 +3731,6 @@
 ||jy.ggweb.net^
 ||shqdown.ggzuhao.com^
 ||stats.dmp.ghac.cn^
-||gharieni.cn^
 ||ghdoor.com^
 ||ghost8.cn^
 ||ghshbt.cn^
@@ -3865,7 +3854,6 @@
 ||googleminiapps.cn^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
-||googlepay.cn^
 ||googlesapis.com.cn^
 ||googlesyndication-cn.com^
 ||googlesyndication.com^
@@ -4803,9 +4791,6 @@
 ||xlstat.izuiyou.com^
 ||ee.j06kc.cn^
 ||m.j06kc.cn^
-||j220a.xyz^
-||j220l.xyz^
-||j220o.xyz^
 ||j221o.xyz^
 ||j23l.xyz^
 ||j23r.xyz^
@@ -5611,8 +5596,6 @@
 ||lzio.com^
 ||lzjycy.com^
 ||x.lzspf.com^
-||m106h.xyz^
-||m106q.xyz^
 ||m106t.xyz^
 ||m106w.xyz^
 ||mlog.m1905.cn^
@@ -6239,7 +6222,6 @@
 ||yasu.nunbae.cn^
 ||ray2jing.808.nuno.cn^
 ||log.nuomi.com^
-||metric.nuonuo.com^
 ||nuxwlc.cn^
 ||m.nuxyz.cn^
 ||promotionad.nvcam.net^
@@ -6364,8 +6346,6 @@
 ||p188.cn^
 ||p2cdn.com^
 ||p555.cc^
-||p91t.xyz^
-||p91w.xyz^
 ||p92g.xyz^
 ||p92n.xyz^
 ||p93h.xyz^
@@ -7190,7 +7170,6 @@
 ||m.s47e8.cn^
 ||s66t.xyz^
 ||s8.pw^
-||s80j.xyz^
 ||s80u.xyz^
 ||s81c.xyz^
 ||g.s8dj.com^
@@ -7827,9 +7806,7 @@
 ||t2.szyweb.com^
 ||t101.cn^
 ||t28goe.cn^
-||t29a.xyz^
 ||t29f.xyz^
-||t29g.xyz^
 ||t8qza2m.cn^
 ||taboola.com.cn^
 ||tagcommander.com^
@@ -8300,7 +8277,6 @@
 ||ee.u4q2.cn^
 ||m.u4q2.cn^
 ||u51.me^
-||u58f.xyz^
 ||u59a.xyz^
 ||u59p.xyz^
 ||u5ps5.icu^
@@ -8788,7 +8764,6 @@
 ||vzvvifw.cn^
 ||w010w.com.cn^
 ||w28u.xyz^
-||w28w.xyz^
 ||w29b.xyz^
 ||w29s.xyz^
 ||w4pma.cn^
@@ -9070,8 +9045,6 @@
 ||wzscales.com^
 ||a.wzu.com^
 ||x-steam.com^
-||x66e.xyz^
-||x66z.xyz^
 ||x67a.xyz^
 ||x67q.xyz^
 ||x68a.xyz^
@@ -9565,9 +9538,6 @@
 ||y7wr7.cn^
 ||e.y9062t.cn^
 ||m.y9062t.cn^
-||y97a.xyz^
-||y97f.xyz^
-||y97m.xyz^
 ||y98b.xyz^
 ||y98c.xyz^
 ||y98g.xyz^
@@ -9788,7 +9758,6 @@
 ||myes.youku.com^
 ||orange-dc.youku.com^
 ||pcapp-data-collect.youku.com^
-||pis-tel-pcdn.youku.com^
 ||pl.youku.com^
 ||player-lg.youku.com^
 ||playlog.youku.com^
@@ -10178,7 +10147,6 @@
 ||zq-hk.cn^
 ||zqvhr.cn^
 ||a.zqycftmex.cn^
-||octavette.zricflc.cn^
 ||writerwise.zrinhbs.cn^
 ||zsdexun.com.cn^
 ||zsjxwj.com^
