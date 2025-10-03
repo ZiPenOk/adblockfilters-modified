@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251003003234
-# Last modified: 2025/10/03 00:32:34
-# Blocked domains: 9897
+# Version: 20251003095548
+# Last modified: 2025/10/03 09:55:48
+# Blocked domains: 9893
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -138,7 +138,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
 0.0.0.0	118.25.85.198
-0.0.0.0	118.89.73.78
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -1149,7 +1148,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
 0.0.0.0	8.153.97.202
-0.0.0.0	8.154.18.17
 0.0.0.0	8020home.com.cn
 0.0.0.0	www.805m.com
 0.0.0.0	a.80982.org
@@ -3856,7 +3854,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gzzkjdam.cn
 0.0.0.0	h01ce.cn
 0.0.0.0	h148.cn
-0.0.0.0	h29f.xyz
 0.0.0.0	h3806.cn
 0.0.0.0	h4k5.com
 0.0.0.0	h51.com
@@ -6117,7 +6114,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	p188.cn
 0.0.0.0	p2cdn.com
 0.0.0.0	p555.cc
-0.0.0.0	p76x.xyz
 0.0.0.0	p91t.xyz
 0.0.0.0	p91w.xyz
 0.0.0.0	p92g.xyz
