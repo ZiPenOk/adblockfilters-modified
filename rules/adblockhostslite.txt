@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251004003205
-# Last modified: 2025/10/04 00:32:05
-# Blocked domains: 10199
+# Version: 20251004095118
+# Last modified: 2025/10/04 09:51:18
+# Blocked domains: 10190
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -84,7 +84,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0x5.me
 0.0.0.0	1-bmo-client-login.com
 0.0.0.0	1.15.134.238
-0.0.0.0	1.15.174.189
 0.0.0.0	10000xing.cn
 0.0.0.0	1000su.com
 0.0.0.0	1717.1000uc.com
@@ -140,10 +139,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.214.21
 0.0.0.0	117.72.218.179
 0.0.0.0	117.72.222.203
-0.0.0.0	117.72.72.84
 0.0.0.0	117.72.83.6
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
+0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -525,6 +524,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	39.100.33.142
 0.0.0.0	39.103.217.92
 0.0.0.0	39.104.161.178
+0.0.0.0	39.105.165.37
 0.0.0.0	39.106.144.162
 0.0.0.0	39.107.85.83
 0.0.0.0	abody.39.net
@@ -599,6 +599,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.111.146.110
 0.0.0.0	47.116.208.81
 0.0.0.0	47.119.34.138
+0.0.0.0	47.120.46.210
 0.0.0.0	47.122.119.55
 0.0.0.0	47.122.30.177
 0.0.0.0	47.122.66.99
@@ -1890,7 +1891,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	collector.azure.cn
 0.0.0.0	dc.applicationinsights.azure.cn
 0.0.0.0	live.applicationinsights.azure.cn
-0.0.0.0	www.b208g.xyz
 0.0.0.0	b218f.xyz
 0.0.0.0	b218p.xyz
 0.0.0.0	b218s.xyz
@@ -2342,7 +2342,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bydonline.com
 0.0.0.0	bykj.com.cn
 0.0.0.0	byroxa.shop
-0.0.0.0	log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com
 0.0.0.0	dm.bytedance.com
 0.0.0.0	mssdk.bytedance.com
 0.0.0.0	mssdk-bu.bytedance.com
@@ -3293,7 +3292,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eclicks.cn
 0.0.0.0	eddcc.icu
 0.0.0.0	eddong.com
-0.0.0.0	989kl09.edgeone.app
 0.0.0.0	accgovgetwayuk-70ldffym6a.edgeone.app
 0.0.0.0	earthewndegtheyased.edgeone.app
 0.0.0.0	pointball-llvwkkfsoo.edgeone.app
@@ -3646,7 +3644,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.fxltsbl.com
 0.0.0.0	uxaz.fxnfk.cn
 0.0.0.0	fxtducb.cn
-0.0.0.0	www.fxzch.cn
 0.0.0.0	fy14.cn
 0.0.0.0	m.fy4zb.cn
 0.0.0.0	fy60.icu
@@ -5163,7 +5160,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kmihknj.cn
 0.0.0.0	kmpxq.cn
 0.0.0.0	kmruv.cn
-0.0.0.0	kmwqa.cn
 0.0.0.0	kmzayrt.cn
 0.0.0.0	kxlogo.knet.cn
 0.0.0.0	rr.knet.cn
@@ -5554,7 +5550,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	luckylk.com
 0.0.0.0	lucting.cn
 0.0.0.0	m.lulitechnology.cn
-0.0.0.0	lulubzl.icu
 0.0.0.0	lulucls.icu
 0.0.0.0	lulucoa.icu
 0.0.0.0	luluebh.icu
@@ -5644,7 +5639,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adx.mala.cn
 0.0.0.0	statis1.mama.cn
 0.0.0.0	mamababu.cn
-0.0.0.0	mamataassociate.com
 0.0.0.0	mangfo.com
 0.0.0.0	mangguo.info
 0.0.0.0	mangomob.net
@@ -7037,7 +7031,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	quyaoya.com
 0.0.0.0	qvonje.cn
 0.0.0.0	api.qvpublish.com
-0.0.0.0	qvxpr.cn
 0.0.0.0	qwer220.cn
 0.0.0.0	qwvv.com
 0.0.0.0	u.qxen.com
@@ -7182,7 +7175,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	s11.cn
 0.0.0.0	s3d4.cn
 0.0.0.0	m.s47e8.cn
-0.0.0.0	s66t.xyz
 0.0.0.0	s8.pw
 0.0.0.0	s80u.xyz
 0.0.0.0	s81c.xyz
@@ -9809,7 +9801,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ypschool.cn
 0.0.0.0	yqlxkzs.cn
 0.0.0.0	photo.yqydjr.cn
-0.0.0.0	yr3icjq.cn
 0.0.0.0	yrszy.com.cn
 0.0.0.0	ys630.com
 0.0.0.0	ys6ot.cn

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251004003205
-! Last modified: 2025/10/04 00:32:05
-! Blocked domains: 10199
+! Version: 20251004095117
+! Last modified: 2025/10/04 09:51:17
+! Blocked domains: 10190
 ! unBlocked domains: 51
 !
 ||00-gov.cn^
@@ -70,7 +70,6 @@
 ||0x5.me^
 ||1-bmo-client-login.com^
 ||1.15.134.238^
-||1.15.174.189^
 ||10000xing.cn^
 ||1000su.com^
 ||1717.1000uc.com^
@@ -126,10 +125,10 @@
 ||117.72.214.21^
 ||117.72.218.179^
 ||117.72.222.203^
-||117.72.72.84^
 ||117.72.83.6^
 ||118.178.133.241^
 ||118.25.68.152^
+||118.25.85.198^
 ||118678.com^
 ||1188.com^
 ||11888vip.cn^
@@ -511,6 +510,7 @@
 ||39.100.33.142^
 ||39.103.217.92^
 ||39.104.161.178^
+||39.105.165.37^
 ||39.106.144.162^
 ||39.107.85.83^
 ||abody.39.net^
@@ -585,6 +585,7 @@
 ||47.111.146.110^
 ||47.116.208.81^
 ||47.119.34.138^
+||47.120.46.210^
 ||47.122.119.55^
 ||47.122.30.177^
 ||47.122.66.99^
@@ -1876,7 +1877,6 @@
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||live.applicationinsights.azure.cn^
-||www.b208g.xyz^
 ||b218f.xyz^
 ||b218p.xyz^
 ||b218s.xyz^
@@ -2328,7 +2328,6 @@
 ||bydonline.com^
 ||bykj.com.cn^
 ||byroxa.shop^
-||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
 ||mssdk-bu.bytedance.com^
@@ -3279,7 +3278,6 @@
 ||eclicks.cn^
 ||eddcc.icu^
 ||eddong.com^
-||989kl09.edgeone.app^
 ||accgovgetwayuk-70ldffym6a.edgeone.app^
 ||earthewndegtheyased.edgeone.app^
 ||pointball-llvwkkfsoo.edgeone.app^
@@ -3632,7 +3630,6 @@
 ||a.fxltsbl.com^
 ||uxaz.fxnfk.cn^
 ||fxtducb.cn^
-||www.fxzch.cn^
 ||fy14.cn^
 ||m.fy4zb.cn^
 ||fy60.icu^
@@ -5149,7 +5146,6 @@
 ||kmihknj.cn^
 ||kmpxq.cn^
 ||kmruv.cn^
-||kmwqa.cn^
 ||kmzayrt.cn^
 ||kxlogo.knet.cn^
 ||rr.knet.cn^
@@ -5540,7 +5536,6 @@
 ||luckylk.com^
 ||lucting.cn^
 ||m.lulitechnology.cn^
-||lulubzl.icu^
 ||lulucls.icu^
 ||lulucoa.icu^
 ||luluebh.icu^
@@ -5630,7 +5625,6 @@
 ||adx.mala.cn^
 ||statis1.mama.cn^
 ||mamababu.cn^
-||mamataassociate.com^
 ||mangfo.com^
 ||mangguo.info^
 ||mangomob.net^
@@ -7023,7 +7017,6 @@
 ||quyaoya.com^
 ||qvonje.cn^
 ||api.qvpublish.com^
-||qvxpr.cn^
 ||qwer220.cn^
 ||qwvv.com^
 ||u.qxen.com^
@@ -7168,7 +7161,6 @@
 ||s11.cn^
 ||s3d4.cn^
 ||m.s47e8.cn^
-||s66t.xyz^
 ||s8.pw^
 ||s80u.xyz^
 ||s81c.xyz^
@@ -9795,7 +9787,6 @@
 ||ypschool.cn^
 ||yqlxkzs.cn^
 ||photo.yqydjr.cn^
-||yr3icjq.cn^
 ||yrszy.com.cn^
 ||ys630.com^
 ||ys6ot.cn^
