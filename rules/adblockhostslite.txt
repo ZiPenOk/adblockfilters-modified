@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251005162959
-# Last modified: 2025/10/05 16:29:59
-# Blocked domains: 10242
+# Version: 20251006002913
+# Last modified: 2025/10/06 00:29:13
+# Blocked domains: 10196
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -67,7 +67,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0898fang.cn
 0.0.0.0	m.0898xlj.cn
 0.0.0.0	0941.org
-0.0.0.0	098f6bcd4621d373cade4e832627b4f6.com
 0.0.0.0	0a4e760d2daf1fa2.com
 0.0.0.0	0doudou.cn
 0.0.0.0	0dwm.icu
@@ -1004,46 +1003,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	76806.xyz
 0.0.0.0	76808.xyz
 0.0.0.0	76817.xyz
-0.0.0.0	76839.xyz
-0.0.0.0	76841.xyz
-0.0.0.0	76843.xyz
-0.0.0.0	76845.xyz
-0.0.0.0	76847.xyz
-0.0.0.0	76848.xyz
-0.0.0.0	76850.xyz
-0.0.0.0	76852.xyz
-0.0.0.0	76858.xyz
-0.0.0.0	76860.xyz
-0.0.0.0	76864.xyz
-0.0.0.0	76867.xyz
-0.0.0.0	76869.xyz
-0.0.0.0	76870.xyz
-0.0.0.0	76871.xyz
-0.0.0.0	76875.xyz
-0.0.0.0	76877.xyz
-0.0.0.0	76880.xyz
-0.0.0.0	76882.xyz
-0.0.0.0	76883.xyz
-0.0.0.0	76884.xyz
-0.0.0.0	76886.xyz
 0.0.0.0	76887.xyz
 0.0.0.0	76888.xyz
-0.0.0.0	76896.xyz
-0.0.0.0	76902.xyz
-0.0.0.0	76907.xyz
-0.0.0.0	76911.xyz
-0.0.0.0	76915.xyz
-0.0.0.0	76918.xyz
-0.0.0.0	76920.xyz
-0.0.0.0	76923.xyz
-0.0.0.0	76927.xyz
-0.0.0.0	76929.xyz
-0.0.0.0	76931.xyz
-0.0.0.0	76932.xyz
-0.0.0.0	76934.xyz
-0.0.0.0	76939.xyz
-0.0.0.0	76941.xyz
-0.0.0.0	76945.xyz
 0.0.0.0	76951.xyz
 0.0.0.0	76956.xyz
 0.0.0.0	76987.xyz
@@ -1862,7 +1823,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	collector.azure.cn
 0.0.0.0	dc.applicationinsights.azure.cn
 0.0.0.0	live.applicationinsights.azure.cn
-0.0.0.0	b218f.xyz
 0.0.0.0	b218v.xyz
 0.0.0.0	b219g.xyz
 0.0.0.0	b219k.xyz
@@ -2675,7 +2635,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	moa-upload-online.coloros.com
 0.0.0.0	moa-upload-online-in.coloros.com
 0.0.0.0	smartcard.apps.coloros.com
-0.0.0.0	com-trackingok.net
 0.0.0.0	com5.com.cn
 0.0.0.0	m.comberry.cn
 0.0.0.0	commander1.com
@@ -4713,7 +4672,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	irs03.com
 0.0.0.0	iscrv.com
 0.0.0.0	isf-yingyangshi.cn
-0.0.0.0	iskd.click
 0.0.0.0	isoon.net
 0.0.0.0	istartsurf.com
 0.0.0.0	168.it168.com
@@ -4966,8 +4924,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jnyngg.cn
 0.0.0.0	ub1.job592.com
 0.0.0.0	jobduo.cn
-0.0.0.0	jobflow.group
-0.0.0.0	jobflow.onl
 0.0.0.0	bd3.jobui.com
 0.0.0.0	hiorange1.jobui.com
 0.0.0.0	yqg.jobui.com
@@ -6532,7 +6488,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	de.as.pptv.com
 0.0.0.0	dl4.vas.pptv.com
 0.0.0.0	g.pptv.com
-0.0.0.0	iafp.pptv.com
 0.0.0.0	jp.as.pptv.com
 0.0.0.0	pp2.pptv.com
 0.0.0.0	ppsj.pptv.com
@@ -7829,7 +7784,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	t2.szyweb.com
 0.0.0.0	t101.cn
 0.0.0.0	t28goe.cn
-0.0.0.0	t29f.xyz
 0.0.0.0	taboola.com.cn
 0.0.0.0	tagcommander.com
 0.0.0.0	tagmanager.cn
