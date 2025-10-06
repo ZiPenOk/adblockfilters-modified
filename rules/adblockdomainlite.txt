@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251006002913
-! Last modified: 2025/10/06 00:29:13
-! Blocked domains: 10196
+! Version: 20251006095908
+! Last modified: 2025/10/06 09:59:08
+! Blocked domains: 10186
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -124,12 +124,10 @@ appversion.115.com
 117.72.222.203
 118.178.133.241
 118.25.68.152
-118.25.85.198
 1188.com
 11888vip.cn
 bj1.118pan.com
 119.45.161.174
-120.25.163.165
 120.48.50.33
 analysis.120ask.com
 ax.120ask.com
@@ -266,7 +264,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.113.6.221
 182.92.99.95
 photo.188kc.cn
 webwebfenxi.189.cn
@@ -565,7 +562,6 @@ ios-pclog.3u.com
 m.408uo.cn
 409998.cn
 41grk.icu
-42.226.74.141
 426g.com
 43.138.139.240
 43.139.146.100
@@ -590,14 +586,12 @@ stat.api.4399.com
 47.109.93.252
 47.111.146.110
 47.113.186.138
-47.116.208.81
 47.119.34.138
 47.120.46.210
 47.122.119.55
 47.122.30.177
 47.93.28.103
 47.97.118.238
-47.98.136.161
 47.98.224.91
 472741a4e2e11746.com
 m.479db.cn
@@ -1088,8 +1082,6 @@ cp.7y7.com
 8.131.63.6
 8.134.199.119
 8.134.51.218
-8.134.74.227
-8.137.114.210
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -2710,7 +2702,6 @@ ctrmi.com
 cty.top
 best.obs.cn-sz1.ctyun.cn
 m.cuoss.com
-cutheatergroup.cn
 cvfgere96.cn
 cvv6.com
 z1.cwbaike.com
@@ -4009,7 +4000,6 @@ hejingroup.cn
 getsentry.hellotalk8.com
 helpoffice.cn
 alibaba-inc.kefu.helps.live
-hermes-de.qpon
 heshun365.cn
 hxsame.hexun.com
 itv.hexun.com
