@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/07 00:33:14
-#!support=10220
+#!date=2025/10/07 09:57:04
+#!support=10216
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0010jz.com
@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,100tone.com
 DOMAIN-SUFFIX,101.126.11.168
 DOMAIN-SUFFIX,101.132.131.225
 DOMAIN-SUFFIX,101.201.227.94
+DOMAIN-SUFFIX,101.43.2.116
 DOMAIN-SUFFIX,101.43.49.183
 DOMAIN-SUFFIX,1.1010pic.com
 DOMAIN-SUFFIX,2.1010pic.com
@@ -441,7 +442,6 @@ DOMAIN-SUFFIX,wan.360.cn
 DOMAIN-SUFFIX,wot.360.cn
 DOMAIN-SUFFIX,wows.360.cn
 DOMAIN-SUFFIX,yasuo.360.cn
-DOMAIN-SUFFIX,ykapi.luyou.360.cn
 DOMAIN-SUFFIX,yule.360.com
 DOMAIN-SUFFIX,360ads.com
 DOMAIN-SUFFIX,cps.360buy.com
@@ -4603,7 +4603,6 @@ DOMAIN-SUFFIX,sla-media.immomo.com
 DOMAIN-SUFFIX,atb-stats-api.imolive.tv
 DOMAIN-SUFFIX,imop.com
 DOMAIN-SUFFIX,ads-gdl.imovideo.ru
-DOMAIN-SUFFIX,m.imqkuc.cn
 DOMAIN-SUFFIX,imtoken.org.cn
 DOMAIN-SUFFIX,imyqb.cn
 DOMAIN-SUFFIX,pyk.in-neo.cn
@@ -5591,7 +5590,6 @@ DOMAIN-SUFFIX,p.m5bn.com
 DOMAIN-SUFFIX,m77s.cn
 DOMAIN-SUFFIX,e.m8l0ka.cn
 DOMAIN-SUFFIX,m.m8l0ka.cn
-DOMAIN-SUFFIX,www.m98g.xyz
 DOMAIN-SUFFIX,macautravel.cn
 DOMAIN-SUFFIX,madhouse.cn
 DOMAIN-SUFFIX,maextromotors.cn
@@ -6552,7 +6550,6 @@ DOMAIN-SUFFIX,pushcfg.com
 DOMAIN-SUFFIX,analytics.pushgrid.net
 DOMAIN-SUFFIX,ums.pushpia.cn
 DOMAIN-SUFFIX,pusure.com
-DOMAIN-SUFFIX,quiteern.puycril.cn
 DOMAIN-SUFFIX,pv4b.com
 DOMAIN-SUFFIX,pvk2e.icu
 DOMAIN-SUFFIX,pwdigital.cn
@@ -9067,7 +9064,6 @@ DOMAIN-SUFFIX,wzry5.cn
 DOMAIN-SUFFIX,wzscales.com
 DOMAIN-SUFFIX,a.wzu.com
 DOMAIN-SUFFIX,x-steam.com
-DOMAIN-SUFFIX,www.x49j.xyz
 DOMAIN-SUFFIX,x56i.xyz
 DOMAIN-SUFFIX,x67q.xyz
 DOMAIN-SUFFIX,x68a.xyz
