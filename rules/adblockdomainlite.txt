@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251007163525
-! Last modified: 2025/10/07 16:35:25
-! Blocked domains: 10044
+! Version: 20251008003319
+! Last modified: 2025/10/08 00:33:19
+! Blocked domains: 9923
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -592,7 +592,6 @@ stat.api.4399.com
 47.122.30.177
 47.93.28.103
 47.97.118.238
-47.98.136.161
 47.98.224.91
 472741a4e2e11746.com
 m.479db.cn
@@ -845,17 +844,12 @@ m.75l3g.cn
 76216.xyz
 76238.xyz
 76247.xyz
-76263.xyz
 76272.xyz
-76274.xyz
 76280.xyz
-76285.xyz
 76294.xyz
 76301.xyz
 7631.com
 76317.xyz
-76319.xyz
-76320.xyz
 76331.xyz
 76347.xyz
 76351.xyz
@@ -863,21 +857,15 @@ m.75l3g.cn
 76365.xyz
 76414.xyz
 76506.xyz
-76539.xyz
 76542.xyz
 76564.xyz
-76610.xyz
-76616.xyz
 76617.xyz
 76618.xyz
-76621.xyz
 76638.xyz
 76662.xyz
 76678.xyz
 76699.xyz
 76733.xyz
-76738.xyz
-76755.xyz
 76768hwj.cn
 76784.xyz
 76802.net
@@ -886,12 +874,8 @@ m.75l3g.cn
 76951.xyz
 76956.xyz
 76958.xyz
-76987.xyz
-76998.xyz
-77036.xyz
 77063.xyz
 77085.xyz
-77105.xyz
 77250.xyz
 77274.xyz
 77391.xyz
@@ -908,83 +892,49 @@ b.77shw.com
 78699.xyz
 78700.xyz
 78705.xyz
-78707.xyz
-78708.xyz
-78710.xyz
 78712.xyz
 78717.xyz
-78724.xyz
-78725.xyz
 78728.xyz
 78730.xyz
 78732.xyz
 78733.xyz
-78735.xyz
 78739.xyz
-78742.xyz
 78751.xyz
-78753.xyz
 78755.xyz
 78762.xyz
-78767.xyz
 78771.xyz
-78772.xyz
-78776.xyz
 78778.xyz
-78781.xyz
-78792.xyz
 78809.xyz
 78826.xyz
-78835.xyz
 78837.xyz
 78846.xyz
 78847.xyz
 78860.xyz
-78862.xyz
-78864.xyz
 78867.xyz
 78870.xyz
 78871.xyz
 78873.xyz
 78880.xyz
-78882.xyz
-78884.xyz
 78886.xyz
 78890.xyz
-78892.xyz
-78894.xyz
 78907.xyz
-78909.xyz
 78924.xyz
 78930.xyz
 78931.xyz
 78939.xyz
 78950.xyz
 78953.xyz
-78957.xyz
 7895983.cn
 78961.xyz
 78967.xyz
 78972.xyz
-78973.xyz
-78975.xyz
 79001.xyz
 79009.xyz
 79012.xyz
 79014.xyz
 79015.xyz
-79016.xyz
-79018.xyz
-79020.xyz
-79021.xyz
-79025.xyz
-79026.xyz
 79027.xyz
-79029.xyz
 79031.xyz
-79033.xyz
-79039.xyz
-79045.xyz
 79046.xyz
 79050.xyz
 79057.xyz
@@ -993,22 +943,14 @@ b.77shw.com
 79064.xyz
 79065.xyz
 79067.xyz
-79068.xyz
-79069.xyz
 79072.xyz
-79073.xyz
 79079.xyz
-79080.xyz
 79081.xyz
 79082.xyz
 79084.xyz
-79086.xyz
 79088.xyz
-79090.xyz
-79092.xyz
 79095.xyz
 79096.xyz
-79098.xyz
 7aey.icu
 7car.com.cn
 7cbwus.cn
@@ -1184,7 +1126,6 @@ a1096391186.top
 tgd.a1eg07.cn
 a25x.xyz
 a26a.xyz
-a26e.xyz
 a26q.xyz
 a281507858.top
 a2m.cn
@@ -1730,9 +1671,7 @@ designwise.aztdfee.cn
 collector.azure.cn
 dc.applicationinsights.azure.cn
 live.applicationinsights.azure.cn
-b218s.xyz
 b218v.xyz
-b219g.xyz
 b219k.xyz
 b1.b2b168.com
 b1.b2b168.net
@@ -1954,7 +1893,6 @@ bayescom.com
 bayimob.com
 bb4035948ad007d2.com
 bbbazlp.cn
-bbcc168338.top
 du1.bbdj.com
 event.bblmw.com
 bbnwl.cn
@@ -2078,7 +2016,6 @@ gimg.bitauto.com
 gstat.bitauto.com
 ip.bitauto.com
 log.bitauto.com
-bitflyer-home.info
 img11.biyan8.com
 sdkapiv2.bizport.cn
 bizrotator.com
@@ -2163,7 +2100,6 @@ bw567417.com
 bw621695.com
 bw737204.com
 bw777.shop
-bw841053.com
 bw947573.com
 bwegz.cn
 bwin2808.com
@@ -2287,7 +2223,6 @@ cdda104276.cn
 cdgxq.com
 cdhomexpo.cn
 cdilm.cn
-analytics.cditv.cn
 tracker.cdnbye.com
 by.tel.cdndm.com
 api-access.pangolin-sdk-toutiao-b.com.w.cdngslb.com
@@ -3084,7 +3019,6 @@ stat-ssl.e-map.ne.jp
 api.e-toys.cn
 e-wei.com.cn
 e106x.xyz
-e106y.xyz
 newscname1.e23.cn
 e4l4.com
 e708.net
@@ -3497,7 +3431,6 @@ ad.gameley.com
 click.gamersky.com
 ja.gamersky.com
 ja1.gamersky.com
-ja2.gamersky.com
 wmbd.gamersky.com
 gangda.info
 jiaoben.ganji.cn
@@ -3802,13 +3735,7 @@ h51.com
 bm.h576.com
 t.h5data.com
 s.h5king.com
-h60z.xyz
-h61b.xyz
-h61d.xyz
 h6295.com
-h62c.xyz
-h62d.xyz
-h62f.xyz
 h62o.xyz
 h62r.xyz
 h99.cn
@@ -4037,7 +3964,6 @@ hiido.com
 hiofficer.com.cn
 api-4know-em.hismarttv.com
 api-4know-eu.hismarttv.com
-api-cloudfalcon.hismarttv.com
 api-gps.hismarttv.com
 api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
@@ -4047,7 +3973,6 @@ api-launcher-em.hismarttv.com
 api-launcher-eu.hismarttv.com
 api-launcher-na.hismarttv.com
 api-launcher-sa.hismarttv.com
-api-vidaaasst.hismarttv.com
 api.eu.hismarttv.com
 auth-em.hismarttv.com
 auth-eu.hismarttv.com
@@ -4066,8 +3991,6 @@ unified-ter-na.hismarttv.com
 upgrade-update.hismarttv.com
 v2-api-channel-launcher.hismarttv.com
 hitasg.top
-hitjrc.com
-hituks.top
 stun.hitv.com
 hivecn.cn
 hj217.com
@@ -4120,7 +4043,6 @@ hoverming.cn
 abtest-api-data-sg.hoyoverse.com
 ad-log-upload-os.hoyoverse.com
 apm-log-upload-os.hoyoverse.com
-bh3-sdk-os-static.hoyoverse.com
 devlog-upload-os.hoyoverse.com
 hkrpg-log-upload-os.hoyoverse.com
 log-upload-os.hoyoverse.com
@@ -4447,7 +4369,6 @@ inad.com
 sdhfct.inccw.com
 dlres.ind9ed.com
 ssp.indexmob.com
-indiaposthom.help
 indonesias.me
 inepost.top
 link.infineon.cn
@@ -4606,21 +4527,11 @@ xladapi.izuiyou.com
 xlstat.izuiyou.com
 ee.j06kc.cn
 m.j06kc.cn
-j23l.xyz
-j23r.xyz
-j23w.xyz
-j23x.xyz
-j23z.xyz
 j25a.xyz
-j25e.xyz
 j25h.xyz
 j25l.xyz
 j26r.xyz
-j26x.xyz
-j27l.xyz
-j27u.xyz
 j27x.xyz
-j28e.xyz
 j28f.xyz
 j28l.xyz
 j28v.xyz
@@ -5355,12 +5266,10 @@ amazon.co.jp.ltiy.cn
 lucting.cn
 m.lulitechnology.cn
 lulucls.icu
-lulucoa.icu
 luluebh.icu
 lulugda.icu
 lulugui.icu
 luluhfh.icu
-lulujcc.icu
 lulukvm.icu
 metrics.lululemon.cn
 smetrics.lululemon.cn
@@ -5409,8 +5318,6 @@ m.lzida.com
 lzio.com
 lzjycy.com
 x.lzspf.com
-m106t.xyz
-m106w.xyz
 m107i.xyz
 mlog.m1905.cn
 trace.m1905.cn
@@ -5983,7 +5890,6 @@ njob.com.cn
 njzyjy.cn
 nkscdn.com
 img.nktcw.cn
-nlhki1k.cn
 nlyuuy.cn
 nmgyllh.cn
 nmkgs.cn
@@ -6083,7 +5989,6 @@ okwfx.cn
 olmvkq.cn
 m.omztf.cn
 on5ga.icu
-onchainfind.help
 oneapm.com
 onelnk.com
 click.oneplus.cn
@@ -6152,7 +6057,6 @@ apps.outfit7.com
 apps2.outfit7.com
 at-af.outfit7.com
 bidder.dsp.outfit7.com
-events-api-ak.outfit7.com
 hb-af-us-central1.outfit7.com
 revive.outin.cn
 ouyaoxiazai.com
@@ -6165,9 +6069,7 @@ p0v2ni.cn
 p188.cn
 p2cdn.com
 p555.cc
-p92n.xyz
 p93h.xyz
-p93k.xyz
 static.paddlewaver.com
 track.paddlewaver.com
 xml-v4.paddlewaver.com
@@ -6308,7 +6210,6 @@ pop800.com
 popupad.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
-postindom.art
 postut.cn
 postv1.help
 povbdf.cn
@@ -6692,7 +6593,6 @@ report.gamecenter.qq.com
 report.imtt.qq.com
 report.kg.qq.com
 report.nfa.qq.com
-report.qcloudcdn.qq.com
 report.qqweb.qq.com
 report.syzs.qq.com
 report.trade.weixin.qq.com
@@ -6850,7 +6750,6 @@ msg-intl.qy.net
 msgv6.qy.net
 ad.qyer.com
 hades.qyer.com
-r14b.xyz
 r14f.xyz
 r15l.xyz
 r15z.xyz
@@ -6988,7 +6887,6 @@ s3d4.cn
 m.s47e8.cn
 s8.pw
 s81b.xyz
-s81c.xyz
 news.s9377.com
 sacre.cn
 saewater.com
@@ -7116,7 +7014,7 @@ shaorgs.cn
 sharele.cn
 sharesdk.cn
 sc.shayugg.com
-shbaoan.cn
+www.shbaoan.cn
 shbxugs.cn
 shbxukj.cn
 shbywsd.cn
@@ -7186,7 +7084,6 @@ shuzijz.cn
 shuzilm.cn
 shwlyb.cn
 shxinjie.cn
-ads-monitoring.shziyi.com
 sibian.cn
 yun.sifuhe.cn
 sigmob.com
@@ -7673,7 +7570,6 @@ toruk.tanx.com
 taobaly.cn
 accscdn.m.taobao.com
 acookie.taobao.com
-acs.m.taobao.com
 acs.wapa.taobao.com
 acs4baichuan.m.taobao.com
 adash-c.m.taobao.com
@@ -8088,7 +7984,6 @@ ee.u4q2.cn
 m.u4q2.cn
 u51.me
 u59a.xyz
-u59p.xyz
 u5ps5.icu
 u7u.cn
 u7u9.com
@@ -8258,7 +8153,6 @@ log.apk.v-mate.mobi
 v-vay.com
 1.v-x.com.cn
 v06a.xyz
-v06c.xyz
 v06e.xyz
 v06f.xyz
 v06j.xyz
@@ -8609,7 +8503,6 @@ vyukfcv.cn
 vzt.com.cn
 vzvvifw.cn
 w010w.com.cn
-w29s.xyz
 w29y.xyz
 w4pma.cn
 w59g.icu
@@ -8628,7 +8521,6 @@ mlog.wangsu.com
 wangzhan5.com
 analytics.wanmei.com
 analytics-gw.games.wanmei.com
-dlog.wanmei.com
 h5.wannaplay.cn
 m.wantemachine.com.cn
 k1.wanwenwan.cn
@@ -8690,7 +8582,6 @@ ifm5.wecom.work
 royalbankofca5.wecom.work
 royalbankofca6.wecom.work
 weddingeeos.com
-event.wedobest.com.cn
 event.stat.wedobest.com.cn
 dns.weibo.cn
 dp.im.weibo.cn
@@ -8893,13 +8784,7 @@ wzscales.com
 a.wzu.com
 x-steam.com
 x56x.xyz
-x67q.xyz
-x68a.xyz
-x68b.xyz
 x68c.xyz
-x68v.xyz
-x69a.xyz
-x70c.xyz
 m.x78tg.cn
 xa58.cn
 xa7j.icu
@@ -9382,10 +9267,6 @@ y7ts.icu
 y7wr7.cn
 e.y9062t.cn
 m.y9062t.cn
-y98b.xyz
-y98c.xyz
-y98g.xyz
-y98m.xyz
 y98q.xyz
 y98x.xyz
 y99e.xyz
@@ -9612,7 +9493,6 @@ msg.youku.com
 myes.youku.com
 orange-dc.youku.com
 pcapp-data-collect.youku.com
-pis-tel-pcdn.youku.com
 pl.youku.com
 player-lg.youku.com
 playlog.youku.com
@@ -9653,7 +9533,6 @@ photo.yqydjr.cn
 yrszy.com.cn
 ys630.com
 ys6ot.cn
-ad-material.ys7.com
 log.ys7.com
 ysdqww.com
 ysgsq.cn
