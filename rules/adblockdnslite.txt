@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251008003319
-! Last modified: 2025/10/08 00:33:19
-! Blocked domains: 9923
+! Version: 20251008095637
+! Last modified: 2025/10/08 09:56:37
+! Blocked domains: 9913
 ! unBlocked domains: 52
 !
 ||0010jz.com^
@@ -118,7 +118,6 @@
 ||115.159.149.113^
 ||appversion.115.com^
 ||115fx.com^
-||117.157.17.194^
 ||117.50.194.20^
 ||117.72.102.110^
 ||117.72.184.172^
@@ -321,7 +320,6 @@
 ||wm.20150.net^
 ||201ttkj.cn^
 ||202.104.139.177^
-||202.189.4.56^
 ||202.189.5.5^
 ||20201314.cn^
 ||20230329.com^
@@ -337,7 +335,6 @@
 ||ssp.21ic.com^
 ||tj.21ic.com^
 ||21office.com.cn^
-||220.180.255.224^
 ||222.187.223.34^
 ||222aa333bb.com^
 ||228tuchuang.com^
@@ -560,7 +557,6 @@
 ||m.408uo.cn^
 ||409998.cn^
 ||41grk.icu^
-||42.226.75.104^
 ||426g.com^
 ||43.138.139.240^
 ||43.139.146.100^
@@ -593,6 +589,7 @@
 ||47.122.30.177^
 ||47.93.28.103^
 ||47.97.118.238^
+||47.98.136.161^
 ||47.98.224.91^
 ||472741a4e2e11746.com^
 ||m.479db.cn^
@@ -1548,7 +1545,6 @@
 ||app-analytics-services.com^
 ||app-measurement-cn.com^
 ||app-measurement.com^
-||app-pro-whatsappweb.com.cn^
 ||tongji.app111.com^
 ||app1e.cn^
 ||app1eploser.cn^
@@ -2850,7 +2846,6 @@
 ||dktad.com^
 ||dlads.cn^
 ||dle-news.xyz^
-||dlpifu.com^
 ||dlysxx.cn^
 ||dmnxkj.cn^
 ||dmrtb.com^
@@ -3301,7 +3296,6 @@
 ||fiwyjar.cn^
 ||f.fj95560.com^
 ||fjdvzx.cn^
-||fjjts.cn^
 ||fjshxjs.cn^
 ||m.fjshxzyyxgs.cn^
 ||fjzimaoqu.cn^
@@ -4362,7 +4356,6 @@
 ||atb-stats-api.imolive.tv^
 ||imop.com^
 ||ads-gdl.imovideo.ru^
-||imtke.cn^
 ||imtoken.org.cn^
 ||imyqb.cn^
 ||pyk.in-neo.cn^
@@ -6711,7 +6704,6 @@
 ||track.lc.quark.cn^
 ||irc.qubiankeji.com^
 ||qudajie.com^
-||www2.quectel.com^
 ||queene.cn^
 ||gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com^
 ||api-access.pangolin-sdk-toutiao1.com.queniuiq.com^
@@ -7015,7 +7007,6 @@
 ||sharele.cn^
 ||sharesdk.cn^
 ||sc.shayugg.com^
-||www.shbaoan.cn^
 ||shbxugs.cn^
 ||shbxukj.cn^
 ||shbywsd.cn^
@@ -8784,7 +8775,6 @@
 ||wzscales.com^
 ||a.wzu.com^
 ||x-steam.com^
-||x56x.xyz^
 ||x68c.xyz^
 ||m.x78tg.cn^
 ||xa58.cn^

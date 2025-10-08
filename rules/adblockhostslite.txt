@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251008003319
-# Last modified: 2025/10/08 00:33:19
-# Blocked domains: 9923
+# Version: 20251008095638
+# Last modified: 2025/10/08 09:56:38
+# Blocked domains: 9913
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -132,7 +132,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	115.159.149.113
 0.0.0.0	appversion.115.com
 0.0.0.0	115fx.com
-0.0.0.0	117.157.17.194
 0.0.0.0	117.50.194.20
 0.0.0.0	117.72.102.110
 0.0.0.0	117.72.184.172
@@ -335,7 +334,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wm.20150.net
 0.0.0.0	201ttkj.cn
 0.0.0.0	202.104.139.177
-0.0.0.0	202.189.4.56
 0.0.0.0	202.189.5.5
 0.0.0.0	20201314.cn
 0.0.0.0	20230329.com
@@ -351,7 +349,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ssp.21ic.com
 0.0.0.0	tj.21ic.com
 0.0.0.0	21office.com.cn
-0.0.0.0	220.180.255.224
 0.0.0.0	222.187.223.34
 0.0.0.0	222aa333bb.com
 0.0.0.0	228tuchuang.com
@@ -574,7 +571,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.408uo.cn
 0.0.0.0	409998.cn
 0.0.0.0	41grk.icu
-0.0.0.0	42.226.75.104
 0.0.0.0	426g.com
 0.0.0.0	43.138.139.240
 0.0.0.0	43.139.146.100
@@ -607,6 +603,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.122.30.177
 0.0.0.0	47.93.28.103
 0.0.0.0	47.97.118.238
+0.0.0.0	47.98.136.161
 0.0.0.0	47.98.224.91
 0.0.0.0	472741a4e2e11746.com
 0.0.0.0	m.479db.cn
@@ -1562,7 +1559,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	app-analytics-services.com
 0.0.0.0	app-measurement-cn.com
 0.0.0.0	app-measurement.com
-0.0.0.0	app-pro-whatsappweb.com.cn
 0.0.0.0	tongji.app111.com
 0.0.0.0	app1e.cn
 0.0.0.0	app1eploser.cn
@@ -2864,7 +2860,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dktad.com
 0.0.0.0	dlads.cn
 0.0.0.0	dle-news.xyz
-0.0.0.0	dlpifu.com
 0.0.0.0	dlysxx.cn
 0.0.0.0	dmnxkj.cn
 0.0.0.0	dmrtb.com
@@ -3315,7 +3310,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	fiwyjar.cn
 0.0.0.0	f.fj95560.com
 0.0.0.0	fjdvzx.cn
-0.0.0.0	fjjts.cn
 0.0.0.0	fjshxjs.cn
 0.0.0.0	m.fjshxzyyxgs.cn
 0.0.0.0	fjzimaoqu.cn
@@ -4376,7 +4370,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	atb-stats-api.imolive.tv
 0.0.0.0	imop.com
 0.0.0.0	ads-gdl.imovideo.ru
-0.0.0.0	imtke.cn
 0.0.0.0	imtoken.org.cn
 0.0.0.0	imyqb.cn
 0.0.0.0	pyk.in-neo.cn
@@ -6725,7 +6718,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	track.lc.quark.cn
 0.0.0.0	irc.qubiankeji.com
 0.0.0.0	qudajie.com
-0.0.0.0	www2.quectel.com
 0.0.0.0	queene.cn
 0.0.0.0	gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com
 0.0.0.0	api-access.pangolin-sdk-toutiao1.com.queniuiq.com
@@ -7029,7 +7021,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sharele.cn
 0.0.0.0	sharesdk.cn
 0.0.0.0	sc.shayugg.com
-0.0.0.0	www.shbaoan.cn
 0.0.0.0	shbxugs.cn
 0.0.0.0	shbxukj.cn
 0.0.0.0	shbywsd.cn
@@ -8798,7 +8789,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wzscales.com
 0.0.0.0	a.wzu.com
 0.0.0.0	x-steam.com
-0.0.0.0	x56x.xyz
 0.0.0.0	x68c.xyz
 0.0.0.0	m.x78tg.cn
 0.0.0.0	xa58.cn

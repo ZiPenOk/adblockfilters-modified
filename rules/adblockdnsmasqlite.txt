@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251008003319
-# Last modified: 2025/10/08 00:33:19
-# Blocked domains: 9923
+# Version: 20251008095638
+# Last modified: 2025/10/08 09:56:38
+# Blocked domains: 9913
 #
 local=/0010jz.com/
 local=/395131115419474531.002.sh.cn/
@@ -117,7 +117,6 @@ local=/1.11467.com/
 local=/115.159.149.113/
 local=/appversion.115.com/
 local=/115fx.com/
-local=/117.157.17.194/
 local=/117.50.194.20/
 local=/117.72.102.110/
 local=/117.72.184.172/
@@ -320,7 +319,6 @@ local=/2009llll.cn/
 local=/wm.20150.net/
 local=/201ttkj.cn/
 local=/202.104.139.177/
-local=/202.189.4.56/
 local=/202.189.5.5/
 local=/20201314.cn/
 local=/20230329.com/
@@ -336,7 +334,6 @@ local=/ad.21cn.com/
 local=/ssp.21ic.com/
 local=/tj.21ic.com/
 local=/21office.com.cn/
-local=/220.180.255.224/
 local=/222.187.223.34/
 local=/222aa333bb.com/
 local=/228tuchuang.com/
@@ -559,7 +556,6 @@ local=/4009997658.com/
 local=/m.408uo.cn/
 local=/409998.cn/
 local=/41grk.icu/
-local=/42.226.75.104/
 local=/426g.com/
 local=/43.138.139.240/
 local=/43.139.146.100/
@@ -592,6 +588,7 @@ local=/47.122.119.55/
 local=/47.122.30.177/
 local=/47.93.28.103/
 local=/47.97.118.238/
+local=/47.98.136.161/
 local=/47.98.224.91/
 local=/472741a4e2e11746.com/
 local=/m.479db.cn/
@@ -1547,7 +1544,6 @@ local=/us-behavior.apitd.net/
 local=/app-analytics-services.com/
 local=/app-measurement-cn.com/
 local=/app-measurement.com/
-local=/app-pro-whatsappweb.com.cn/
 local=/tongji.app111.com/
 local=/app1e.cn/
 local=/app1eploser.cn/
@@ -2849,7 +2845,6 @@ local=/m.dkd21.cn/
 local=/dktad.com/
 local=/dlads.cn/
 local=/dle-news.xyz/
-local=/dlpifu.com/
 local=/dlysxx.cn/
 local=/dmnxkj.cn/
 local=/dmrtb.com/
@@ -3300,7 +3295,6 @@ local=/fishhd.cn/
 local=/fiwyjar.cn/
 local=/f.fj95560.com/
 local=/fjdvzx.cn/
-local=/fjjts.cn/
 local=/fjshxjs.cn/
 local=/m.fjshxzyyxgs.cn/
 local=/fjzimaoqu.cn/
@@ -4361,7 +4355,6 @@ local=/sla-media.immomo.com/
 local=/atb-stats-api.imolive.tv/
 local=/imop.com/
 local=/ads-gdl.imovideo.ru/
-local=/imtke.cn/
 local=/imtoken.org.cn/
 local=/imyqb.cn/
 local=/pyk.in-neo.cn/
@@ -6710,7 +6703,6 @@ local=/px.wpk.quark.cn/
 local=/track.lc.quark.cn/
 local=/irc.qubiankeji.com/
 local=/qudajie.com/
-local=/www2.quectel.com/
 local=/queene.cn/
 local=/gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com/
 local=/api-access.pangolin-sdk-toutiao1.com.queniuiq.com/
@@ -7014,7 +7006,6 @@ local=/shaorgs.cn/
 local=/sharele.cn/
 local=/sharesdk.cn/
 local=/sc.shayugg.com/
-local=/www.shbaoan.cn/
 local=/shbxugs.cn/
 local=/shbxukj.cn/
 local=/shbywsd.cn/
@@ -8783,7 +8774,6 @@ local=/wzry5.cn/
 local=/wzscales.com/
 local=/a.wzu.com/
 local=/x-steam.com/
-local=/x56x.xyz/
 local=/x68c.xyz/
 local=/m.x78tg.cn/
 local=/xa58.cn/
