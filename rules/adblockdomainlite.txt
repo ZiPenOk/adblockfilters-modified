@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251009163530
-! Last modified: 2025/10/09 16:35:30
-! Blocked domains: 9762
+! Version: 20251010003519
+! Last modified: 2025/10/10 00:35:19
+! Blocked domains: 9742
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -89,7 +89,6 @@ huodong.feixin.10086.cn
 101.132.131.225
 101.201.227.94
 101.33.235.96
-101.43.49.183
 1.1010pic.com
 2.1010pic.com
 103.205.253.156
@@ -116,7 +115,6 @@ oss-asq-static.11222.cn
 114.fm
 1.11467.com
 115.159.149.113
-115.190.127.112
 appversion.115.com
 115fx.com
 117.157.17.194
@@ -198,7 +196,6 @@ yt-adp.nosdn.127.net
 12i.cn
 133u.com
 1357902.cn
-139.155.146.101
 139.159.155.204
 139.198.15.223
 1391.com
@@ -276,7 +273,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.113.15.109
 182.92.99.95
 photo.188kc.cn
 webwebfenxi.189.cn
@@ -318,7 +314,6 @@ m.1qp9k.cn
 1wkg.cn
 m.1x3td.cn
 1x3x.com
-2-apple.com
 200218.com
 2005net.net
 20091222.com
@@ -516,7 +511,6 @@ m.38xs.com
 39.105.165.37
 39.106.144.162
 39.107.85.83
-39.96.156.128
 abody.39.net
 app-g.39.net
 d.39.net
@@ -872,7 +866,6 @@ cp.7y7.com
 7ywl.com
 8.130.74.111
 8.131.63.6
-8.134.74.227
 8.137.114.210
 8.138.182.17
 8.140.239.162
@@ -1401,7 +1394,6 @@ dualstack-logs.amap.com
 h-adashx.ut.amap.com
 logs.amap.com
 optimus-ads.amap.com
-advertising.amazon.cn
 fls-cn.amazon.cn
 unagi.amazon.cn
 log.amemv.com
@@ -2000,7 +1992,6 @@ btyou.com
 xww.bucea.edu.cn
 butterdogchange.com
 buydiscountmeds.com.cn
-bw777.shop
 bwegz.cn
 bwin2808.com
 ad.bwton.com
@@ -5153,19 +5144,9 @@ lthxz.cn
 amazon.co.jp.ltiy.cn
 lucting.cn
 m.lulitechnology.cn
-lulucls.icu
-luluebh.icu
-lulugda.icu
-lulukvm.icu
 metrics.lululemon.cn
 smetrics.lululemon.cn
-lululpz.icu
 lulumao.com.cn
-luluofn.icu
-lulupkn.icu
-luluqyf.icu
-luluucj.icu
-luluxj.icu
 lumeo.cn
 luniyazhanji.cn
 lsgm.luo23.cn
@@ -6091,7 +6072,6 @@ pop800.com
 popupad.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
-postindom.art
 postut.cn
 postv1.help
 povbdf.cn

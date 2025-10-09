@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251009163530
-# Last modified: 2025/10/09 16:35:30
-# Blocked domains: 9762
+# Version: 20251010003519
+# Last modified: 2025/10/10 00:35:19
+# Blocked domains: 9742
 #
 local=/0010jz.com/
 local=/395131115419474531.002.sh.cn/
@@ -89,7 +89,6 @@ local=/101.126.11.168/
 local=/101.132.131.225/
 local=/101.201.227.94/
 local=/101.33.235.96/
-local=/101.43.49.183/
 local=/1.1010pic.com/
 local=/2.1010pic.com/
 local=/103.205.253.156/
@@ -116,7 +115,6 @@ local=/114.55.250.233/
 local=/114.fm/
 local=/1.11467.com/
 local=/115.159.149.113/
-local=/115.190.127.112/
 local=/appversion.115.com/
 local=/115fx.com/
 local=/117.157.17.194/
@@ -198,7 +196,6 @@ local=/129.204.254.108/
 local=/12i.cn/
 local=/133u.com/
 local=/1357902.cn/
-local=/139.155.146.101/
 local=/139.159.155.204/
 local=/139.198.15.223/
 local=/1391.com/
@@ -276,7 +273,6 @@ local=/1816soso.com/
 local=/eezdx.erc.18183.com/
 local=/img1.18183.com/
 local=/zpe.klre.18183.com/
-local=/182.113.15.109/
 local=/182.92.99.95/
 local=/photo.188kc.cn/
 local=/webwebfenxi.189.cn/
@@ -318,7 +314,6 @@ local=/1uo9djbnsr.com/
 local=/1wkg.cn/
 local=/m.1x3td.cn/
 local=/1x3x.com/
-local=/2-apple.com/
 local=/200218.com/
 local=/2005net.net/
 local=/20091222.com/
@@ -516,7 +511,6 @@ local=/39.104.161.178/
 local=/39.105.165.37/
 local=/39.106.144.162/
 local=/39.107.85.83/
-local=/39.96.156.128/
 local=/abody.39.net/
 local=/app-g.39.net/
 local=/d.39.net/
@@ -872,7 +866,6 @@ local=/cp.7y7.com/
 local=/7ywl.com/
 local=/8.130.74.111/
 local=/8.131.63.6/
-local=/8.134.74.227/
 local=/8.137.114.210/
 local=/8.138.182.17/
 local=/8.140.239.162/
@@ -1401,7 +1394,6 @@ local=/dualstack-logs.amap.com/
 local=/h-adashx.ut.amap.com/
 local=/logs.amap.com/
 local=/optimus-ads.amap.com/
-local=/advertising.amazon.cn/
 local=/fls-cn.amazon.cn/
 local=/unagi.amazon.cn/
 local=/log.amemv.com/
@@ -2000,7 +1992,6 @@ local=/btyou.com/
 local=/xww.bucea.edu.cn/
 local=/butterdogchange.com/
 local=/buydiscountmeds.com.cn/
-local=/bw777.shop/
 local=/bwegz.cn/
 local=/bwin2808.com/
 local=/ad.bwton.com/
@@ -5153,19 +5144,9 @@ local=/lthxz.cn/
 local=/amazon.co.jp.ltiy.cn/
 local=/lucting.cn/
 local=/m.lulitechnology.cn/
-local=/lulucls.icu/
-local=/luluebh.icu/
-local=/lulugda.icu/
-local=/lulukvm.icu/
 local=/metrics.lululemon.cn/
 local=/smetrics.lululemon.cn/
-local=/lululpz.icu/
 local=/lulumao.com.cn/
-local=/luluofn.icu/
-local=/lulupkn.icu/
-local=/luluqyf.icu/
-local=/luluucj.icu/
-local=/luluxj.icu/
 local=/lumeo.cn/
 local=/luniyazhanji.cn/
 local=/lsgm.luo23.cn/
@@ -6091,7 +6072,6 @@ local=/pop800.com/
 local=/popupad.cn/
 local=/fp-it-acc.portal101.cn/
 local=/webtrack.pospal.cn/
-local=/postindom.art/
 local=/postut.cn/
 local=/postv1.help/
 local=/povbdf.cn/
