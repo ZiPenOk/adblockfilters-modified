@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251009003332
-! Last modified: 2025/10/09 00:33:32
-! Blocked domains: 9829
+! Version: 20251009095734
+! Last modified: 2025/10/09 09:57:34
+! Blocked domains: 9826
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -110,7 +110,6 @@ soft.110route.com
 1.11130.com.cn
 oss-asq-static.11222.cn
 113.31.111.76
-113.98.201.248
 1133.cc
 114.55.106.136
 114.55.250.233
@@ -125,6 +124,7 @@ appversion.115.com
 117.72.184.172
 117.72.206.39
 117.72.214.21
+117.72.218.179
 117.72.222.203
 118.178.133.241
 118.25.68.152
@@ -595,11 +595,12 @@ stat.api.4399.com
 47.113.186.138
 47.116.208.81
 47.119.34.138
+47.120.46.210
 47.122.119.55
 47.122.30.177
-47.92.78.31
 47.93.28.103
 47.97.118.238
+47.98.136.161
 47.98.224.91
 472741a4e2e11746.com
 m.479db.cn
@@ -879,7 +880,6 @@ cp.7y7.com
 7ywl.com
 8.130.74.111
 8.131.63.6
-8.134.199.119
 8.137.114.210
 8.138.182.17
 8.140.239.162
@@ -891,6 +891,7 @@ a.80982.org
 80vn.cn
 81.70.255.195
 81.70.85.113
+81.71.159.99
 m1.81312.com
 815dn12.shop
 815nm13.com
@@ -2983,7 +2984,6 @@ eddcc.icu
 eddong.com
 accgovgetwayuk-70ldffym6a.edgeone.app
 earthewndegtheyased.edgeone.app
-emailportal-mnn6ap2hfi.edgeone.app
 pointball-llvwkkfsoo.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 uueroruuura-8mr1cub6vv.edgeone.app
@@ -3279,7 +3279,6 @@ dd1.freep.cn
 dd2.freep.cn
 fric.cn
 frp-arm.com
-frshd.cn
 fsjjrbz.cn
 fsshengyuan.cn
 fsslg.com
@@ -3376,7 +3375,6 @@ gaoshouyou.com
 trk.gardnerdenver.com.cn
 diauth.garmin.cn
 gayeah.cn
-gazxurg.cn
 gb686.cn
 gbitcoin.cn
 gccnntq.cn
@@ -6243,7 +6241,6 @@ qeogcdcjr000.fun
 e-tax-celer.qerdocb.cn
 qeugcdcjr000.fun
 qevcxo.cn
-qfcdf.cn
 opsm.qflwh.cn
 qfnoyix.cn
 qgdvyvd.cn

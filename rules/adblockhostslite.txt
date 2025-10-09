@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251009003332
-# Last modified: 2025/10/09 00:33:32
-# Blocked domains: 9829
+# Version: 20251009095734
+# Last modified: 2025/10/09 09:57:34
+# Blocked domains: 9826
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -125,7 +125,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.11130.com.cn
 0.0.0.0	oss-asq-static.11222.cn
 0.0.0.0	113.31.111.76
-0.0.0.0	113.98.201.248
 0.0.0.0	1133.cc
 0.0.0.0	114.55.106.136
 0.0.0.0	114.55.250.233
@@ -140,6 +139,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.214.21
+0.0.0.0	117.72.218.179
 0.0.0.0	117.72.222.203
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
@@ -610,11 +610,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.113.186.138
 0.0.0.0	47.116.208.81
 0.0.0.0	47.119.34.138
+0.0.0.0	47.120.46.210
 0.0.0.0	47.122.119.55
 0.0.0.0	47.122.30.177
-0.0.0.0	47.92.78.31
 0.0.0.0	47.93.28.103
 0.0.0.0	47.97.118.238
+0.0.0.0	47.98.136.161
 0.0.0.0	47.98.224.91
 0.0.0.0	472741a4e2e11746.com
 0.0.0.0	m.479db.cn
@@ -894,7 +895,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	7ywl.com
 0.0.0.0	8.130.74.111
 0.0.0.0	8.131.63.6
-0.0.0.0	8.134.199.119
 0.0.0.0	8.137.114.210
 0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
@@ -906,6 +906,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	80vn.cn
 0.0.0.0	81.70.255.195
 0.0.0.0	81.70.85.113
+0.0.0.0	81.71.159.99
 0.0.0.0	m1.81312.com
 0.0.0.0	815dn12.shop
 0.0.0.0	815nm13.com
@@ -2998,7 +2999,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eddong.com
 0.0.0.0	accgovgetwayuk-70ldffym6a.edgeone.app
 0.0.0.0	earthewndegtheyased.edgeone.app
-0.0.0.0	emailportal-mnn6ap2hfi.edgeone.app
 0.0.0.0	pointball-llvwkkfsoo.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 0.0.0.0	uueroruuura-8mr1cub6vv.edgeone.app
@@ -3294,7 +3294,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dd2.freep.cn
 0.0.0.0	fric.cn
 0.0.0.0	frp-arm.com
-0.0.0.0	frshd.cn
 0.0.0.0	fsjjrbz.cn
 0.0.0.0	fsshengyuan.cn
 0.0.0.0	fsslg.com
@@ -3391,7 +3390,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	trk.gardnerdenver.com.cn
 0.0.0.0	diauth.garmin.cn
 0.0.0.0	gayeah.cn
-0.0.0.0	gazxurg.cn
 0.0.0.0	gb686.cn
 0.0.0.0	gbitcoin.cn
 0.0.0.0	gccnntq.cn
@@ -6258,7 +6256,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	e-tax-celer.qerdocb.cn
 0.0.0.0	qeugcdcjr000.fun
 0.0.0.0	qevcxo.cn
-0.0.0.0	qfcdf.cn
 0.0.0.0	opsm.qflwh.cn
 0.0.0.0	qfnoyix.cn
 0.0.0.0	qgdvyvd.cn
