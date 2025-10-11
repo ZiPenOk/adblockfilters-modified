@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251011003242
-! Last modified: 2025/10/11 00:32:42
-! Blocked domains: 10181
+! Version: 20251011095327
+! Last modified: 2025/10/11 09:53:27
+! Blocked domains: 10173
 !
 000fz.top
 0010jz.com
@@ -123,7 +123,6 @@ appversion.115.com
 117.72.184.172
 117.72.206.39
 117.72.214.21
-117.72.218.179
 117.72.222.203
 118.178.133.241
 118.25.68.152
@@ -1148,7 +1147,6 @@ cp.7y7.com
 8.130.74.111
 8.131.63.6
 8.134.51.218
-8.134.74.227
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -1158,7 +1156,6 @@ www.805m.com
 80vn.cn
 81.70.255.195
 81.70.85.113
-81.71.159.99
 m1.81312.com
 815nm13.com
 815ss.cn
@@ -2059,7 +2056,6 @@ changan.bama555.com
 baminw.cn
 baminw.com.cn
 ad.bandao.cn
-bangqidq.com
 active.baofeng.com
 co.dtech.baofeng.com
 coop.pop.baofeng.com
@@ -5132,7 +5128,6 @@ wap.koudaitong.com
 b.kouke5.com
 kpzip.com
 kqgn.cn
-kqtkc.cn
 marketing.krones.com
 slb-p2p.vcloud.ks-live.com
 log-sdk.ksapisrv.com
@@ -6014,7 +6009,6 @@ xiaoma-10021647.file.myqcloud.com
 myreadcloud.com
 analytics.myshoptago.com
 mytanwan.com
-mytzdhz.cn
 mywarworld.cn
 ggs.myzaker.com
 gstat.myzaker.com
@@ -8074,7 +8068,6 @@ adsapi.togothermany.cn
 adscfg.togothermany.cn
 adsup.togothermany.cn
 a.tn.token-ad.com
-tokepocket.cn
 track.tom.com
 track.tomwx.net
 tongbaimi.cn
@@ -9555,7 +9548,6 @@ e.ybanj.com
 m.ybanj.com
 m.ybfwmm.cn
 ybjch.cn
-ybkkke.cn
 ybzhao.com
 yc1234.com
 ych168.cn

@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/11 00:32:42
-#!support=10181
+#!date=2025/10/11 09:53:27
+#!support=10173
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,000fz.top
@@ -127,7 +127,6 @@ DOMAIN-SUFFIX,117.72.102.110
 DOMAIN-SUFFIX,117.72.184.172
 DOMAIN-SUFFIX,117.72.206.39
 DOMAIN-SUFFIX,117.72.214.21
-DOMAIN-SUFFIX,117.72.218.179
 DOMAIN-SUFFIX,117.72.222.203
 DOMAIN-SUFFIX,118.178.133.241
 DOMAIN-SUFFIX,118.25.68.152
@@ -1152,7 +1151,6 @@ DOMAIN-SUFFIX,7ywl.com
 DOMAIN-SUFFIX,8.130.74.111
 DOMAIN-SUFFIX,8.131.63.6
 DOMAIN-SUFFIX,8.134.51.218
-DOMAIN-SUFFIX,8.134.74.227
 DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
@@ -1162,7 +1160,6 @@ DOMAIN-SUFFIX,www.805m.com
 DOMAIN-SUFFIX,80vn.cn
 DOMAIN-SUFFIX,81.70.255.195
 DOMAIN-SUFFIX,81.70.85.113
-DOMAIN-SUFFIX,81.71.159.99
 DOMAIN-SUFFIX,m1.81312.com
 DOMAIN-SUFFIX,815nm13.com
 DOMAIN-SUFFIX,815ss.cn
@@ -2063,7 +2060,6 @@ DOMAIN-SUFFIX,changan.bama555.com
 DOMAIN-SUFFIX,baminw.cn
 DOMAIN-SUFFIX,baminw.com.cn
 DOMAIN-SUFFIX,ad.bandao.cn
-DOMAIN-SUFFIX,bangqidq.com
 DOMAIN-SUFFIX,active.baofeng.com
 DOMAIN-SUFFIX,co.dtech.baofeng.com
 DOMAIN-SUFFIX,coop.pop.baofeng.com
@@ -5136,7 +5132,6 @@ DOMAIN-SUFFIX,wap.koudaitong.com
 DOMAIN-SUFFIX,b.kouke5.com
 DOMAIN-SUFFIX,kpzip.com
 DOMAIN-SUFFIX,kqgn.cn
-DOMAIN-SUFFIX,kqtkc.cn
 DOMAIN-SUFFIX,marketing.krones.com
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
 DOMAIN-SUFFIX,log-sdk.ksapisrv.com
@@ -6018,7 +6013,6 @@ DOMAIN-SUFFIX,xiaoma-10021647.file.myqcloud.com
 DOMAIN-SUFFIX,myreadcloud.com
 DOMAIN-SUFFIX,analytics.myshoptago.com
 DOMAIN-SUFFIX,mytanwan.com
-DOMAIN-SUFFIX,mytzdhz.cn
 DOMAIN-SUFFIX,mywarworld.cn
 DOMAIN-SUFFIX,ggs.myzaker.com
 DOMAIN-SUFFIX,gstat.myzaker.com
@@ -8078,7 +8072,6 @@ DOMAIN-SUFFIX,adsapi.togothermany.cn
 DOMAIN-SUFFIX,adscfg.togothermany.cn
 DOMAIN-SUFFIX,adsup.togothermany.cn
 DOMAIN-SUFFIX,a.tn.token-ad.com
-DOMAIN-SUFFIX,tokepocket.cn
 DOMAIN-SUFFIX,track.tom.com
 DOMAIN-SUFFIX,track.tomwx.net
 DOMAIN-SUFFIX,tongbaimi.cn
@@ -9559,7 +9552,6 @@ DOMAIN-SUFFIX,e.ybanj.com
 DOMAIN-SUFFIX,m.ybanj.com
 DOMAIN-SUFFIX,m.ybfwmm.cn
 DOMAIN-SUFFIX,ybjch.cn
-DOMAIN-SUFFIX,ybkkke.cn
 DOMAIN-SUFFIX,ybzhao.com
 DOMAIN-SUFFIX,yc1234.com
 DOMAIN-SUFFIX,ych168.cn

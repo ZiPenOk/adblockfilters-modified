@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251011003242
-# Last modified: 2025/10/11 00:32:42
-# Blocked domains: 10181
+# Version: 20251011095327
+# Last modified: 2025/10/11 09:53:27
+# Blocked domains: 10173
 #
 local=/000fz.top/
 local=/0010jz.com/
@@ -123,7 +123,6 @@ local=/117.72.102.110/
 local=/117.72.184.172/
 local=/117.72.206.39/
 local=/117.72.214.21/
-local=/117.72.218.179/
 local=/117.72.222.203/
 local=/118.178.133.241/
 local=/118.25.68.152/
@@ -1148,7 +1147,6 @@ local=/7ywl.com/
 local=/8.130.74.111/
 local=/8.131.63.6/
 local=/8.134.51.218/
-local=/8.134.74.227/
 local=/8.138.182.17/
 local=/8.140.239.162/
 local=/8.141.15.227/
@@ -1158,7 +1156,6 @@ local=/www.805m.com/
 local=/80vn.cn/
 local=/81.70.255.195/
 local=/81.70.85.113/
-local=/81.71.159.99/
 local=/m1.81312.com/
 local=/815nm13.com/
 local=/815ss.cn/
@@ -2059,7 +2056,6 @@ local=/changan.bama555.com/
 local=/baminw.cn/
 local=/baminw.com.cn/
 local=/ad.bandao.cn/
-local=/bangqidq.com/
 local=/active.baofeng.com/
 local=/co.dtech.baofeng.com/
 local=/coop.pop.baofeng.com/
@@ -5132,7 +5128,6 @@ local=/wap.koudaitong.com/
 local=/b.kouke5.com/
 local=/kpzip.com/
 local=/kqgn.cn/
-local=/kqtkc.cn/
 local=/marketing.krones.com/
 local=/slb-p2p.vcloud.ks-live.com/
 local=/log-sdk.ksapisrv.com/
@@ -6014,7 +6009,6 @@ local=/xiaoma-10021647.file.myqcloud.com/
 local=/myreadcloud.com/
 local=/analytics.myshoptago.com/
 local=/mytanwan.com/
-local=/mytzdhz.cn/
 local=/mywarworld.cn/
 local=/ggs.myzaker.com/
 local=/gstat.myzaker.com/
@@ -8074,7 +8068,6 @@ local=/adsapi.togothermany.cn/
 local=/adscfg.togothermany.cn/
 local=/adsup.togothermany.cn/
 local=/a.tn.token-ad.com/
-local=/tokepocket.cn/
 local=/track.tom.com/
 local=/track.tomwx.net/
 local=/tongbaimi.cn/
@@ -9555,7 +9548,6 @@ local=/e.ybanj.com/
 local=/m.ybanj.com/
 local=/m.ybfwmm.cn/
 local=/ybjch.cn/
-local=/ybkkke.cn/
 local=/ybzhao.com/
 local=/yc1234.com/
 local=/ych168.cn/
