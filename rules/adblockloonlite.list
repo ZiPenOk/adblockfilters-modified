@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/11 16:30:58
-#!support=10260
+#!date=2025/10/12 00:28:57
+#!support=10240
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,000fz.top
@@ -143,7 +143,6 @@ DOMAIN-SUFFIX,11888vip.cn
 DOMAIN-SUFFIX,bj1.118pan.com
 DOMAIN-SUFFIX,119.45.161.174
 DOMAIN-SUFFIX,120.25.163.165
-DOMAIN-SUFFIX,120.48.123.10
 DOMAIN-SUFFIX,120.48.50.33
 DOMAIN-SUFFIX,120.79.192.88
 DOMAIN-SUFFIX,analysis.120ask.com
@@ -1160,7 +1159,6 @@ DOMAIN-SUFFIX,7ywl.com
 DOMAIN-SUFFIX,8.130.74.111
 DOMAIN-SUFFIX,8.131.63.6
 DOMAIN-SUFFIX,8.134.51.218
-DOMAIN-SUFFIX,8.137.114.210
 DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
@@ -2517,7 +2515,6 @@ DOMAIN-SUFFIX,click.cheshi.com
 DOMAIN-SUFFIX,media.cheshi.com
 DOMAIN-SUFFIX,pv.cheshi.com
 DOMAIN-SUFFIX,qc1.cheshipin.com
-DOMAIN-SUFFIX,cheyizhu.top
 DOMAIN-SUFFIX,z1.chezhuzhinan.com
 DOMAIN-SUFFIX,chicken18.com
 DOMAIN-SUFFIX,china-jhy.cn
@@ -4082,7 +4079,6 @@ DOMAIN-SUFFIX,hdxyj.icu
 DOMAIN-SUFFIX,hdyj168.com.cn
 DOMAIN-SUFFIX,m.hdyoubang.cn
 DOMAIN-SUFFIX,hdyzx.cn
-DOMAIN-SUFFIX,healthyhappyliving24.com
 DOMAIN-SUFFIX,heartspeed.cn
 DOMAIN-SUFFIX,hechaocheng.cn
 DOMAIN-SUFFIX,ad.hefei.cc
@@ -4250,7 +4246,6 @@ DOMAIN-SUFFIX,auth-launcher-eu.hismarttv.com
 DOMAIN-SUFFIX,auth-launcher-na.hismarttv.com
 DOMAIN-SUFFIX,auth-launcher-sa.hismarttv.com
 DOMAIN-SUFFIX,auth-na.hismarttv.com
-DOMAIN-SUFFIX,auth-phone-afr.hismarttv.com
 DOMAIN-SUFFIX,auth-phone-ap.hismarttv.com
 DOMAIN-SUFFIX,auth-phone-na.hismarttv.com
 DOMAIN-SUFFIX,auth-sa.hismarttv.com
@@ -4806,8 +4801,6 @@ DOMAIN-SUFFIX,xladapi.izuiyou.com
 DOMAIN-SUFFIX,xlstat.izuiyou.com
 DOMAIN-SUFFIX,ee.j06kc.cn
 DOMAIN-SUFFIX,m.j06kc.cn
-DOMAIN-SUFFIX,j26r.xyz
-DOMAIN-SUFFIX,j26x.xyz
 DOMAIN-SUFFIX,j27l.xyz
 DOMAIN-SUFFIX,j27u.xyz
 DOMAIN-SUFFIX,j27x.xyz
@@ -5598,8 +5591,6 @@ DOMAIN-SUFFIX,lzio.com
 DOMAIN-SUFFIX,lzjycy.com
 DOMAIN-SUFFIX,mjs.lzmmil.cn
 DOMAIN-SUFFIX,x.lzspf.com
-DOMAIN-SUFFIX,m107f.xyz
-DOMAIN-SUFFIX,m107i.xyz
 DOMAIN-SUFFIX,m107o.xyz
 DOMAIN-SUFFIX,m107q.xyz
 DOMAIN-SUFFIX,mlog.m1905.cn
@@ -6367,9 +6358,6 @@ DOMAIN-SUFFIX,p0v2ni.cn
 DOMAIN-SUFFIX,p188.cn
 DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,p555.cc
-DOMAIN-SUFFIX,p93h.xyz
-DOMAIN-SUFFIX,p93j.xyz
-DOMAIN-SUFFIX,p93k.xyz
 DOMAIN-SUFFIX,p93v.xyz
 DOMAIN-SUFFIX,p94c.xyz
 DOMAIN-SUFFIX,static.paddlewaver.com
@@ -7195,9 +7183,6 @@ DOMAIN-SUFFIX,s11.cn
 DOMAIN-SUFFIX,s3d4.cn
 DOMAIN-SUFFIX,m.s47e8.cn
 DOMAIN-SUFFIX,s8.pw
-DOMAIN-SUFFIX,s81b.xyz
-DOMAIN-SUFFIX,s81c.xyz
-DOMAIN-SUFFIX,s81i.xyz
 DOMAIN-SUFFIX,s81q.xyz
 DOMAIN-SUFFIX,g.s8dj.com
 DOMAIN-SUFFIX,news.s9377.com
@@ -9113,8 +9098,6 @@ DOMAIN-SUFFIX,wzry5.cn
 DOMAIN-SUFFIX,wzscales.com
 DOMAIN-SUFFIX,a.wzu.com
 DOMAIN-SUFFIX,x-steam.com
-DOMAIN-SUFFIX,x68a.xyz
-DOMAIN-SUFFIX,x68v.xyz
 DOMAIN-SUFFIX,x69a.xyz
 DOMAIN-SUFFIX,x69s.xyz
 DOMAIN-SUFFIX,x70c.xyz
@@ -9608,9 +9591,6 @@ DOMAIN-SUFFIX,y7ts.icu
 DOMAIN-SUFFIX,y7wr7.cn
 DOMAIN-SUFFIX,e.y9062t.cn
 DOMAIN-SUFFIX,m.y9062t.cn
-DOMAIN-SUFFIX,y98q.xyz
-DOMAIN-SUFFIX,y98x.xyz
-DOMAIN-SUFFIX,y99e.xyz
 DOMAIN-SUFFIX,y99p.xyz
 DOMAIN-SUFFIX,yac5t.cn
 DOMAIN-SUFFIX,yahekby.cn

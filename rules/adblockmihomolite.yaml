@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20251011163058
-  # Last modified: 2025/10/11 16:30:58
-  # Blocked domains: 10260
+  # Version: 20251012002857
+  # Last modified: 2025/10/12 00:28:57
+  # Blocked domains: 10240
   #
   - '+.000fz.top'
   - '+.0010jz.com'
@@ -140,7 +140,6 @@ payload:
   - '+.bj1.118pan.com'
   - '+.119.45.161.174'
   - '+.120.25.163.165'
-  - '+.120.48.123.10'
   - '+.120.48.50.33'
   - '+.120.79.192.88'
   - '+.analysis.120ask.com'
@@ -1157,7 +1156,6 @@ payload:
   - '+.8.130.74.111'
   - '+.8.131.63.6'
   - '+.8.134.51.218'
-  - '+.8.137.114.210'
   - '+.8.138.182.17'
   - '+.8.140.239.162'
   - '+.8.141.15.227'
@@ -2514,7 +2512,6 @@ payload:
   - '+.media.cheshi.com'
   - '+.pv.cheshi.com'
   - '+.qc1.cheshipin.com'
-  - '+.cheyizhu.top'
   - '+.z1.chezhuzhinan.com'
   - '+.chicken18.com'
   - '+.china-jhy.cn'
@@ -4079,7 +4076,6 @@ payload:
   - '+.hdyj168.com.cn'
   - '+.m.hdyoubang.cn'
   - '+.hdyzx.cn'
-  - '+.healthyhappyliving24.com'
   - '+.heartspeed.cn'
   - '+.hechaocheng.cn'
   - '+.ad.hefei.cc'
@@ -4247,7 +4243,6 @@ payload:
   - '+.auth-launcher-na.hismarttv.com'
   - '+.auth-launcher-sa.hismarttv.com'
   - '+.auth-na.hismarttv.com'
-  - '+.auth-phone-afr.hismarttv.com'
   - '+.auth-phone-ap.hismarttv.com'
   - '+.auth-phone-na.hismarttv.com'
   - '+.auth-sa.hismarttv.com'
@@ -4803,8 +4798,6 @@ payload:
   - '+.xlstat.izuiyou.com'
   - '+.ee.j06kc.cn'
   - '+.m.j06kc.cn'
-  - '+.j26r.xyz'
-  - '+.j26x.xyz'
   - '+.j27l.xyz'
   - '+.j27u.xyz'
   - '+.j27x.xyz'
@@ -5595,8 +5588,6 @@ payload:
   - '+.lzjycy.com'
   - '+.mjs.lzmmil.cn'
   - '+.x.lzspf.com'
-  - '+.m107f.xyz'
-  - '+.m107i.xyz'
   - '+.m107o.xyz'
   - '+.m107q.xyz'
   - '+.mlog.m1905.cn'
@@ -6364,9 +6355,6 @@ payload:
   - '+.p188.cn'
   - '+.p2cdn.com'
   - '+.p555.cc'
-  - '+.p93h.xyz'
-  - '+.p93j.xyz'
-  - '+.p93k.xyz'
   - '+.p93v.xyz'
   - '+.p94c.xyz'
   - '+.static.paddlewaver.com'
@@ -7192,9 +7180,6 @@ payload:
   - '+.s3d4.cn'
   - '+.m.s47e8.cn'
   - '+.s8.pw'
-  - '+.s81b.xyz'
-  - '+.s81c.xyz'
-  - '+.s81i.xyz'
   - '+.s81q.xyz'
   - '+.g.s8dj.com'
   - '+.news.s9377.com'
@@ -9110,8 +9095,6 @@ payload:
   - '+.wzscales.com'
   - '+.a.wzu.com'
   - '+.x-steam.com'
-  - '+.x68a.xyz'
-  - '+.x68v.xyz'
   - '+.x69a.xyz'
   - '+.x69s.xyz'
   - '+.x70c.xyz'
@@ -9605,9 +9588,6 @@ payload:
   - '+.y7wr7.cn'
   - '+.e.y9062t.cn'
   - '+.m.y9062t.cn'
-  - '+.y98q.xyz'
-  - '+.y98x.xyz'
-  - '+.y99e.xyz'
   - '+.y99p.xyz'
   - '+.yac5t.cn'
   - '+.yahekby.cn'

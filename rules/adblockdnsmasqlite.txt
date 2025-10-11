@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251011163057
-# Last modified: 2025/10/11 16:30:57
-# Blocked domains: 10260
+# Version: 20251012002857
+# Last modified: 2025/10/12 00:28:57
+# Blocked domains: 10240
 #
 local=/000fz.top/
 local=/0010jz.com/
@@ -139,7 +139,6 @@ local=/11888vip.cn/
 local=/bj1.118pan.com/
 local=/119.45.161.174/
 local=/120.25.163.165/
-local=/120.48.123.10/
 local=/120.48.50.33/
 local=/120.79.192.88/
 local=/analysis.120ask.com/
@@ -1156,7 +1155,6 @@ local=/7ywl.com/
 local=/8.130.74.111/
 local=/8.131.63.6/
 local=/8.134.51.218/
-local=/8.137.114.210/
 local=/8.138.182.17/
 local=/8.140.239.162/
 local=/8.141.15.227/
@@ -2513,7 +2511,6 @@ local=/click.cheshi.com/
 local=/media.cheshi.com/
 local=/pv.cheshi.com/
 local=/qc1.cheshipin.com/
-local=/cheyizhu.top/
 local=/z1.chezhuzhinan.com/
 local=/chicken18.com/
 local=/china-jhy.cn/
@@ -4078,7 +4075,6 @@ local=/hdxyj.icu/
 local=/hdyj168.com.cn/
 local=/m.hdyoubang.cn/
 local=/hdyzx.cn/
-local=/healthyhappyliving24.com/
 local=/heartspeed.cn/
 local=/hechaocheng.cn/
 local=/ad.hefei.cc/
@@ -4246,7 +4242,6 @@ local=/auth-launcher-eu.hismarttv.com/
 local=/auth-launcher-na.hismarttv.com/
 local=/auth-launcher-sa.hismarttv.com/
 local=/auth-na.hismarttv.com/
-local=/auth-phone-afr.hismarttv.com/
 local=/auth-phone-ap.hismarttv.com/
 local=/auth-phone-na.hismarttv.com/
 local=/auth-sa.hismarttv.com/
@@ -4802,8 +4797,6 @@ local=/xladapi.izuiyou.com/
 local=/xlstat.izuiyou.com/
 local=/ee.j06kc.cn/
 local=/m.j06kc.cn/
-local=/j26r.xyz/
-local=/j26x.xyz/
 local=/j27l.xyz/
 local=/j27u.xyz/
 local=/j27x.xyz/
@@ -5594,8 +5587,6 @@ local=/lzio.com/
 local=/lzjycy.com/
 local=/mjs.lzmmil.cn/
 local=/x.lzspf.com/
-local=/m107f.xyz/
-local=/m107i.xyz/
 local=/m107o.xyz/
 local=/m107q.xyz/
 local=/mlog.m1905.cn/
@@ -6363,9 +6354,6 @@ local=/p0v2ni.cn/
 local=/p188.cn/
 local=/p2cdn.com/
 local=/p555.cc/
-local=/p93h.xyz/
-local=/p93j.xyz/
-local=/p93k.xyz/
 local=/p93v.xyz/
 local=/p94c.xyz/
 local=/static.paddlewaver.com/
@@ -7191,9 +7179,6 @@ local=/s11.cn/
 local=/s3d4.cn/
 local=/m.s47e8.cn/
 local=/s8.pw/
-local=/s81b.xyz/
-local=/s81c.xyz/
-local=/s81i.xyz/
 local=/s81q.xyz/
 local=/g.s8dj.com/
 local=/news.s9377.com/
@@ -9109,8 +9094,6 @@ local=/wzry5.cn/
 local=/wzscales.com/
 local=/a.wzu.com/
 local=/x-steam.com/
-local=/x68a.xyz/
-local=/x68v.xyz/
 local=/x69a.xyz/
 local=/x69s.xyz/
 local=/x70c.xyz/
@@ -9604,9 +9587,6 @@ local=/y7ts.icu/
 local=/y7wr7.cn/
 local=/e.y9062t.cn/
 local=/m.y9062t.cn/
-local=/y98q.xyz/
-local=/y98x.xyz/
-local=/y99e.xyz/
 local=/y99p.xyz/
 local=/yac5t.cn/
 local=/yahekby.cn/
