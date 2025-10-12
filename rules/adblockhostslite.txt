@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251012163105
-# Last modified: 2025/10/12 16:31:05
-# Blocked domains: 10308
+# Version: 20251013003002
+# Last modified: 2025/10/13 00:30:02
+# Blocked domains: 10243
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -98,7 +98,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
 0.0.0.0	101.33.235.96
-0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	101.43.58.190
 0.0.0.0	1.1010pic.com
@@ -141,7 +140,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.72.84
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
-0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -596,7 +594,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.93.252
 0.0.0.0	47.111.146.110
 0.0.0.0	47.113.186.138
-0.0.0.0	47.116.208.81
 0.0.0.0	47.119.34.138
 0.0.0.0	47.122.119.55
 0.0.0.0	47.122.30.177
@@ -856,61 +853,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.75111.com
 0.0.0.0	7577.cc
 0.0.0.0	m.75l3g.cn
-0.0.0.0	76115.xyz
-0.0.0.0	76117.xyz
-0.0.0.0	76118.xyz
-0.0.0.0	76121.xyz
-0.0.0.0	76124.xyz
-0.0.0.0	76134.xyz
-0.0.0.0	76142.xyz
-0.0.0.0	76143.xyz
-0.0.0.0	76147.xyz
-0.0.0.0	76150.xyz
-0.0.0.0	76173.xyz
-0.0.0.0	76176.xyz
-0.0.0.0	76177.xyz
-0.0.0.0	76179.xyz
-0.0.0.0	76181.xyz
-0.0.0.0	76184.xyz
-0.0.0.0	76187.xyz
-0.0.0.0	76189.xyz
-0.0.0.0	76191.xyz
-0.0.0.0	76197.xyz
-0.0.0.0	76205.xyz
-0.0.0.0	76212.xyz
-0.0.0.0	76216.xyz
-0.0.0.0	76219.xyz
-0.0.0.0	76221.xyz
-0.0.0.0	76222.xyz
-0.0.0.0	76234.xyz
-0.0.0.0	76236.xyz
-0.0.0.0	76238.xyz
-0.0.0.0	76242.xyz
-0.0.0.0	76245.xyz
-0.0.0.0	76247.xyz
-0.0.0.0	76263.xyz
-0.0.0.0	76264.xyz
-0.0.0.0	76272.xyz
-0.0.0.0	76274.xyz
-0.0.0.0	76280.xyz
-0.0.0.0	76285.xyz
-0.0.0.0	76289.xyz
-0.0.0.0	76294.xyz
-0.0.0.0	76301.xyz
 0.0.0.0	7631.com
-0.0.0.0	76317.xyz
 0.0.0.0	76319.xyz
-0.0.0.0	76320.xyz
-0.0.0.0	76331.xyz
-0.0.0.0	76333.xyz
-0.0.0.0	76347.xyz
-0.0.0.0	76351.xyz
-0.0.0.0	76355.xyz
-0.0.0.0	76358.xyz
-0.0.0.0	76365.xyz
-0.0.0.0	76376.xyz
-0.0.0.0	76386.xyz
-0.0.0.0	76388.xyz
 0.0.0.0	76506.xyz
 0.0.0.0	76542.xyz
 0.0.0.0	76564.xyz
@@ -1988,7 +1932,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.fanyi.baidu.com
 0.0.0.0	cm.baidu.com
 0.0.0.0	collector.dcdn.baidu.com
-0.0.0.0	console.bce.baidu.com
 0.0.0.0	cpro.baidu.com
 0.0.0.0	cpro.zhidao.baidu.com
 0.0.0.0	cpu.baidu.com
@@ -2039,7 +1982,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lbsonline.pushct.baidu.com
 0.0.0.0	libs.baidu.com
 0.0.0.0	log.music.baidu.com
-0.0.0.0	login.bce.baidu.com
 0.0.0.0	luimg.baidu.com
 0.0.0.0	m1.baidu.com
 0.0.0.0	miao.baidu.com
@@ -4039,9 +3981,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	s.h5king.com
 0.0.0.0	h5xcxa.cn
 0.0.0.0	h6295.com
-0.0.0.0	h62c.xyz
-0.0.0.0	h62d.xyz
-0.0.0.0	h62f.xyz
 0.0.0.0	h62o.xyz
 0.0.0.0	h62r.xyz
 0.0.0.0	h63c.xyz
@@ -5838,7 +5777,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	midway.run
 0.0.0.0	mielefood.cn
 0.0.0.0	hz.miercn.com
-0.0.0.0	migrosvips.click
 0.0.0.0	app.log.nf.migu.cn
 0.0.0.0	uem.migu.cn
 0.0.0.0	report.migufun.com
@@ -6420,7 +6358,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	p188.cn
 0.0.0.0	p2cdn.com
 0.0.0.0	p555.cc
-0.0.0.0	p93v.xyz
 0.0.0.0	p94c.xyz
 0.0.0.0	p94i.xyz
 0.0.0.0	p94k.xyz
@@ -7110,8 +7047,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	msgv6.qy.net
 0.0.0.0	ad.qyer.com
 0.0.0.0	hades.qyer.com
-0.0.0.0	r14b.xyz
-0.0.0.0	r15l.xyz
 0.0.0.0	r15z.xyz
 0.0.0.0	r16h.xyz
 0.0.0.0	r16k.xyz

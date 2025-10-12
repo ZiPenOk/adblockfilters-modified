@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251012163105
-! Last modified: 2025/10/12 16:31:05
-! Blocked domains: 10308
+! Version: 20251013003002
+! Last modified: 2025/10/13 00:30:02
+! Blocked domains: 10243
 ! unBlocked domains: 52
 !
 ||000fz.top^
@@ -84,7 +84,6 @@
 ||101.132.131.225^
 ||101.201.227.94^
 ||101.33.235.96^
-||101.43.2.116^
 ||101.43.49.183^
 ||101.43.58.190^
 ||1.1010pic.com^
@@ -127,7 +126,6 @@
 ||117.72.72.84^
 ||118.178.133.241^
 ||118.25.68.152^
-||118.25.85.198^
 ||118678.com^
 ||1188.com^
 ||11888vip.cn^
@@ -582,7 +580,6 @@
 ||47.109.93.252^
 ||47.111.146.110^
 ||47.113.186.138^
-||47.116.208.81^
 ||47.119.34.138^
 ||47.122.119.55^
 ||47.122.30.177^
@@ -842,61 +839,8 @@
 ||a.75111.com^
 ||7577.cc^
 ||m.75l3g.cn^
-||76115.xyz^
-||76117.xyz^
-||76118.xyz^
-||76121.xyz^
-||76124.xyz^
-||76134.xyz^
-||76142.xyz^
-||76143.xyz^
-||76147.xyz^
-||76150.xyz^
-||76173.xyz^
-||76176.xyz^
-||76177.xyz^
-||76179.xyz^
-||76181.xyz^
-||76184.xyz^
-||76187.xyz^
-||76189.xyz^
-||76191.xyz^
-||76197.xyz^
-||76205.xyz^
-||76212.xyz^
-||76216.xyz^
-||76219.xyz^
-||76221.xyz^
-||76222.xyz^
-||76234.xyz^
-||76236.xyz^
-||76238.xyz^
-||76242.xyz^
-||76245.xyz^
-||76247.xyz^
-||76263.xyz^
-||76264.xyz^
-||76272.xyz^
-||76274.xyz^
-||76280.xyz^
-||76285.xyz^
-||76289.xyz^
-||76294.xyz^
-||76301.xyz^
 ||7631.com^
-||76317.xyz^
 ||76319.xyz^
-||76320.xyz^
-||76331.xyz^
-||76333.xyz^
-||76347.xyz^
-||76351.xyz^
-||76355.xyz^
-||76358.xyz^
-||76365.xyz^
-||76376.xyz^
-||76386.xyz^
-||76388.xyz^
 ||76506.xyz^
 ||76542.xyz^
 ||76564.xyz^
@@ -1974,7 +1918,6 @@
 ||click.fanyi.baidu.com^
 ||cm.baidu.com^
 ||collector.dcdn.baidu.com^
-||console.bce.baidu.com^
 ||cpro.baidu.com^
 ||cpro.zhidao.baidu.com^
 ||cpu.baidu.com^
@@ -2025,7 +1968,6 @@
 ||lbsonline.pushct.baidu.com^
 ||libs.baidu.com^
 ||log.music.baidu.com^
-||login.bce.baidu.com^
 ||luimg.baidu.com^
 ||m1.baidu.com^
 ||miao.baidu.com^
@@ -4025,9 +3967,6 @@
 ||s.h5king.com^
 ||h5xcxa.cn^
 ||h6295.com^
-||h62c.xyz^
-||h62d.xyz^
-||h62f.xyz^
 ||h62o.xyz^
 ||h62r.xyz^
 ||h63c.xyz^
@@ -5824,7 +5763,6 @@
 ||midway.run^
 ||mielefood.cn^
 ||hz.miercn.com^
-||migrosvips.click^
 ||app.log.nf.migu.cn^
 ||uem.migu.cn^
 ||report.migufun.com^
@@ -6406,7 +6344,6 @@
 ||p188.cn^
 ||p2cdn.com^
 ||p555.cc^
-||p93v.xyz^
 ||p94c.xyz^
 ||p94i.xyz^
 ||p94k.xyz^
@@ -7096,8 +7033,6 @@
 ||msgv6.qy.net^
 ||ad.qyer.com^
 ||hades.qyer.com^
-||r14b.xyz^
-||r15l.xyz^
 ||r15z.xyz^
 ||r16h.xyz^
 ||r16k.xyz^
