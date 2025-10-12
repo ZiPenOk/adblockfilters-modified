@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251012002857
-! Last modified: 2025/10/12 00:28:57
-! Blocked domains: 10240
+! Version: 20251012100206
+! Last modified: 2025/10/12 10:02:06
+! Blocked domains: 10231
 !
 000fz.top
 0010jz.com
@@ -568,7 +568,6 @@ m.408uo.cn
 41grk.icu
 42.192.49.72
 42.226.89.115
-42.226.89.199
 426g.com
 43.138.139.240
 43.138.28.205
@@ -601,7 +600,6 @@ stat.api.4399.com
 47.122.30.177
 47.93.28.103
 47.97.118.238
-47.98.136.161
 47.98.224.91
 472741a4e2e11746.com
 m.479db.cn
@@ -1155,6 +1153,7 @@ cp.7y7.com
 8.130.74.111
 8.131.63.6
 8.134.51.218
+8.137.114.210
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -2601,7 +2600,6 @@ ykad-data.cp31.ott.cibntv.net
 cig.com.cn
 cihc.cn
 cippe.com.cn
-cipvx.cn
 metrics.citi.cn
 metrics.citi.com.cn
 metrics.citibank.cn
@@ -3178,7 +3176,6 @@ duapps.com
 duba.com
 duba.net
 img.dubyc.com
-ducns.cn
 union.duizhuang.com
 duocpa2.cn
 duohongmenkong.cn
@@ -4670,7 +4667,6 @@ smetrics.marketing.interact-lighting.com.cn
 ads.intergreat.com
 link.intergreat.com
 inveno.com
-iofwd.cn
 iovia-pmj.com
 ip193.cn
 c81.ipanocloud.com
@@ -6320,7 +6316,6 @@ c.originz.cn
 v.originz.cn
 visit.oschina.net
 bilibili.osfc.org.cn
-www3-vpass.ospmy.cn
 osrrltw.cn
 ossedm.com
 log.gxa.bcs.ottcn.com
@@ -6398,7 +6393,6 @@ count6.pconline.com.cn
 imgad0.pconline.com.cn
 ivy.pconline.com.cn
 iyv.pconline.com.cn
-pcossister.com
 pcpop.com
 pcsmxx.cn
 pcupd.com
@@ -8444,7 +8438,6 @@ uusee.com
 gg.uuu9.com
 stat.uuu9.com
 static.flv.uuzuonline.com
-uvqztk.cn
 uwgnpkd.cn
 uxcnhsf.cn
 uxlqwra.cn
@@ -8791,7 +8784,6 @@ vrbrothers.com
 vrelai.com
 vruuzgf.cn
 vsnoon.com
-vtmsz.cn
 vungle.cn
 vvfank.cn
 e.vvme9.cn
@@ -9059,7 +9051,6 @@ wukongtongji.com
 wumii.cn
 wumii.com
 m.wuqutu.com
-wuryubz.cn
 wuus.org.cn
 wuwho.cn
 op.wuygmdi.cn

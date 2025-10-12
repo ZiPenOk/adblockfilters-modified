@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251012002857
-# Last modified: 2025/10/12 00:28:57
-# Blocked domains: 10240
+# Version: 20251012100206
+# Last modified: 2025/10/12 10:02:06
+# Blocked domains: 10231
 #
 local=/000fz.top/
 local=/0010jz.com/
@@ -568,7 +568,6 @@ local=/409998.cn/
 local=/41grk.icu/
 local=/42.192.49.72/
 local=/42.226.89.115/
-local=/42.226.89.199/
 local=/426g.com/
 local=/43.138.139.240/
 local=/43.138.28.205/
@@ -601,7 +600,6 @@ local=/47.122.119.55/
 local=/47.122.30.177/
 local=/47.93.28.103/
 local=/47.97.118.238/
-local=/47.98.136.161/
 local=/47.98.224.91/
 local=/472741a4e2e11746.com/
 local=/m.479db.cn/
@@ -1155,6 +1153,7 @@ local=/7ywl.com/
 local=/8.130.74.111/
 local=/8.131.63.6/
 local=/8.134.51.218/
+local=/8.137.114.210/
 local=/8.138.182.17/
 local=/8.140.239.162/
 local=/8.141.15.227/
@@ -2601,7 +2600,6 @@ local=/ykad-data.cp31.ott.cibntv.net/
 local=/cig.com.cn/
 local=/cihc.cn/
 local=/cippe.com.cn/
-local=/cipvx.cn/
 local=/metrics.citi.cn/
 local=/metrics.citi.com.cn/
 local=/metrics.citibank.cn/
@@ -3178,7 +3176,6 @@ local=/duapps.com/
 local=/duba.com/
 local=/duba.net/
 local=/img.dubyc.com/
-local=/ducns.cn/
 local=/union.duizhuang.com/
 local=/duocpa2.cn/
 local=/duohongmenkong.cn/
@@ -4670,7 +4667,6 @@ local=/smetrics.marketing.interact-lighting.com.cn/
 local=/ads.intergreat.com/
 local=/link.intergreat.com/
 local=/inveno.com/
-local=/iofwd.cn/
 local=/iovia-pmj.com/
 local=/ip193.cn/
 local=/c81.ipanocloud.com/
@@ -6320,7 +6316,6 @@ local=/c.originz.cn/
 local=/v.originz.cn/
 local=/visit.oschina.net/
 local=/bilibili.osfc.org.cn/
-local=/www3-vpass.ospmy.cn/
 local=/osrrltw.cn/
 local=/ossedm.com/
 local=/log.gxa.bcs.ottcn.com/
@@ -6398,7 +6393,6 @@ local=/count6.pconline.com.cn/
 local=/imgad0.pconline.com.cn/
 local=/ivy.pconline.com.cn/
 local=/iyv.pconline.com.cn/
-local=/pcossister.com/
 local=/pcpop.com/
 local=/pcsmxx.cn/
 local=/pcupd.com/
@@ -8444,7 +8438,6 @@ local=/uusee.com/
 local=/gg.uuu9.com/
 local=/stat.uuu9.com/
 local=/static.flv.uuzuonline.com/
-local=/uvqztk.cn/
 local=/uwgnpkd.cn/
 local=/uxcnhsf.cn/
 local=/uxlqwra.cn/
@@ -8791,7 +8784,6 @@ local=/vrbrothers.com/
 local=/vrelai.com/
 local=/vruuzgf.cn/
 local=/vsnoon.com/
-local=/vtmsz.cn/
 local=/vungle.cn/
 local=/vvfank.cn/
 local=/e.vvme9.cn/
@@ -9059,7 +9051,6 @@ local=/wukongtongji.com/
 local=/wumii.cn/
 local=/wumii.com/
 local=/m.wuqutu.com/
-local=/wuryubz.cn/
 local=/wuus.org.cn/
 local=/wuwho.cn/
 local=/op.wuygmdi.cn/

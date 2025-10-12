@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/12 00:28:57
-#!support=10240
+#!date=2025/10/12 10:02:06
+#!support=10231
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,000fz.top
@@ -572,7 +572,6 @@ DOMAIN-SUFFIX,409998.cn
 DOMAIN-SUFFIX,41grk.icu
 DOMAIN-SUFFIX,42.192.49.72
 DOMAIN-SUFFIX,42.226.89.115
-DOMAIN-SUFFIX,42.226.89.199
 DOMAIN-SUFFIX,426g.com
 DOMAIN-SUFFIX,43.138.139.240
 DOMAIN-SUFFIX,43.138.28.205
@@ -605,7 +604,6 @@ DOMAIN-SUFFIX,47.122.119.55
 DOMAIN-SUFFIX,47.122.30.177
 DOMAIN-SUFFIX,47.93.28.103
 DOMAIN-SUFFIX,47.97.118.238
-DOMAIN-SUFFIX,47.98.136.161
 DOMAIN-SUFFIX,47.98.224.91
 DOMAIN-SUFFIX,472741a4e2e11746.com
 DOMAIN-SUFFIX,m.479db.cn
@@ -1159,6 +1157,7 @@ DOMAIN-SUFFIX,7ywl.com
 DOMAIN-SUFFIX,8.130.74.111
 DOMAIN-SUFFIX,8.131.63.6
 DOMAIN-SUFFIX,8.134.51.218
+DOMAIN-SUFFIX,8.137.114.210
 DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
@@ -2605,7 +2604,6 @@ DOMAIN-SUFFIX,ykad-data.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,cig.com.cn
 DOMAIN-SUFFIX,cihc.cn
 DOMAIN-SUFFIX,cippe.com.cn
-DOMAIN-SUFFIX,cipvx.cn
 DOMAIN-SUFFIX,metrics.citi.cn
 DOMAIN-SUFFIX,metrics.citi.com.cn
 DOMAIN-SUFFIX,metrics.citibank.cn
@@ -3182,7 +3180,6 @@ DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,duba.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,img.dubyc.com
-DOMAIN-SUFFIX,ducns.cn
 DOMAIN-SUFFIX,union.duizhuang.com
 DOMAIN-SUFFIX,duocpa2.cn
 DOMAIN-SUFFIX,duohongmenkong.cn
@@ -4674,7 +4671,6 @@ DOMAIN-SUFFIX,smetrics.marketing.interact-lighting.com.cn
 DOMAIN-SUFFIX,ads.intergreat.com
 DOMAIN-SUFFIX,link.intergreat.com
 DOMAIN-SUFFIX,inveno.com
-DOMAIN-SUFFIX,iofwd.cn
 DOMAIN-SUFFIX,iovia-pmj.com
 DOMAIN-SUFFIX,ip193.cn
 DOMAIN-SUFFIX,c81.ipanocloud.com
@@ -6324,7 +6320,6 @@ DOMAIN-SUFFIX,c.originz.cn
 DOMAIN-SUFFIX,v.originz.cn
 DOMAIN-SUFFIX,visit.oschina.net
 DOMAIN-SUFFIX,bilibili.osfc.org.cn
-DOMAIN-SUFFIX,www3-vpass.ospmy.cn
 DOMAIN-SUFFIX,osrrltw.cn
 DOMAIN-SUFFIX,ossedm.com
 DOMAIN-SUFFIX,log.gxa.bcs.ottcn.com
@@ -6402,7 +6397,6 @@ DOMAIN-SUFFIX,count6.pconline.com.cn
 DOMAIN-SUFFIX,imgad0.pconline.com.cn
 DOMAIN-SUFFIX,ivy.pconline.com.cn
 DOMAIN-SUFFIX,iyv.pconline.com.cn
-DOMAIN-SUFFIX,pcossister.com
 DOMAIN-SUFFIX,pcpop.com
 DOMAIN-SUFFIX,pcsmxx.cn
 DOMAIN-SUFFIX,pcupd.com
@@ -8448,7 +8442,6 @@ DOMAIN-SUFFIX,uusee.com
 DOMAIN-SUFFIX,gg.uuu9.com
 DOMAIN-SUFFIX,stat.uuu9.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
-DOMAIN-SUFFIX,uvqztk.cn
 DOMAIN-SUFFIX,uwgnpkd.cn
 DOMAIN-SUFFIX,uxcnhsf.cn
 DOMAIN-SUFFIX,uxlqwra.cn
@@ -8795,7 +8788,6 @@ DOMAIN-SUFFIX,vrbrothers.com
 DOMAIN-SUFFIX,vrelai.com
 DOMAIN-SUFFIX,vruuzgf.cn
 DOMAIN-SUFFIX,vsnoon.com
-DOMAIN-SUFFIX,vtmsz.cn
 DOMAIN-SUFFIX,vungle.cn
 DOMAIN-SUFFIX,vvfank.cn
 DOMAIN-SUFFIX,e.vvme9.cn
@@ -9063,7 +9055,6 @@ DOMAIN-SUFFIX,wukongtongji.com
 DOMAIN-SUFFIX,wumii.cn
 DOMAIN-SUFFIX,wumii.com
 DOMAIN-SUFFIX,m.wuqutu.com
-DOMAIN-SUFFIX,wuryubz.cn
 DOMAIN-SUFFIX,wuus.org.cn
 DOMAIN-SUFFIX,wuwho.cn
 DOMAIN-SUFFIX,op.wuygmdi.cn
