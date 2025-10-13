@@ -3,11 +3,10 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251013163808
-! Last modified: 2025/10/13 16:38:08
-! Blocked domains: 10224
+! Version: 20251014003402
+! Last modified: 2025/10/14 00:34:02
+! Blocked domains: 10185
 !
-000fz.top
 0010jz.com
 395131115419474531.002.sh.cn
 00xvppy.cn
@@ -66,7 +65,6 @@ m.0uk9e.cn
 0x5.me
 1-bmo-client-login.com
 1.15.134.238
-1.15.174.189
 10000xing.cn
 1000su.com
 enrichgw.10010.com
@@ -84,7 +82,6 @@ huodong.feixin.10086.cn
 101.132.131.225
 101.201.227.94
 101.33.235.96
-101.43.2.116
 101.43.49.183
 101.43.58.190
 1.1010pic.com
@@ -129,7 +126,6 @@ appversion.115.com
 117.72.72.84
 118.178.133.241
 118.25.68.152
-118.25.85.198
 118678.com
 1188.com
 11888vip.cn
@@ -578,7 +574,6 @@ stat.api.4399.com
 47.104.173.216
 47.104.31.7
 47.104.96.89
-47.106.132.231
 47.108.63.64
 47.109.145.121
 47.109.48.57
@@ -842,32 +837,8 @@ a.75111.com
 7577.cc
 m.75l3g.cn
 7631.com
-76319.xyz
-76506.xyz
-76542.xyz
-76564.xyz
-76678.xyz
-76733.xyz
-76738.xyz
-76755.xyz
 76768hwj.cn
 76802.net
-76887.xyz
-76888.xyz
-76951.xyz
-76956.xyz
-76958.xyz
-76987.xyz
-76998.xyz
-77036.xyz
-77063.xyz
-77085.xyz
-77086.xyz
-77105.xyz
-77245.xyz
-77250.xyz
-77274.xyz
-77391.xyz
 7759.com
 77605.xyz
 77606.xyz
@@ -1174,7 +1145,6 @@ cp.7y7.com
 8.130.74.111
 8.131.63.6
 8.134.51.218
-8.134.74.227
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -1346,7 +1316,6 @@ a29m.xyz
 a29x.xyz
 a2m.cn
 a2wx.icu
-telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
 a30q.xyz
 a30v.xyz
 a32a.com.cn
@@ -4001,8 +3970,6 @@ t.h5data.com
 s.h5king.com
 h5xcxa.cn
 h6295.com
-h62o.xyz
-h62r.xyz
 h63c.xyz
 h63i.xyz
 h64b.xyz
@@ -4806,9 +4773,6 @@ xladapi.izuiyou.com
 xlstat.izuiyou.com
 ee.j06kc.cn
 m.j06kc.cn
-j27l.xyz
-j27u.xyz
-j27x.xyz
 j28e.xyz
 j28f.xyz
 j28l.xyz
@@ -5391,7 +5355,6 @@ ads-uo.api.leiniao.com
 ads-ut.api.leiniao.com
 euads-o.api.leiniao.com
 update.lejiao.tv
-adm.leju.com
 src.leju.com
 staticadm.leju.com
 lejuliang.com
@@ -6632,7 +6595,6 @@ qhicumg.cn
 jspassport.ssl.qhimg.com
 top.h.qhimg.com
 top.h.qhmsg.com
-s.ssl.qhres2.com
 c.qhruixin.cn
 v.qhruixin.cn
 news.qhstatic.com
@@ -9076,7 +9038,6 @@ wzry5.cn
 wzscales.com
 a.wzu.com
 x-steam.com
-x69a.xyz
 x69s.xyz
 x70c.xyz
 x70v.xyz

@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251013163808
-# Last modified: 2025/10/13 16:38:08
-# Blocked domains: 10224
+# Version: 20251014003402
+# Last modified: 2025/10/14 00:34:02
+# Blocked domains: 10185
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -22,7 +22,6 @@ ff02::2	ip6-allrouters
 ff02::3	ip6-allhosts
 0.0.0.0	0.0.0.0
 #
-0.0.0.0	000fz.top
 0.0.0.0	0010jz.com
 0.0.0.0	395131115419474531.002.sh.cn
 0.0.0.0	00xvppy.cn
@@ -81,7 +80,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0x5.me
 0.0.0.0	1-bmo-client-login.com
 0.0.0.0	1.15.134.238
-0.0.0.0	1.15.174.189
 0.0.0.0	10000xing.cn
 0.0.0.0	1000su.com
 0.0.0.0	enrichgw.10010.com
@@ -99,7 +97,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
 0.0.0.0	101.33.235.96
-0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	101.43.58.190
 0.0.0.0	1.1010pic.com
@@ -144,7 +141,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.72.84
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
-0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -593,7 +589,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.104.173.216
 0.0.0.0	47.104.31.7
 0.0.0.0	47.104.96.89
-0.0.0.0	47.106.132.231
 0.0.0.0	47.108.63.64
 0.0.0.0	47.109.145.121
 0.0.0.0	47.109.48.57
@@ -857,32 +852,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	7577.cc
 0.0.0.0	m.75l3g.cn
 0.0.0.0	7631.com
-0.0.0.0	76319.xyz
-0.0.0.0	76506.xyz
-0.0.0.0	76542.xyz
-0.0.0.0	76564.xyz
-0.0.0.0	76678.xyz
-0.0.0.0	76733.xyz
-0.0.0.0	76738.xyz
-0.0.0.0	76755.xyz
 0.0.0.0	76768hwj.cn
 0.0.0.0	76802.net
-0.0.0.0	76887.xyz
-0.0.0.0	76888.xyz
-0.0.0.0	76951.xyz
-0.0.0.0	76956.xyz
-0.0.0.0	76958.xyz
-0.0.0.0	76987.xyz
-0.0.0.0	76998.xyz
-0.0.0.0	77036.xyz
-0.0.0.0	77063.xyz
-0.0.0.0	77085.xyz
-0.0.0.0	77086.xyz
-0.0.0.0	77105.xyz
-0.0.0.0	77245.xyz
-0.0.0.0	77250.xyz
-0.0.0.0	77274.xyz
-0.0.0.0	77391.xyz
 0.0.0.0	7759.com
 0.0.0.0	77605.xyz
 0.0.0.0	77606.xyz
@@ -1189,7 +1160,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8.130.74.111
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.51.218
-0.0.0.0	8.134.74.227
 0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
@@ -1361,7 +1331,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a29x.xyz
 0.0.0.0	a2m.cn
 0.0.0.0	a2wx.icu
-0.0.0.0	telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
 0.0.0.0	a30q.xyz
 0.0.0.0	a30v.xyz
 0.0.0.0	a32a.com.cn
@@ -4016,8 +3985,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	s.h5king.com
 0.0.0.0	h5xcxa.cn
 0.0.0.0	h6295.com
-0.0.0.0	h62o.xyz
-0.0.0.0	h62r.xyz
 0.0.0.0	h63c.xyz
 0.0.0.0	h63i.xyz
 0.0.0.0	h64b.xyz
@@ -4821,9 +4788,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xlstat.izuiyou.com
 0.0.0.0	ee.j06kc.cn
 0.0.0.0	m.j06kc.cn
-0.0.0.0	j27l.xyz
-0.0.0.0	j27u.xyz
-0.0.0.0	j27x.xyz
 0.0.0.0	j28e.xyz
 0.0.0.0	j28f.xyz
 0.0.0.0	j28l.xyz
@@ -5406,7 +5370,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads-ut.api.leiniao.com
 0.0.0.0	euads-o.api.leiniao.com
 0.0.0.0	update.lejiao.tv
-0.0.0.0	adm.leju.com
 0.0.0.0	src.leju.com
 0.0.0.0	staticadm.leju.com
 0.0.0.0	lejuliang.com
@@ -6647,7 +6610,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jspassport.ssl.qhimg.com
 0.0.0.0	top.h.qhimg.com
 0.0.0.0	top.h.qhmsg.com
-0.0.0.0	s.ssl.qhres2.com
 0.0.0.0	c.qhruixin.cn
 0.0.0.0	v.qhruixin.cn
 0.0.0.0	news.qhstatic.com
@@ -9091,7 +9053,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wzscales.com
 0.0.0.0	a.wzu.com
 0.0.0.0	x-steam.com
-0.0.0.0	x69a.xyz
 0.0.0.0	x69s.xyz
 0.0.0.0	x70c.xyz
 0.0.0.0	x70v.xyz
