@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251014003402
-# Last modified: 2025/10/14 00:34:02
-# Blocked domains: 10185
+# Version: 20251014095843
+# Last modified: 2025/10/14 09:58:43
+# Blocked domains: 10168
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -123,7 +123,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	113.44.76.133
 0.0.0.0	113.98.201.248
 0.0.0.0	1133.cc
-0.0.0.0	114.132.150.96
 0.0.0.0	114.55.106.136
 0.0.0.0	114.55.250.233
 0.0.0.0	114.fm
@@ -137,10 +136,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.214.21
-0.0.0.0	117.72.222.203
-0.0.0.0	117.72.72.84
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
+0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
 0.0.0.0	1188.com
 0.0.0.0	11888vip.cn
@@ -272,7 +270,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tz.1688988.com
 0.0.0.0	168ad.cc
 0.0.0.0	169bj.cn
-0.0.0.0	171.81.101.69
 0.0.0.0	1.17110.com
 0.0.0.0	17173.com
 0.0.0.0	s.17173cdn.com
@@ -403,7 +400,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	3278839922a.cn
 0.0.0.0	mg.32r.com
 0.0.0.0	ad.3322.net
-0.0.0.0	3324.cn
 0.0.0.0	dm1.3328.cn
 0.0.0.0	home.33893306.xyz
 0.0.0.0	339.cn
@@ -454,7 +450,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wot.360.cn
 0.0.0.0	wows.360.cn
 0.0.0.0	yasuo.360.cn
-0.0.0.0	ykapi.luyou.360.cn
 0.0.0.0	yule.360.com
 0.0.0.0	360ads.com
 0.0.0.0	cps.360buy.com
@@ -5054,7 +5049,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jznylsf.cn
 0.0.0.0	e.jzvog.cn
 0.0.0.0	m.jzvog.cn
-0.0.0.0	jzxuds.cn
 0.0.0.0	k2n0f.cn
 0.0.0.0	k5uj.icu
 0.0.0.0	k99.cc
@@ -7116,7 +7110,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	roomle.cn
 0.0.0.0	rosetta.cn
 0.0.0.0	roxewwq.cn
-0.0.0.0	essfication.rpaarit.cn
 0.0.0.0	rpahyhn.cn
 0.0.0.0	rpielh.cn
 0.0.0.0	rpkcqtf.cn
@@ -7219,7 +7212,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	scdcd333.cn
 0.0.0.0	scfans.cn
 0.0.0.0	scfrwo.cn
-0.0.0.0	smetrics.schindler.cn
 0.0.0.0	schysd.cn
 0.0.0.0	scj-cbe-wms.com
 0.0.0.0	scjpqut.cn
@@ -7501,8 +7493,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	video-ad.sm.cn
 0.0.0.0	smaato-ads.s3.amazonaws.com
 0.0.0.0	smart-way2.com.cn
-0.0.0.0	data.aftersales.smart.com
-0.0.0.0	data.ajo-dev.notifications.future.smart.com
 0.0.0.0	data.ajo-dev.srv.smart.com
 0.0.0.0	data.ajo-stage.srv.smart.com
 0.0.0.0	data.dev-notifications.future.smart.com
@@ -8001,7 +7991,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	report.tencentmusic.com
 0.0.0.0	ssp.tencentmusic.com
 0.0.0.0	1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com
-0.0.0.0	1318387972-34ie6xy56d.ap-guangzhou.tencentscf.com
 0.0.0.0	1328175548-4zksdftd97.ap-guangzhou.tencentscf.com
 0.0.0.0	1357965137-hnjcoxitoz.ap-guangzhou.tencentscf.com
 0.0.0.0	tendata.cn
@@ -8013,7 +8002,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	answers.teradata.cn
 0.0.0.0	answers.teradata.com.cn
 0.0.0.0	testin.cn
-0.0.0.0	texnovabd.com
 0.0.0.0	m.tfeic.com
 0.0.0.0	tfsqyeb.cn
 0.0.0.0	tgfyq.cn
@@ -8095,7 +8083,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tjzoffice.com.cn
 0.0.0.0	tkd777.cn
 0.0.0.0	tklbxip.cn
-0.0.0.0	tkmcag.cn
 0.0.0.0	tkmdng.cn
 0.0.0.0	tkmly.cn
 0.0.0.0	tlauncher.cn
@@ -8221,7 +8208,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	twgswz.com
 0.0.0.0	twh5.com
 0.0.0.0	twjsx.cn
-0.0.0.0	twkvss.cn
 0.0.0.0	tb.code.twyxi.com
 0.0.0.0	twzui6.com
 0.0.0.0	livetech.shopee.co.id.txlivecdn.com
@@ -8452,7 +8438,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.vcgame.cn
 0.0.0.0	vchiy.com
 0.0.0.0	vdazz.net
-0.0.0.0	vdrth.cn
 0.0.0.0	vegaschina.cn
 0.0.0.0	vegent.cn
 0.0.0.0	vengood.com
@@ -9616,7 +9601,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yglhcn.cn
 0.0.0.0	ygwdai.cn
 0.0.0.0	ygzqlnt.cn
-0.0.0.0	yhbbn.cn
 0.0.0.0	yhbsk.cn
 0.0.0.0	yhjccj.cn
 0.0.0.0	yhwt.cn
@@ -10146,7 +10130,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zowralr.cn
 0.0.0.0	zp0573.cn
 0.0.0.0	zp22.cn
-0.0.0.0	zpsc.edu.bd
 0.0.0.0	zq-hk.cn
 0.0.0.0	zqvhr.cn
 0.0.0.0	a.zqycftmex.cn
