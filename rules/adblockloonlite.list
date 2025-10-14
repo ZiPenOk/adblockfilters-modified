@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/14 16:34:22
-#!support=10073
+#!date=2025/10/15 00:33:51
+#!support=10014
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0010jz.com
@@ -193,7 +193,6 @@ DOMAIN-SUFFIX,12i.cn
 DOMAIN-SUFFIX,133u.com
 DOMAIN-SUFFIX,1357902.cn
 DOMAIN-SUFFIX,139.159.155.204
-DOMAIN-SUFFIX,139.196.126.161
 DOMAIN-SUFFIX,139.198.15.223
 DOMAIN-SUFFIX,1391.com
 DOMAIN-SUFFIX,14.103.234.180
@@ -320,7 +319,6 @@ DOMAIN-SUFFIX,2009llll.cn
 DOMAIN-SUFFIX,wm.20150.net
 DOMAIN-SUFFIX,201ttkj.cn
 DOMAIN-SUFFIX,202.104.139.177
-DOMAIN-SUFFIX,202.189.4.56
 DOMAIN-SUFFIX,202.189.5.5
 DOMAIN-SUFFIX,20230329.com
 DOMAIN-SUFFIX,202m.com
@@ -556,7 +554,6 @@ DOMAIN-SUFFIX,426g.com
 DOMAIN-SUFFIX,43.138.139.240
 DOMAIN-SUFFIX,43.138.28.205
 DOMAIN-SUFFIX,43.139.146.100
-DOMAIN-SUFFIX,43.143.240.86
 DOMAIN-SUFFIX,43.226.39.44
 DOMAIN-SUFFIX,43366.cn
 DOMAIN-SUFFIX,stat.api.4399.com
@@ -580,7 +577,6 @@ DOMAIN-SUFFIX,47.119.34.138
 DOMAIN-SUFFIX,47.122.30.177
 DOMAIN-SUFFIX,47.93.28.103
 DOMAIN-SUFFIX,47.97.118.238
-DOMAIN-SUFFIX,47.98.136.161
 DOMAIN-SUFFIX,47.98.224.91
 DOMAIN-SUFFIX,472741a4e2e11746.com
 DOMAIN-SUFFIX,m.479db.cn
@@ -698,7 +694,6 @@ DOMAIN-SUFFIX,57.com.cn
 DOMAIN-SUFFIX,57573zubo36833.com
 DOMAIN-SUFFIX,img2.578965.com
 DOMAIN-SUFFIX,js.578965.com
-DOMAIN-SUFFIX,58.216.207.82
 DOMAIN-SUFFIX,58.87.92.169
 DOMAIN-SUFFIX,adshow.58.com
 DOMAIN-SUFFIX,adtrack.58.com
@@ -1074,49 +1069,7 @@ DOMAIN-SUFFIX,78957.xyz
 DOMAIN-SUFFIX,7895983.cn
 DOMAIN-SUFFIX,78961.xyz
 DOMAIN-SUFFIX,78967.xyz
-DOMAIN-SUFFIX,78973.xyz
-DOMAIN-SUFFIX,79001.xyz
-DOMAIN-SUFFIX,79009.xyz
-DOMAIN-SUFFIX,79012.xyz
-DOMAIN-SUFFIX,79014.xyz
-DOMAIN-SUFFIX,79015.xyz
-DOMAIN-SUFFIX,79016.xyz
-DOMAIN-SUFFIX,79018.xyz
 DOMAIN-SUFFIX,79019.xyz
-DOMAIN-SUFFIX,79020.xyz
-DOMAIN-SUFFIX,79021.xyz
-DOMAIN-SUFFIX,79025.xyz
-DOMAIN-SUFFIX,79026.xyz
-DOMAIN-SUFFIX,79027.xyz
-DOMAIN-SUFFIX,79029.xyz
-DOMAIN-SUFFIX,79031.xyz
-DOMAIN-SUFFIX,79033.xyz
-DOMAIN-SUFFIX,79039.xyz
-DOMAIN-SUFFIX,79045.xyz
-DOMAIN-SUFFIX,79046.xyz
-DOMAIN-SUFFIX,79050.xyz
-DOMAIN-SUFFIX,79054.xyz
-DOMAIN-SUFFIX,79057.xyz
-DOMAIN-SUFFIX,79058.xyz
-DOMAIN-SUFFIX,79059.xyz
-DOMAIN-SUFFIX,79060.xyz
-DOMAIN-SUFFIX,79061.xyz
-DOMAIN-SUFFIX,79064.xyz
-DOMAIN-SUFFIX,79065.xyz
-DOMAIN-SUFFIX,79068.xyz
-DOMAIN-SUFFIX,79069.xyz
-DOMAIN-SUFFIX,79072.xyz
-DOMAIN-SUFFIX,79073.xyz
-DOMAIN-SUFFIX,79079.xyz
-DOMAIN-SUFFIX,79080.xyz
-DOMAIN-SUFFIX,79081.xyz
-DOMAIN-SUFFIX,79084.xyz
-DOMAIN-SUFFIX,79086.xyz
-DOMAIN-SUFFIX,79088.xyz
-DOMAIN-SUFFIX,79090.xyz
-DOMAIN-SUFFIX,79092.xyz
-DOMAIN-SUFFIX,79095.xyz
-DOMAIN-SUFFIX,79096.xyz
 DOMAIN-SUFFIX,79113.xyz
 DOMAIN-SUFFIX,79137.xyz
 DOMAIN-SUFFIX,79143.xyz
@@ -3810,7 +3763,6 @@ DOMAIN-SUFFIX,tianshu-x.gtimg.cn
 DOMAIN-SUFFIX,bla.gtimg.com
 DOMAIN-SUFFIX,ca.gtimg.com
 DOMAIN-SUFFIX,lb.gtimg.com
-DOMAIN-SUFFIX,ltsgdty.gtimg.com
 DOMAIN-SUFFIX,ra.gtimg.com
 DOMAIN-SUFFIX,splashqqlive.gtimg.com
 DOMAIN-SUFFIX,tui.gtimg.com
@@ -4128,7 +4080,6 @@ DOMAIN-SUFFIX,analytics.shop.hisense.com
 DOMAIN-SUFFIX,api-4know-em.hismarttv.com
 DOMAIN-SUFFIX,api-4know-eu.hismarttv.com
 DOMAIN-SUFFIX,api-cloudfalcon.hismarttv.com
-DOMAIN-SUFFIX,api-dynhost.hismarttv.com
 DOMAIN-SUFFIX,api-gps.hismarttv.com
 DOMAIN-SUFFIX,api-gps-em.hismarttv.com
 DOMAIN-SUFFIX,api-gps-eu.hismarttv.com
@@ -4138,7 +4089,6 @@ DOMAIN-SUFFIX,api-launcher-em.hismarttv.com
 DOMAIN-SUFFIX,api-launcher-eu.hismarttv.com
 DOMAIN-SUFFIX,api-launcher-na.hismarttv.com
 DOMAIN-SUFFIX,api-launcher-sa.hismarttv.com
-DOMAIN-SUFFIX,api-vidaaasst.hismarttv.com
 DOMAIN-SUFFIX,auth-em.hismarttv.com
 DOMAIN-SUFFIX,auth-eu.hismarttv.com
 DOMAIN-SUFFIX,auth-launcher-em.hismarttv.com
@@ -5996,7 +5946,6 @@ DOMAIN-SUFFIX,ad.bn.netease.com
 DOMAIN-SUFFIX,advert.lx.netease.com
 DOMAIN-SUFFIX,analytics.hz.netease.com
 DOMAIN-SUFFIX,analytics.mpay.netease.com
-DOMAIN-SUFFIX,countly.unus.netease.com
 DOMAIN-SUFFIX,da.netease.com
 DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
 DOMAIN-SUFFIX,httpdns.n.netease.com
@@ -6077,7 +6026,6 @@ DOMAIN-SUFFIX,c.nuhcpf.com
 DOMAIN-SUFFIX,yasu.nunbae.cn
 DOMAIN-SUFFIX,ray2jing.808.nuno.cn
 DOMAIN-SUFFIX,log.nuomi.com
-DOMAIN-SUFFIX,ads.nuonuo.com
 DOMAIN-SUFFIX,metric.nuonuo.com
 DOMAIN-SUFFIX,nuxwlc.cn
 DOMAIN-SUFFIX,m.nuxyz.cn
@@ -6213,7 +6161,6 @@ DOMAIN-SUFFIX,apps.outfit7.com
 DOMAIN-SUFFIX,apps2.outfit7.com
 DOMAIN-SUFFIX,at-af.outfit7.com
 DOMAIN-SUFFIX,bidder.dsp.outfit7.com
-DOMAIN-SUFFIX,events-api-ak.outfit7.com
 DOMAIN-SUFFIX,hb-af-us-central1.outfit7.com
 DOMAIN-SUFFIX,revive.outin.cn
 DOMAIN-SUFFIX,ouyaoxiazai.com
@@ -7208,7 +7155,6 @@ DOMAIN-SUFFIX,jpaasne.e.shifen.com
 DOMAIN-SUFFIX,shihe.cn
 DOMAIN-SUFFIX,shijixinrui.cn
 DOMAIN-SUFFIX,shilian168.cn
-DOMAIN-SUFFIX,log.shimo.im
 DOMAIN-SUFFIX,shinedaily.cn
 DOMAIN-SUFFIX,c.shishishiguixinfangfuzhuangshanghan.cn
 DOMAIN-SUFFIX,v.shishishiguixinfangfuzhuangshanghan.cn
@@ -7236,7 +7182,6 @@ DOMAIN-SUFFIX,shuzijz.cn
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,shwlyb.cn
 DOMAIN-SUFFIX,shxinjie.cn
-DOMAIN-SUFFIX,ads-monitoring.shziyi.com
 DOMAIN-SUFFIX,sibian.cn
 DOMAIN-SUFFIX,yun.sifuhe.cn
 DOMAIN-SUFFIX,sigmob.com
@@ -8026,7 +7971,6 @@ DOMAIN-SUFFIX,traditionallyobjectlessblinked.com
 DOMAIN-SUFFIX,tradplus.cn
 DOMAIN-SUFFIX,tradplus.com
 DOMAIN-SUFFIX,tradplusad.com
-DOMAIN-SUFFIX,telemetry.trae.com.cn
 DOMAIN-SUFFIX,trafficjam.cn
 DOMAIN-SUFFIX,transplantation.org.cn
 DOMAIN-SUFFIX,ubt-sin.tripcdn.com
@@ -8619,7 +8563,6 @@ DOMAIN-SUFFIX,vorluic.cn
 DOMAIN-SUFFIX,vpadn.com
 DOMAIN-SUFFIX,vpkq.cn
 DOMAIN-SUFFIX,vpsgu.cn
-DOMAIN-SUFFIX,vq7736.com
 DOMAIN-SUFFIX,vrbrothers.com
 DOMAIN-SUFFIX,vrelai.com
 DOMAIN-SUFFIX,vruuzgf.cn
@@ -8727,8 +8670,6 @@ DOMAIN-SUFFIX,ifm5.wecom.work
 DOMAIN-SUFFIX,royalbankofca5.wecom.work
 DOMAIN-SUFFIX,royalbankofca6.wecom.work
 DOMAIN-SUFFIX,weddingeeos.com
-DOMAIN-SUFFIX,dads.wedobest.com.cn
-DOMAIN-SUFFIX,event.wedobest.com.cn
 DOMAIN-SUFFIX,event.stat.wedobest.com.cn
 DOMAIN-SUFFIX,dns.weibo.cn
 DOMAIN-SUFFIX,dp.im.weibo.cn
