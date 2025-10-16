@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251016003113
-! Last modified: 2025/10/16 00:31:13
+! Version: 20251016100026
+! Last modified: 2025/10/16 10:00:26
 ! Blocked domains: 9800
 ! unBlocked domains: 52
 !
@@ -66,6 +66,7 @@
 ||m.0uk9e.cn^
 ||0x5.me^
 ||1-bmo-client-login.com^
+||1.15.134.238^
 ||10000xing.cn^
 ||1000su.com^
 ||enrichgw.10010.com^
@@ -82,7 +83,9 @@
 ||101.126.11.168^
 ||101.132.131.225^
 ||101.201.227.94^
+||101.33.235.96^
 ||101.43.49.183^
+||101.43.58.190^
 ||1.1010pic.com^
 ||2.1010pic.com^
 ||103.205.253.156^
@@ -108,6 +111,7 @@
 ||113.44.76.133^
 ||113.98.201.248^
 ||1133.cc^
+||114.132.150.96^
 ||114.55.106.136^
 ||114.55.250.233^
 ||114.fm^
@@ -123,6 +127,7 @@
 ||117.72.222.203^
 ||118.178.133.241^
 ||118.25.68.152^
+||118.25.85.198^
 ||118678.com^
 ||1188.com^
 ||11888vip.cn^
@@ -321,7 +326,6 @@
 ||wm.20150.net^
 ||201ttkj.cn^
 ||202.104.139.177^
-||202.189.4.56^
 ||202.189.5.5^
 ||20230329.com^
 ||202m.com^
@@ -878,6 +882,7 @@
 ||www.805m.com^
 ||80vn.cn^
 ||81.70.255.195^
+||81.71.159.99^
 ||m1.81312.com^
 ||815ss.cn^
 ||8181zx.com^
@@ -1562,7 +1567,6 @@
 ||az5i.icu^
 ||6nglkt9.azhhr.cn^
 ||o36j7a2.azhhr.cn^
-||designwise.aztdfee.cn^
 ||collector.azure.cn^
 ||dc.applicationinsights.azure.cn^
 ||live.applicationinsights.azure.cn^
@@ -2563,6 +2567,7 @@
 ||darm.cn^
 ||sgtm.darryring.com^
 ||dartsearch-cn.net^
+||clickserve.dartsearch.net^
 ||dashantechan.cn^
 ||dashet.com^
 ||datacaciques.com^
@@ -2828,7 +2833,6 @@
 ||dpjzzgw.cn^
 ||drdwy.com^
 ||dreamfull.cn^
-||drivethelife.com^
 ||dronedelivery.cn^
 ||b9belphnajw1hfbosyc7ya.on.drv.tw^
 ||email-verification-tbw2hsczpwmnv0lvrtfpuq-authentification.on.drv.tw^
@@ -6455,8 +6459,6 @@
 ||omgmta1.qq.com^
 ||openapi.guanjia.qq.com^
 ||openmsf.3g.qq.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
 ||p.store.qq.com^
 ||p2p.qq.com^
 ||p2pupdate.gamedl.qq.com^
@@ -7354,7 +7356,6 @@
 ||svv2.cn^
 ||svvbrkk.cn^
 ||fr.swissquote.cn^
-||ctafhy.swsat.cn^
 ||sx918.cn^
 ||img.sxcol.cn^
 ||sxhhyy.com^
@@ -8664,7 +8665,6 @@
 ||wzscales.com^
 ||a.wzu.com^
 ||x-steam.com^
-||x59f.xyz^
 ||m.x78tg.cn^
 ||xa58.cn^
 ||xa7j.icu^
