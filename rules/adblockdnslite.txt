@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251016163724
-! Last modified: 2025/10/16 16:37:24
-! Blocked domains: 9697
+! Version: 20251017003445
+! Last modified: 2025/10/17 00:34:45
+! Blocked domains: 9684
 ! unBlocked domains: 51
 !
 ||0010jz.com^
@@ -65,7 +65,6 @@
 ||m.0uk9e.cn^
 ||0x5.me^
 ||1-bmo-client-login.com^
-||1.15.134.238^
 ||10000xing.cn^
 ||1000su.com^
 ||enrichgw.10010.com^
@@ -85,7 +84,6 @@
 ||101.226.8.163^
 ||101.33.235.96^
 ||101.43.49.183^
-||101.43.58.190^
 ||1.1010pic.com^
 ||2.1010pic.com^
 ||103.205.253.156^
@@ -128,7 +126,6 @@
 ||118.178.133.241^
 ||118.25.68.152^
 ||118.25.85.198^
-||118.31.18.77^
 ||118678.com^
 ||1188.com^
 ||11888vip.cn^
@@ -578,7 +575,6 @@
 ||47.109.90.134^
 ||47.109.93.252^
 ||47.111.146.110^
-||47.113.186.138^
 ||47.116.208.81^
 ||47.119.34.138^
 ||47.122.30.177^
@@ -884,7 +880,6 @@
 ||80vn.cn^
 ||81.70.255.195^
 ||81.70.85.113^
-||81.71.159.99^
 ||m1.81312.com^
 ||815ss.cn^
 ||8181zx.com^
@@ -1338,7 +1333,6 @@
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com^
-||g9m3a0kv73-sdk.rum.aliyuncs.com^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
 ||hkuu.oss-cn-hongkong.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
@@ -3068,7 +3062,6 @@
 ||ez33.org.cn^
 ||ez4q2.cn^
 ||analytics.ezbim.net^
-||qp.ezfxpuo.cn^
 ||ezucods.cn^
 ||g.f11w.com^
 ||c.f1zd.com^
@@ -3841,8 +3834,6 @@
 ||hiofficer.com.cn^
 ||qiejushuo.hirz.cn^
 ||analytics.shop.hisense.com^
-||api-4know-em.hismarttv.com^
-||api-4know-eu.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
@@ -4631,7 +4622,6 @@
 ||jwg365.cn^
 ||kzni.jwhfn.cn^
 ||jwjwtw.top^
-||jwlkbn.cn^
 ||jxdown.com^
 ||jxhshg.cn^
 ||ad.jxnews.com.cn^
@@ -4961,7 +4951,6 @@
 ||ads-ut.api.leiniao.com^
 ||euads-o.api.leiniao.com^
 ||update.lejiao.tv^
-||adm.leju.com^
 ||src.leju.com^
 ||staticadm.leju.com^
 ||lejuliang.com^
@@ -8383,7 +8372,6 @@
 ||royalbankofca5.wecom.work^
 ||royalbankofca6.wecom.work^
 ||weddingeeos.com^
-||event.stat.wedobest.com.cn^
 ||dns.weibo.cn^
 ||dp.im.weibo.cn^
 ||game.weibo.cn^
@@ -9276,7 +9264,6 @@
 ||myes.youku.com^
 ||orange-dc.youku.com^
 ||pcapp-data-collect.youku.com^
-||pis-tel-pcdn.youku.com^
 ||pl.youku.com^
 ||player-lg.youku.com^
 ||playlog.youku.com^
