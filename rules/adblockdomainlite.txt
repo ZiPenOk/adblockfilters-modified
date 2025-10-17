@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251017003445
-! Last modified: 2025/10/17 00:34:45
-! Blocked domains: 9684
+! Version: 20251017095908
+! Last modified: 2025/10/17 09:59:08
+! Blocked domains: 9681
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -189,7 +189,6 @@ pg-ad-b1.nosdn.127.net
 wanproxy.127.net
 yt-adp.nosdn.127.net
 129.204.103.151
-129.204.254.108
 129.211.174.173
 12i.cn
 133u.com
@@ -574,8 +573,8 @@ stat.api.4399.com
 47.109.90.134
 47.109.93.252
 47.111.146.110
+47.113.186.138
 47.116.208.81
-47.119.34.138
 47.122.30.177
 47.93.28.103
 47.97.118.238
@@ -3061,6 +3060,7 @@ eyouv.cn
 ez33.org.cn
 ez4q2.cn
 analytics.ezbim.net
+qp.ezfxpuo.cn
 ezucods.cn
 g.f11w.com
 c.f1zd.com
@@ -3287,7 +3287,6 @@ dms.fx678.com
 a.fxltsbl.com
 uxaz.fxnfk.cn
 fxtducb.cn
-wap.fxzch.cn
 fy14.cn
 m.fy4zb.cn
 fy60.icu
@@ -6753,7 +6752,6 @@ sc126.com
 wpan.sc2yun.com
 mobile.sccom.cn
 scdcd333.cn
-monex-co-jp.scegq.cn
 scfans.cn
 scfrwo.cn
 schysd.cn
@@ -8289,7 +8287,6 @@ vyye.cn
 vzt.com.cn
 vzvvifw.cn
 w010w.com.cn
-w22e.xyz
 w4pma.cn
 w59g.icu
 m.w720p.cn
