@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251017163555
-! Last modified: 2025/10/17 16:35:55
-! Blocked domains: 9834
+! Version: 20251018003308
+! Last modified: 2025/10/18 00:33:08
+! Blocked domains: 9802
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -82,7 +82,6 @@ huodong.feixin.10086.cn
 101.132.131.225
 101.201.227.94
 101.226.8.163
-101.33.235.96
 101.43.49.183
 1.1010pic.com
 2.1010pic.com
@@ -107,7 +106,6 @@ oss-asq-static.11222.cn
 113.44.76.133
 113.98.201.248
 1133.cc
-114.132.150.96
 114.55.106.136
 114.55.250.233
 114.fm
@@ -120,7 +118,6 @@ appversion.115.com
 117.72.184.172
 117.72.206.39
 117.72.214.21
-117.72.222.203
 118.178.133.241
 118.25.68.152
 118.25.85.198
@@ -144,7 +141,6 @@ bdlm.120askimages.com
 bdwmhz.120askimages.com
 120jj.cn
 120soft.cn
-121.40.127.134
 121.40.18.128
 121.41.167.80
 12291.com
@@ -287,9 +283,6 @@ m.198nc.cn
 st.19mi.net
 1buo.icu
 1dki0.icu
-1eec0e66f0e80266.com
-1efe4a57d7975099.com
-1fae577ba345e18c.com
 1gmzo.icu
 1gtp.icu
 1jok.icu
@@ -355,7 +348,6 @@ m.24ihe.cn
 js.263y.com
 268mob.cn
 26zsd.cn
-27ba5537f507479a.com
 a1.289.com
 2a.com.cn
 2bj.cn
@@ -523,11 +515,9 @@ classic.39health.com
 fbmjc.39yst.com
 jsm.39yst.com
 vip.3a9.net
-3ad12ee81ad419b2.com
 3aym.cn
 imgad0.3conline.com
 jwz.3conline.com
-3d45c52274d34e5b.com
 3d99.com.cn
 3dchat.com.cn
 fc.3dmgame.com
@@ -586,12 +576,10 @@ stat.api.4399.com
 47.97.118.238
 47.98.136.161
 47.98.224.91
-472741a4e2e11746.com
 m.479db.cn
 49.234.48.162
 4cx5.icu
 4d0m.cn
-4fabc37f9505ea63.com
 4h44.com
 jb.4hw.com.cn
 js.4hw.com.cn
@@ -794,9 +782,7 @@ sygame.695157.com
 html.696157.com
 m.69o1c.cn
 69xiu.com
-6b7affbdece4d5cd.com
 6c.cn
-6d7f79b3dec2df44.com
 m.6et8a.cn
 6ft8a.icu
 6gute.icu
@@ -820,7 +806,6 @@ m.6z1gf.cn
 700ok.net
 7066k.com
 711983.com
-71aaaef8b6c3ac37.com
 trail.71baomu.com
 alicoccdncnc-xn.inter.71edge.com
 alicoccdnct-xn.inter.71edge.com
@@ -829,12 +814,10 @@ bdcdncnc.inter.71edge.com
 mfkn.71mxc6.cn
 71zrh.cn
 7299tu75.cc
-72f989e3933a34e5.com
 72qy.cn
 72wan.cn
 73336zubo25326.com
 m.73z9p.cn
-74cbed9c0c828a3a.com
 a.75111.com
 7577.cc
 m.75l3g.cn
@@ -856,7 +839,6 @@ b.77shw.com
 7aey.icu
 7car.com.cn
 7cbwus.cn
-7d66a9dc43713c21.com
 7dah8.com
 7dot.cn
 7f7rt.icu
@@ -923,7 +905,6 @@ api1.888zy.cn
 89kvh.cn
 8ail6.icu
 8ao8ao.com
-8dc3ea5cf9d7dd40.com
 8dvzi.cn
 8ff0.cn
 8gra3.icu
@@ -978,8 +959,6 @@ analytics.95516.com
 96382zubo66756.com
 964ka.cn
 m.967nd.cn
-9692bc70da600f84.com
-96c6d63ce42dfe7f.com
 96rj.icu
 9700hg.com
 97ii.cn
@@ -1027,7 +1006,6 @@ img2.static.9xiu.com
 9xu.com
 9xxy.icu
 a0c77.com
-a1096391186.top
 tgd.a1eg07.cn
 a281507858.top
 a2m.cn
@@ -1036,7 +1014,6 @@ telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
 telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn
 a32a.com.cn
 a395813236.cn
-a39c596c48747066.com
 a3p4.net
 a48505.cn
 a7shun.com
@@ -1146,7 +1123,6 @@ adxvip.com
 track.adxwork.com
 adyun.com
 adzp.cn
-ae293a323b99091b.com
 aegt.com.cn
 af6s.icu
 analytics.afirstsoft.cn
@@ -1799,7 +1775,6 @@ webpage.batianhu.cn
 baycode.cn
 bayescom.com
 bayimob.com
-bb4035948ad007d2.com
 bbbazlp.cn
 du1.bbdj.com
 event.bblmw.com
@@ -1826,7 +1801,6 @@ m.bchchk.cn
 bckrono.cn
 advertise.bczeducation.cn
 events.bczeducation.cn
-bdac7d8ad9ee8362.com
 bdhcpll.cn
 ecma.bdimg.com
 ecmb.bdimg.com
@@ -2043,8 +2017,6 @@ ht.bzmajiang.cn
 s.c-ctrip.com
 china.c-zs.com
 c05ua.icu
-c105cfd06397a835.com
-c37a3a6b65537b09.com
 c4809.top
 c4821.top
 c4d4.cn
@@ -2105,7 +2077,6 @@ tracking.cat898.com
 vip.catcs.cn
 c.caxxetj.cn
 v.caxxetj.cn
-cb1fd3a31fe93412.com
 cbgolf.cn
 cboffice.com.cn
 cbplaw.cn
@@ -2533,7 +2504,6 @@ ggjs.d17.cc
 d5r.icu
 ee.d6s2pn5t.cn
 m.d6s2pn5t.cn
-d7db7d73544d0ab6.com
 d7ytrv7yxa.com
 d99q.cn
 dabaicai.cn
@@ -2921,7 +2891,7 @@ e-cte.cn
 stat-ssl.e-map.ne.jp
 api.e-toys.cn
 e-wei.com.cn
-e101f.xyz
+www.e101f.xyz
 newscname1.e23.cn
 e4l4.com
 e708.net
@@ -3094,7 +3064,6 @@ sccdn.f2zd.com
 f3dt.com
 g.f5gh.com
 m.f846b.cn
-f9655ab9f2121b85.com
 facebookma.cn
 fakjkwp.cn
 z2.fakutownee.cn
@@ -3155,7 +3124,6 @@ stat.fdc.net.cn
 fdhvczd.cn
 app.fdwdqc.cn
 job2.fdwehzitx.cn
-fe12943aa959f2e9.com
 1.feihua.com
 wmeng.feihuadns.com
 wq.feiniaoai.cn
@@ -9185,7 +9153,7 @@ y7ts.icu
 y7wr7.cn
 e.y9062t.cn
 m.y9062t.cn
-y90u.xyz
+www.y90u.xyz
 yac5t.cn
 yahekby.cn
 yahgxog.cn
