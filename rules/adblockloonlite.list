@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/18 00:33:08
-#!support=9802
+#!date=2025/10/18 09:54:00
+#!support=9762
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0010jz.com
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,101.126.11.168
 DOMAIN-SUFFIX,101.132.131.225
 DOMAIN-SUFFIX,101.201.227.94
 DOMAIN-SUFFIX,101.226.8.163
+DOMAIN-SUFFIX,101.33.235.96
 DOMAIN-SUFFIX,101.43.49.183
 DOMAIN-SUFFIX,1.1010pic.com
 DOMAIN-SUFFIX,2.1010pic.com
@@ -110,6 +111,7 @@ DOMAIN-SUFFIX,113.31.111.76
 DOMAIN-SUFFIX,113.44.76.133
 DOMAIN-SUFFIX,113.98.201.248
 DOMAIN-SUFFIX,1133.cc
+DOMAIN-SUFFIX,114.132.150.96
 DOMAIN-SUFFIX,114.55.106.136
 DOMAIN-SUFFIX,114.55.250.233
 DOMAIN-SUFFIX,114.fm
@@ -578,7 +580,6 @@ DOMAIN-SUFFIX,47.116.208.81
 DOMAIN-SUFFIX,47.122.30.177
 DOMAIN-SUFFIX,47.93.28.103
 DOMAIN-SUFFIX,47.97.118.238
-DOMAIN-SUFFIX,47.98.136.161
 DOMAIN-SUFFIX,47.98.224.91
 DOMAIN-SUFFIX,m.479db.cn
 DOMAIN-SUFFIX,49.234.48.162
@@ -860,7 +861,6 @@ DOMAIN-SUFFIX,7ywl.com
 DOMAIN-SUFFIX,8.130.74.111
 DOMAIN-SUFFIX,8.131.63.6
 DOMAIN-SUFFIX,8.134.51.218
-DOMAIN-SUFFIX,8.137.114.210
 DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
@@ -909,7 +909,6 @@ DOMAIN-SUFFIX,8989u.com
 DOMAIN-SUFFIX,89kvh.cn
 DOMAIN-SUFFIX,8ail6.icu
 DOMAIN-SUFFIX,8ao8ao.com
-DOMAIN-SUFFIX,8dvzi.cn
 DOMAIN-SUFFIX,8ff0.cn
 DOMAIN-SUFFIX,8gra3.icu
 DOMAIN-SUFFIX,ee.8h3mc.cn
@@ -1439,7 +1438,6 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-guge-google.com.cn
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,app-whatsappweb-ws.com.cn
 DOMAIN-SUFFIX,tongji.app111.com
 DOMAIN-SUFFIX,app1e.cn
 DOMAIN-SUFFIX,app1eploser.cn
@@ -1558,7 +1556,6 @@ DOMAIN-SUFFIX,6nglkt9.azhhr.cn
 DOMAIN-SUFFIX,o36j7a2.azhhr.cn
 DOMAIN-SUFFIX,collector.azure.cn
 DOMAIN-SUFFIX,dc.applicationinsights.azure.cn
-DOMAIN-SUFFIX,live.applicationinsights.azure.cn
 DOMAIN-SUFFIX,b1.b2b168.com
 DOMAIN-SUFFIX,b1.b2b168.net
 DOMAIN-SUFFIX,b3wg2.cn
@@ -2895,7 +2892,6 @@ DOMAIN-SUFFIX,e-cte.cn
 DOMAIN-SUFFIX,stat-ssl.e-map.ne.jp
 DOMAIN-SUFFIX,api.e-toys.cn
 DOMAIN-SUFFIX,e-wei.com.cn
-DOMAIN-SUFFIX,www.e101f.xyz
 DOMAIN-SUFFIX,newscname1.e23.cn
 DOMAIN-SUFFIX,e4l4.com
 DOMAIN-SUFFIX,e708.net
@@ -2942,7 +2938,6 @@ DOMAIN-SUFFIX,chrisbenoitkane.edgeone.app
 DOMAIN-SUFFIX,earthewndegtheyased.edgeone.app
 DOMAIN-SUFFIX,pointball-llvwkkfsoo.edgeone.app
 DOMAIN-SUFFIX,remindeertsuperiority-updated-groswc82ut.edgeone.app
-DOMAIN-SUFFIX,secure-email-redirection-service-for-enterprise-acces-up.edgeone.app
 DOMAIN-SUFFIX,sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 DOMAIN-SUFFIX,tyrereyyt-6r6jpsvq0z.edgeone.app
 DOMAIN-SUFFIX,uueroruuura-8mr1cub6vv.edgeone.app
@@ -3462,7 +3457,6 @@ DOMAIN-SUFFIX,ad.gmw.cn
 DOMAIN-SUFFIX,channel-analysis-js.gmw.cn
 DOMAIN-SUFFIX,gn52.cn
 DOMAIN-SUFFIX,gndmnrh.cn
-DOMAIN-SUFFIX,go-net-whatsappweb.com.cn
 DOMAIN-SUFFIX,go2yd.com
 DOMAIN-SUFFIX,gocye.com
 DOMAIN-SUFFIX,godloveme.cn
@@ -4513,7 +4507,6 @@ DOMAIN-SUFFIX,wj.jiancai365.cn
 DOMAIN-SUFFIX,ads.jianchiapp.com
 DOMAIN-SUFFIX,acc.jiangsujiaxue.com
 DOMAIN-SUFFIX,ahm.jiankang123.net
-DOMAIN-SUFFIX,jiankangzhan.net
 DOMAIN-SUFFIX,jiankongbao.com
 DOMAIN-SUFFIX,tr.jianshu.com
 DOMAIN-SUFFIX,udiab1.jianshu.com
@@ -5967,7 +5960,6 @@ DOMAIN-SUFFIX,ozhmig.cn
 DOMAIN-SUFFIX,ozogame.com
 DOMAIN-SUFFIX,p04qzl.cn
 DOMAIN-SUFFIX,p0v2ni.cn
-DOMAIN-SUFFIX,p14f.xyz
 DOMAIN-SUFFIX,p188.cn
 DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,p555.cc
@@ -8150,10 +8142,6 @@ DOMAIN-SUFFIX,asia-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,asia-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,asia-vpushonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,asia-vpushort-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,cl-domaincfg.vivoglobal.com
-DOMAIN-SUFFIX,cl-romsp-unifyconfig.vivoglobal.com
-DOMAIN-SUFFIX,cl-st-sl.vivoglobal.com
-DOMAIN-SUFFIX,cl-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,cl-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,cname-ali-asia-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-asia-st-exappupgrade.vivoglobal.com
@@ -8166,7 +8154,6 @@ DOMAIN-SUFFIX,cname-in-ctdbonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-sin01-stsdk09.vivoglobal.com
 DOMAIN-SUFFIX,co-cota.vivoglobal.com
 DOMAIN-SUFFIX,co-domaincfg.vivoglobal.com
-DOMAIN-SUFFIX,co-err-up.vivoglobal.com
 DOMAIN-SUFFIX,co-onrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,co-ort-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,co-pnrt-stsdk.vivoglobal.com
@@ -8177,17 +8164,9 @@ DOMAIN-SUFFIX,co-timesync.vivoglobal.com
 DOMAIN-SUFFIX,co-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,co-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,co-vcode-or.vivoglobal.com
-DOMAIN-SUFFIX,de-err-up.vivoglobal.com
 DOMAIN-SUFFIX,de-gdpr-err-up.vivoglobal.com
-DOMAIN-SUFFIX,de-gdpr-vcode-od.vivoglobal.com
-DOMAIN-SUFFIX,de-onrt-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,de-ort-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,de-prt-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,de-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,err-up.vivoglobal.com
 DOMAIN-SUFFIX,err.up.vivoglobal.com
-DOMAIN-SUFFIX,eu-album-api.vivoglobal.com
-DOMAIN-SUFFIX,eu-cota.vivoglobal.com
 DOMAIN-SUFFIX,eu-domaincfg.vivoglobal.com
 DOMAIN-SUFFIX,eu-errup.vivoglobal.com
 DOMAIN-SUFFIX,eu-onrt-stsdk.vivoglobal.com
@@ -8196,7 +8175,6 @@ DOMAIN-SUFFIX,eu-p.vivoglobal.com
 DOMAIN-SUFFIX,eu-pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,eu-romsp-unifyconfig.vivoglobal.com
 DOMAIN-SUFFIX,eu-st-sl.vivoglobal.com
-DOMAIN-SUFFIX,eu-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,eu-timesync.vivoglobal.com
 DOMAIN-SUFFIX,eu-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,eu-vcode-od.vivoglobal.com
@@ -8229,7 +8207,6 @@ DOMAIN-SUFFIX,in-onrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,in-ort-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,in-os-config-appstore.vivoglobal.com
 DOMAIN-SUFFIX,in-pnrt-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,in-prt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,in-third-appstore.vivoglobal.com
 DOMAIN-SUFFIX,in-timesync.vivoglobal.com
 DOMAIN-SUFFIX,in-vcode-api.vivoglobal.com
@@ -8242,14 +8219,12 @@ DOMAIN-SUFFIX,kz-err-up.vivoglobal.com
 DOMAIN-SUFFIX,kz-monitor-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,kz-onrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,kz-ort-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,kz-p.vivoglobal.com
 DOMAIN-SUFFIX,kz-pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,kz-prt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,kz-romsp-unifyconfig.vivoglobal.com
 DOMAIN-SUFFIX,kz-st-exappupgrade.vivoglobal.com
 DOMAIN-SUFFIX,kz-st-sl.vivoglobal.com
 DOMAIN-SUFFIX,kz-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,kz-timesync.vivoglobal.com
 DOMAIN-SUFFIX,kz-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,kz-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,kz-vcode-or.vivoglobal.com
@@ -8273,14 +8248,11 @@ DOMAIN-SUFFIX,ort-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,prt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ro-up.vivoglobal.com
-DOMAIN-SUFFIX,ru-album-api.vivoglobal.com
-DOMAIN-SUFFIX,ru-analyzer-appstore.vivoglobal.com
 DOMAIN-SUFFIX,ru-commonitor-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-comonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-comort-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-compnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-comprt-stsdk.vivoglobal.com
-DOMAIN-SUFFIX,ru-cota.vivoglobal.com
 DOMAIN-SUFFIX,ru-err-up.vivoglobal.com
 DOMAIN-SUFFIX,ru-exstsdk.vivoglobal.com
 DOMAIN-SUFFIX,ru-monitor-stsdk.vivoglobal.com
@@ -8318,12 +8290,10 @@ DOMAIN-SUFFIX,stsdk.vivoglobal.com
 DOMAIN-SUFFIX,tr-album-api.vivoglobal.com
 DOMAIN-SUFFIX,tr-cota.vivoglobal.com
 DOMAIN-SUFFIX,tr-domaincfg.vivoglobal.com
-DOMAIN-SUFFIX,tr-err-up.vivoglobal.com
 DOMAIN-SUFFIX,tr-gdpr-vgc-datacenter.vivoglobal.com
 DOMAIN-SUFFIX,tr-onrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,tr-ort-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,tr-p.vivoglobal.com
-DOMAIN-SUFFIX,tr-pnrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,tr-romsp-unifyconfig.vivoglobal.com
 DOMAIN-SUFFIX,tr-st-sl.vivoglobal.com
 DOMAIN-SUFFIX,tr-stsdk.vivoglobal.com
@@ -8332,12 +8302,6 @@ DOMAIN-SUFFIX,tr-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,tr-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,tr-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,xn-ex-adreq-asa-c5b.vivoglobal.com
-DOMAIN-SUFFIX,za-p.vivoglobal.com
-DOMAIN-SUFFIX,zasc-cota.vivoglobal.com
-DOMAIN-SUFFIX,zasc-romsp-unifyconfig.vivoglobal.com
-DOMAIN-SUFFIX,zasc-vcode-api.vivoglobal.com
-DOMAIN-SUFFIX,zasc-vcode-od.vivoglobal.com
-DOMAIN-SUFFIX,zasc-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,viyouhui.com
 DOMAIN-SUFFIX,vjie.com
 DOMAIN-SUFFIX,vjp.com.cn
@@ -8448,8 +8412,6 @@ DOMAIN-SUFFIX,mbd.weathercn.com
 DOMAIN-SUFFIX,mbs.weathercn.com
 DOMAIN-SUFFIX,zgzxs.weathercn.com
 DOMAIN-SUFFIX,web-guge-google.com.cn
-DOMAIN-SUFFIX,web-whatsappweb-zh.com.cn
-DOMAIN-SUFFIX,web-zh-whatsappweb.com.cn
 DOMAIN-SUFFIX,web2u.cn
 DOMAIN-SUFFIX,web3cdn.cn
 DOMAIN-SUFFIX,web605.cn
@@ -9157,7 +9119,6 @@ DOMAIN-SUFFIX,y7ts.icu
 DOMAIN-SUFFIX,y7wr7.cn
 DOMAIN-SUFFIX,e.y9062t.cn
 DOMAIN-SUFFIX,m.y9062t.cn
-DOMAIN-SUFFIX,www.y90u.xyz
 DOMAIN-SUFFIX,yac5t.cn
 DOMAIN-SUFFIX,yahekby.cn
 DOMAIN-SUFFIX,yahgxog.cn
@@ -9574,7 +9535,6 @@ DOMAIN-SUFFIX,yin1.zgpingshu.com
 DOMAIN-SUFFIX,zgunion.cn
 DOMAIN-SUFFIX,1234.zgxue.com
 DOMAIN-SUFFIX,td.zgxue.com
-DOMAIN-SUFFIX,zh-app-whatsapp.com.cn
 DOMAIN-SUFFIX,zh-imtoken.cn
 DOMAIN-SUFFIX,zhads.com
 DOMAIN-SUFFIX,tfs.zhamm.cn

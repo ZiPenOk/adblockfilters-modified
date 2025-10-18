@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251018003308
-! Last modified: 2025/10/18 00:33:08
-! Blocked domains: 9802
+! Version: 20251018095400
+! Last modified: 2025/10/18 09:54:00
+! Blocked domains: 9762
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -82,6 +82,7 @@ huodong.feixin.10086.cn
 101.132.131.225
 101.201.227.94
 101.226.8.163
+101.33.235.96
 101.43.49.183
 1.1010pic.com
 2.1010pic.com
@@ -106,6 +107,7 @@ oss-asq-static.11222.cn
 113.44.76.133
 113.98.201.248
 1133.cc
+114.132.150.96
 114.55.106.136
 114.55.250.233
 114.fm
@@ -574,7 +576,6 @@ stat.api.4399.com
 47.122.30.177
 47.93.28.103
 47.97.118.238
-47.98.136.161
 47.98.224.91
 m.479db.cn
 49.234.48.162
@@ -856,7 +857,6 @@ cp.7y7.com
 8.130.74.111
 8.131.63.6
 8.134.51.218
-8.137.114.210
 8.138.182.17
 8.140.239.162
 8.141.15.227
@@ -905,7 +905,6 @@ api1.888zy.cn
 89kvh.cn
 8ail6.icu
 8ao8ao.com
-8dvzi.cn
 8ff0.cn
 8gra3.icu
 ee.8h3mc.cn
@@ -1435,7 +1434,6 @@ app-analytics-services.com
 app-guge-google.com.cn
 app-measurement-cn.com
 app-measurement.com
-app-whatsappweb-ws.com.cn
 tongji.app111.com
 app1e.cn
 app1eploser.cn
@@ -1554,7 +1552,6 @@ az5i.icu
 o36j7a2.azhhr.cn
 collector.azure.cn
 dc.applicationinsights.azure.cn
-live.applicationinsights.azure.cn
 b1.b2b168.com
 b1.b2b168.net
 b3wg2.cn
@@ -2891,7 +2888,6 @@ e-cte.cn
 stat-ssl.e-map.ne.jp
 api.e-toys.cn
 e-wei.com.cn
-www.e101f.xyz
 newscname1.e23.cn
 e4l4.com
 e708.net
@@ -2938,7 +2934,6 @@ chrisbenoitkane.edgeone.app
 earthewndegtheyased.edgeone.app
 pointball-llvwkkfsoo.edgeone.app
 remindeertsuperiority-updated-groswc82ut.edgeone.app
-secure-email-redirection-service-for-enterprise-acces-up.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 tyrereyyt-6r6jpsvq0z.edgeone.app
 uueroruuura-8mr1cub6vv.edgeone.app
@@ -3458,7 +3453,6 @@ ad.gmw.cn
 channel-analysis-js.gmw.cn
 gn52.cn
 gndmnrh.cn
-go-net-whatsappweb.com.cn
 go2yd.com
 gocye.com
 godloveme.cn
@@ -4509,7 +4503,6 @@ wj.jiancai365.cn
 ads.jianchiapp.com
 acc.jiangsujiaxue.com
 ahm.jiankang123.net
-jiankangzhan.net
 jiankongbao.com
 tr.jianshu.com
 udiab1.jianshu.com
@@ -5963,7 +5956,6 @@ ozhmig.cn
 ozogame.com
 p04qzl.cn
 p0v2ni.cn
-p14f.xyz
 p188.cn
 p2cdn.com
 p555.cc
@@ -8146,10 +8138,6 @@ asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpushort-stsdk.vivoglobal.com
-cl-domaincfg.vivoglobal.com
-cl-romsp-unifyconfig.vivoglobal.com
-cl-st-sl.vivoglobal.com
-cl-vcode-api.vivoglobal.com
 cl-vcode-od.vivoglobal.com
 cname-ali-asia-stsdk.vivoglobal.com
 cname-asia-st-exappupgrade.vivoglobal.com
@@ -8162,7 +8150,6 @@ cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
-co-err-up.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
@@ -8173,17 +8160,9 @@ co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 co-vcode-or.vivoglobal.com
-de-err-up.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
-de-gdpr-vcode-od.vivoglobal.com
-de-onrt-stsdk.vivoglobal.com
-de-ort-stsdk.vivoglobal.com
-de-prt-stsdk.vivoglobal.com
-de-vcode-od.vivoglobal.com
 err-up.vivoglobal.com
 err.up.vivoglobal.com
-eu-album-api.vivoglobal.com
-eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
@@ -8192,7 +8171,6 @@ eu-p.vivoglobal.com
 eu-pnrt-stsdk.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
 eu-st-sl.vivoglobal.com
-eu-stsdk.vivoglobal.com
 eu-timesync.vivoglobal.com
 eu-vcode-api.vivoglobal.com
 eu-vcode-od.vivoglobal.com
@@ -8225,7 +8203,6 @@ in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
 in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
-in-prt-stsdk.vivoglobal.com
 in-third-appstore.vivoglobal.com
 in-timesync.vivoglobal.com
 in-vcode-api.vivoglobal.com
@@ -8238,14 +8215,12 @@ kz-err-up.vivoglobal.com
 kz-monitor-stsdk.vivoglobal.com
 kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
-kz-p.vivoglobal.com
 kz-pnrt-stsdk.vivoglobal.com
 kz-prt-stsdk.vivoglobal.com
 kz-romsp-unifyconfig.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-stsdk.vivoglobal.com
-kz-timesync.vivoglobal.com
 kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
@@ -8269,14 +8244,11 @@ ort-stsdk.vivoglobal.com
 pnrt-stsdk.vivoglobal.com
 prt-stsdk.vivoglobal.com
 ro-up.vivoglobal.com
-ru-album-api.vivoglobal.com
-ru-analyzer-appstore.vivoglobal.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
 ru-comort-stsdk.vivoglobal.com
 ru-compnrt-stsdk.vivoglobal.com
 ru-comprt-stsdk.vivoglobal.com
-ru-cota.vivoglobal.com
 ru-err-up.vivoglobal.com
 ru-exstsdk.vivoglobal.com
 ru-monitor-stsdk.vivoglobal.com
@@ -8314,12 +8286,10 @@ stsdk.vivoglobal.com
 tr-album-api.vivoglobal.com
 tr-cota.vivoglobal.com
 tr-domaincfg.vivoglobal.com
-tr-err-up.vivoglobal.com
 tr-gdpr-vgc-datacenter.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com
 tr-p.vivoglobal.com
-tr-pnrt-stsdk.vivoglobal.com
 tr-romsp-unifyconfig.vivoglobal.com
 tr-st-sl.vivoglobal.com
 tr-stsdk.vivoglobal.com
@@ -8328,12 +8298,6 @@ tr-vcode-api.vivoglobal.com
 tr-vcode-od.vivoglobal.com
 tr-vcode-or.vivoglobal.com
 xn-ex-adreq-asa-c5b.vivoglobal.com
-za-p.vivoglobal.com
-zasc-cota.vivoglobal.com
-zasc-romsp-unifyconfig.vivoglobal.com
-zasc-vcode-api.vivoglobal.com
-zasc-vcode-od.vivoglobal.com
-zasc-vcode-or.vivoglobal.com
 viyouhui.com
 vjie.com
 vjp.com.cn
@@ -8444,8 +8408,6 @@ mbd.weathercn.com
 mbs.weathercn.com
 zgzxs.weathercn.com
 web-guge-google.com.cn
-web-whatsappweb-zh.com.cn
-web-zh-whatsappweb.com.cn
 web2u.cn
 web3cdn.cn
 web605.cn
@@ -9153,7 +9115,6 @@ y7ts.icu
 y7wr7.cn
 e.y9062t.cn
 m.y9062t.cn
-www.y90u.xyz
 yac5t.cn
 yahekby.cn
 yahgxog.cn
@@ -9570,7 +9531,6 @@ yin1.zgpingshu.com
 zgunion.cn
 1234.zgxue.com
 td.zgxue.com
-zh-app-whatsapp.com.cn
 zh-imtoken.cn
 zhads.com
 tfs.zhamm.cn
