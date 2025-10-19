@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/19 22:01:59
-#!support=9743
+#!date=2025/10/20 00:13:23
+#!support=9740
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0010jz.com
@@ -1012,11 +1012,9 @@ DOMAIN-SUFFIX,9xu.com
 DOMAIN-SUFFIX,9xxy.icu
 DOMAIN-SUFFIX,a0c77.com
 DOMAIN-SUFFIX,tgd.a1eg07.cn
-DOMAIN-SUFFIX,a281507858.top
 DOMAIN-SUFFIX,a2m.cn
 DOMAIN-SUFFIX,a2wx.icu
 DOMAIN-SUFFIX,telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
-DOMAIN-SUFFIX,telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn
 DOMAIN-SUFFIX,a32a.com.cn
 DOMAIN-SUFFIX,a395813236.cn
 DOMAIN-SUFFIX,a3p4.net
@@ -5105,7 +5103,6 @@ DOMAIN-SUFFIX,lichunxiao.cn
 DOMAIN-SUFFIX,cr.m.liebao.cn
 DOMAIN-SUFFIX,j.wan.liebao.cn
 DOMAIN-SUFFIX,liebaovip.com
-DOMAIN-SUFFIX,log.liepin.com
 DOMAIN-SUFFIX,lieying.cn
 DOMAIN-SUFFIX,ligfdjnfd.cn
 DOMAIN-SUFFIX,lihongli5.cn
