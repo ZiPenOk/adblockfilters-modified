@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20251019163041
-# Last modified: 2025/10/19 16:30:41
-# Blocked domains: 9746
+# Version: 20251019220159
+# Last modified: 2025/10/19 22:01:59
+# Blocked domains: 9743
 #
 local=/0010jz.com/
 local=/395131115419474531.002.sh.cn/
@@ -102,7 +102,6 @@ local=/1.11130.com.cn/
 local=/112.18.10.80/
 local=/oss-asq-static.11222.cn/
 local=/113.31.111.76/
-local=/113.44.76.133/
 local=/113.98.201.248/
 local=/1133.cc/
 local=/114.132.150.96/
@@ -121,10 +120,8 @@ local=/117.72.183.111/
 local=/117.72.184.172/
 local=/117.72.206.39/
 local=/117.72.214.21/
-local=/117.72.222.203/
 local=/118.178.133.241/
 local=/118.25.68.152/
-local=/118.25.85.198/
 local=/118678.com/
 local=/1188.com/
 local=/11888vip.cn/
