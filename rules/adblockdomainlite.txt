@@ -3,13 +3,12 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251019003013
-! Last modified: 2025/10/19 00:30:13
-! Blocked domains: 9599
+! Version: 20251019101222
+! Last modified: 2025/10/19 10:12:22
+! Blocked domains: 9588
 !
 0010jz.com
 395131115419474531.002.sh.cn
-open-monex.002ss.cn
 00xvppy.cn
 011211.cn
 013572.cn
@@ -107,6 +106,7 @@ oss-asq-static.11222.cn
 113.44.76.133
 113.98.201.248
 1133.cc
+114.132.150.96
 114.55.106.136
 114.55.250.233
 114.fm
@@ -551,7 +551,6 @@ m.408uo.cn
 426g.com
 43.138.139.240
 43.138.28.205
-43.139.146.100
 43.226.39.44
 43366.cn
 stat.api.4399.com
@@ -1426,7 +1425,6 @@ app-analytics-services.com
 app-guge-google.com.cn
 app-measurement-cn.com
 app-measurement.com
-app-whatsapp-cn.com.cn
 tongji.app111.com
 app1e.cn
 app1eploser.cn
@@ -1992,7 +1990,6 @@ p6-ad-sign.byteimg.com
 p9-ad-sign.byteimg.com
 byterobotics.cn
 bzcjy.cn
-api.bzmajiang.cn
 ht.bzmajiang.cn
 s.c-ctrip.com
 china.c-zs.com
@@ -2294,7 +2291,6 @@ ggc.cmvideo.cn
 ggv.cmvideo.cn
 ggx.cmvideo.cn
 push.cmvideo.cn
-cn-whatsapp.cn
 cn2f.cn
 cnaa123.com
 cnbaileybridge.net
@@ -2918,9 +2914,7 @@ eddong.com
 accgovgetwayuk-70ldffym6a.edgeone.app
 chrisbenoitkane.edgeone.app
 earthewndegtheyased.edgeone.app
-hbnjjyuu-74ctufk71e.edgeone.app
 pointball-llvwkkfsoo.edgeone.app
-remindeertsuperiority-updated-groswc82ut.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 tyrereyyt-6r6jpsvq0z.edgeone.app
 uueroruuura-8mr1cub6vv.edgeone.app
@@ -3088,7 +3082,6 @@ fbqrt.cn
 fca6f.icu
 aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
 demo-ztxhfeoqql.cn-hangzhou.fcapp.run
-helloworld-aogxlrocvl.cn-hangzhou.fcapp.run
 image-oieeodlcsb.cn-hangzhou.fcapp.run
 yhs-gthjhxltud.cn-zhangjiakou.fcapp.run
 dsp.fcbox.com
@@ -4038,7 +4031,6 @@ huzhanbin.cn
 m.hvjxf.cn
 hvru.cn
 hvuqkb.cn
-hwjsv.cn
 hx018.com
 hxgccl.cn
 hxgirl.cn
@@ -4379,7 +4371,6 @@ xladapi.izuiyou.com
 xlstat.izuiyou.com
 ee.j06kc.cn
 m.j06kc.cn
-www.j206e.xyz
 ee.j5s9b.cn
 m.j5s9b.cn
 j6242.cn
@@ -6112,7 +6103,6 @@ qbdgame.com
 dn-growing.qbox.me
 uplog.qbox.me
 log.qcast.cn
-open-monex.qccmkf.cn
 qchannel04.cn
 qcjslm.com
 bugly.qcloud.com
@@ -6655,7 +6645,6 @@ rvbztg.cn
 rvyjbwr.cn
 rvzlobj.cn
 rwpt.top
-rwsignal.com
 c.rxconkz.cn
 v.rxconkz.cn
 rxfygd.cn
