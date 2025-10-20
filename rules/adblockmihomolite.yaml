@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20251020001323
-  # Last modified: 2025/10/20 00:13:23
-  # Blocked domains: 9740
+  # Version: 20251020085734
+  # Last modified: 2025/10/20 08:57:34
+  # Blocked domains: 9736
   #
   - '+.0010jz.com'
   - '+.395131115419474531.002.sh.cn'
@@ -105,7 +105,6 @@ payload:
   - '+.113.31.111.76'
   - '+.113.98.201.248'
   - '+.1133.cc'
-  - '+.114.132.150.96'
   - '+.114.55.106.136'
   - '+.114.55.250.233'
   - '+.114.fm'
@@ -121,8 +120,10 @@ payload:
   - '+.117.72.184.172'
   - '+.117.72.206.39'
   - '+.117.72.214.21'
+  - '+.117.72.222.203'
   - '+.118.178.133.241'
   - '+.118.25.68.152'
+  - '+.118.25.85.198'
   - '+.118678.com'
   - '+.1188.com'
   - '+.11888vip.cn'
@@ -144,7 +145,6 @@ payload:
   - '+.120jj.cn'
   - '+.120soft.cn'
   - '+.121.40.18.128'
-  - '+.121.41.167.80'
   - '+.12291.com'
   - '+.js1.122cha.com'
   - '+.123.57.166.174'
@@ -570,7 +570,6 @@ payload:
   - '+.47.109.93.252'
   - '+.47.111.146.110'
   - '+.47.113.186.138'
-  - '+.47.116.208.81'
   - '+.47.119.34.138'
   - '+.47.122.30.177'
   - '+.47.93.28.103'
@@ -865,7 +864,6 @@ payload:
   - '+.80vn.cn'
   - '+.81.70.255.195'
   - '+.81.70.85.113'
-  - '+.81.71.159.99'
   - '+.m1.81312.com'
   - '+.815ss.cn'
   - '+.8181zx.com'
@@ -2025,7 +2023,6 @@ payload:
   - '+.byterobotics.cn'
   - '+.byyz.cn'
   - '+.bzcjy.cn'
-  - '+.ht.bzmajiang.cn'
   - '+.s.c-ctrip.com'
   - '+.c-live.cn'
   - '+.china.c-zs.com'
@@ -8447,7 +8444,6 @@ payload:
   - '+.m.wgewj.cn'
   - '+.wghjq.cn'
   - '+.wgnpq.com'
-  - '+.wgpjz.cn'
   - '+.whalecloud.com'
   - '+.whbmy.com'
   - '+.xyws.whecloud.com'
