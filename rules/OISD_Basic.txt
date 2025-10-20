@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202510200522
+! Version: 202510200721
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 47262
-! Last modified: 2025-10-20T05:22:07+0000
+! Entries: 47235
+! Last modified: 2025-10-20T07:21:16+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -4687,7 +4687,6 @@
 ||agamagcargoan.com^
 ||agamasniggly.rest^
 ||agaomastaran.com^
-||agaskrelpr.com^
 ||agatarainpro.com^
 ||agathisdented.com^
 ||agatorkoaltor.com^
@@ -5051,7 +5050,6 @@
 ||algo.creepingbrings.com^
 ||algodon.net^
 ||algothitaon.com^
-||alhmorpbqtajj.com^
 ||alhnnacqvtgyxd.com^
 ||alhypnoom.com^
 ||ali-ad.a.yximgs.com^
@@ -8152,7 +8150,6 @@
 ||beltingfederal.shop^
 ||beludicolor.com^
 ||belwrite.com^
-||bemachopor.com^
 ||bemanectricr.com^
 ||bemiltankor.com^
 ||bemiredflain.cfd^
@@ -8270,7 +8267,6 @@
 ||bethabet.com^
 ||betimbur.com^
 ||betissantos.com^
-||betjoltiktor.com^
 ||betkr.cc^
 ||betmasquerainchan.com^
 ||betotodilea.com^
@@ -14767,7 +14763,6 @@
 ||dfjlgfb4lxka5.cloudfront.net^
 ||dflow.log.hunantv.com^
 ||dfmpe7igjx4jo.cloudfront.net^
-||dfommwypqqrdw.online^
 ||dfqbktlcmmcca.space^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfrgxsiydjbfj.space^
@@ -15488,7 +15483,6 @@
 ||douzvrswnkxzv.icu^
 ||dove.hoku.nz^
 ||dovecyton.com^
-||dovictinian.com^
 ||dowerlesssightseehow.com^
 ||dowerycleared.com^
 ||download-stats.mozilla.org^
@@ -16171,7 +16165,6 @@
 ||eardepth-prisists.com^
 ||earflaproof.world^
 ||earlapssmalm.com^
-||earlierindians.com^
 ||earlstouts.click^
 ||early-finding.com^
 ||earmuffpostnasalrisotto.com^
@@ -16502,7 +16495,6 @@
 ||ehasnoconversat.org^
 ||ehczaa.icu^
 ||ehfeuvyalaxlm.online^
-||ehhvkgdfviw.com^
 ||ehlfnpduxldcy.online^
 ||ehlrxixabvzbo.tech^
 ||ehmhqcn.cn^
@@ -19354,7 +19346,6 @@
 ||gcydzxkkrkpfb.space^
 ||gczhqusagsfps.space^
 ||gdajuytgupptx.world^
-||gdbwnirqfyhwk.website^
 ||gdecordingholo.info^
 ||gdeigri.com^
 ||gdfkbvbifnncj.online^
@@ -23307,7 +23298,6 @@
 ||jfiavkaxdm.com^
 ||jfjle4g5l.com^
 ||jflfgirfvthuj.website^
-||jfqqhxkvihmxlmu.com^
 ||jfrrnf.icu^
 ||jfverzoeowotc.store^
 ||jfwcflhysjjiq.space^
@@ -26967,7 +26957,6 @@
 ||mengaoz.xyz^
 ||mengochepsaun.net^
 ||mengozia.xyz^
-||menhirsmank.rest^
 ||meninxmorrows.world^
 ||mentallyissue.com^
 ||menthandurgen.com^
@@ -30215,7 +30204,6 @@
 ||otvjsfmh.tech^
 ||otvocpbissus.com^
 ||otwlfwmuubeue.space^
-||otypvxhqrqilrb.com^
 ||otzo.com^
 ||oubqwkmhrcpat.fun^
 ||ouccoc.icu^
@@ -31177,7 +31165,6 @@
 ||phlegmywhosis.click^
 ||phluant.com^
 ||phmdwcoqokplm.store^
-||phoalteexeest.com^
 ||phoangaisool.com^
 ||phoawhoax.com^
 ||phockukoagu.net^
@@ -32915,7 +32902,6 @@
 ||pwsviu.com^
 ||pwtaaoncavyvy.rocks^
 ||pwtcsinrsozat.space^
-||pwtmsmjuyve.com^
 ||pwukbeudquylh.site^
 ||pwuzvbhf.com^
 ||pwwopmrisjfnu.store^
@@ -33482,7 +33468,6 @@
 ||qyalpbwjsmvgz.online^
 ||qyczmtalenlnc.store^
 ||qygpcxfqqvfhr.online^
-||qylyknxkeep.com^
 ||qymkbmjssadw.top^
 ||qyromjlyvzwoj.top^
 ||qyusgj.xyz^
@@ -33751,7 +33736,6 @@
 ||rbthre.work^
 ||rbvgaetqsk.love^
 ||rbycczculjquv.site^
-||rbydwsnwitn.com^
 ||rbzqarqzoveqy.top^
 ||rbzqarqzovvov.top^
 ||rbzupn.icu^
@@ -34782,7 +34766,6 @@
 ||rottenworker.com^
 ||rottlebarytic.qpon^
 ||rotumal.com^
-||roubergmiteom.com^
 ||roucoutaivers.com^
 ||roudoduor.com^
 ||rougefictionnoose.com^
@@ -37369,7 +37352,6 @@
 ||softpopads.com^
 ||softresumesuperserver.com^
 ||sogeramides.qpon^
-||soghdcywujoxe.store^
 ||sogropidy.com^
 ||soholfit.com^
 ||soilenthusiasmshindig.com^
@@ -39123,7 +39105,6 @@
 ||survey.interquest.com^
 ||surveyonline.top^
 ||surveys.hotjar.com^
-||suspectedadvisor.com^
 ||suspectlensemphasis.com^
 ||suspendsymptom.com^
 ||suspicionshutnutshell.com^
@@ -40820,7 +40801,6 @@
 ||tqnogxuqgwlmj.space^
 ||tqoneyyivw.club^
 ||tqpuvxhsrcoon.store^
-||tqtfcsckecekkt.com^
 ||tqtlyzaztpngj.site^
 ||tr-boost.com^
 ||tr-bouncer.com^
@@ -42668,7 +42648,6 @@
 ||uppersrepage.help^
 ||upraiseangule.shop^
 ||upreinmurmi.shop^
-||uprightessay.pro^
 ||uprightfondly.com^
 ||uprightwinner.pro^
 ||uprimp.com^
@@ -43321,7 +43300,6 @@
 ||vianderfopship.cfd^
 ||vianoivernom.com^
 ||viapawniarda.com^
-||viavullabya.com^
 ||vibeaconstr.onezapp.com^
 ||vibrantmedia.com^
 ||vibrantpin.pro^
@@ -44057,7 +44035,6 @@
 ||waudeesestew.com^
 ||waufooke.com^
 ||wauhaugoosity.com^
-||waulsquab.com^
 ||waust.at^
 ||wave.outbrain.com^
 ||wavedgrill.com^
@@ -44812,7 +44789,6 @@
 ||wneia.iaskhot.com^
 ||wngegvxrgpsvm.site^
 ||wnifhkhtpemse.space^
-||wniqvgtjbfcouq.com^
 ||wnlabbsupkwuu.space^
 ||wnnatyfziksqt.website^
 ||wnojded.icu^
@@ -46329,7 +46305,6 @@
 ||ydvvzptycptlr.space^
 ||ye.dun.163yun.com^
 ||yeah1publishing.com^
-||yealnk.com^
 ||yearly-weakness.com^
 ||yeastexisting.com^
 ||yeastfeukufund.org^
@@ -46564,7 +46539,6 @@
 ||youngfun.pro^
 ||youngstermansionphrase.com^
 ||youngstreet.pro^
-||youpeacockambitious.com^
 ||your-local-dream.com^
 ||your-notice.com^
 ||youradexchange.com^
@@ -47151,7 +47125,6 @@
 ||zsy10161yok.com^
 ||zsy10170yok.com^
 ||zsy10171yok.com^
-||zsy10190yok.com^
 ||zsy10191yok.com^
 ||zszhfffyd.ru^
 ||zt.me.zing.vn^
