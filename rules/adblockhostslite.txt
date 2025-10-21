@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251021161757
-# Last modified: 2025/10/21 16:17:57
-# Blocked domains: 9975
+# Version: 20251022001633
+# Last modified: 2025/10/22 00:16:33
+# Blocked domains: 9952
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -96,7 +96,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.201.227.94
 0.0.0.0	101.226.8.163
 0.0.0.0	101.33.235.96
-0.0.0.0	101.35.95.220
 0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
@@ -123,7 +122,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	113.31.111.76
 0.0.0.0	113.98.201.248
 0.0.0.0	1133.cc
-0.0.0.0	114.132.150.96
 0.0.0.0	114.55.106.136
 0.0.0.0	114.55.250.233
 0.0.0.0	114.fm
@@ -139,7 +137,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.214.21
-0.0.0.0	117.72.222.203
 0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
 0.0.0.0	118.25.85.198
@@ -292,7 +289,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	img1.18183.com
 0.0.0.0	zpe.klre.18183.com
 0.0.0.0	182.113.2.231
-0.0.0.0	182.113.5.172
 0.0.0.0	182.92.99.95
 0.0.0.0	photo.188kc.cn
 0.0.0.0	webwebfenxi.189.cn
@@ -342,7 +338,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wm.20150.net
 0.0.0.0	201ttkj.cn
 0.0.0.0	202.104.139.177
-0.0.0.0	202.189.4.56
 0.0.0.0	202.189.5.5
 0.0.0.0	20230329.com
 0.0.0.0	202m.com
@@ -574,7 +569,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.408uo.cn
 0.0.0.0	41grk.icu
 0.0.0.0	42.192.49.72
-0.0.0.0	42.230.55.123
 0.0.0.0	426g.com
 0.0.0.0	43.138.28.205
 0.0.0.0	43.139.146.100
@@ -597,7 +591,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.93.252
 0.0.0.0	47.111.146.110
 0.0.0.0	47.113.186.138
-0.0.0.0	47.116.208.81
 0.0.0.0	47.119.34.138
 0.0.0.0	47.122.30.177
 0.0.0.0	47.93.28.103
@@ -883,10 +876,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	7x24s.com
 0.0.0.0	cp.7y7.com
 0.0.0.0	7ywl.com
-0.0.0.0	8.130.74.111
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.51.218
-0.0.0.0	8.134.74.227
 0.0.0.0	8.138.182.17
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
@@ -1161,7 +1152,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	app.aflink.com
 0.0.0.0	afterdg.cn
 0.0.0.0	agentsx.cn
-0.0.0.0	ad.aginomoto.com
 0.0.0.0	data-reporting.agora.io
 0.0.0.0	logservice.agora.io
 0.0.0.0	logservice-north-america.agora.io
@@ -2269,7 +2259,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cholo215.cn
 0.0.0.0	cholor201115.cn
 0.0.0.0	chongnet.cn
-0.0.0.0	chrome-google-gu.com.cn
 0.0.0.0	chshcms.net
 0.0.0.0	config.chsmarttv.com
 0.0.0.0	data.chsmarttv.com
@@ -2668,7 +2657,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	events-dre.op.dbankcloud.com
 0.0.0.0	grs.dbankcloud.com
 0.0.0.0	grs-iot.platform.dbankcloud.com
-0.0.0.0	grs-pub.platform.dbankcloud.com
 0.0.0.0	hisearch-dra.dt.dbankcloud.com
 0.0.0.0	hisearch-drcn.dt.dbankcloud.com
 0.0.0.0	hisearch-dre.dt.dbankcloud.com
@@ -2998,6 +2986,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdstatic.eastmoney.com
 0.0.0.0	bduserlog.eastmoney.com
 0.0.0.0	bdwblog.eastmoney.com
+0.0.0.0	cmsjs.eastmoney.com
 0.0.0.0	cp.eastmoney.com
 0.0.0.0	cp2.eastmoney.com
 0.0.0.0	emdcadvertise.eastmoney.com
@@ -3218,7 +3207,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-fp-retry-sa.fengkongcloud.com
 0.0.0.0	cloudconf.fengkongcloud.com
 0.0.0.0	fp-it.fengkongcloud.com
-0.0.0.0	fp-it-acc.fengkongcloud.com
 0.0.0.0	fp-it-tracker.fengkongcloud.com
 0.0.0.0	fp-na-it-acc.fengkongcloud.com
 0.0.0.0	fp-sa-it.fengkongcloud.com
@@ -3694,7 +3682,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bla.gtimg.com
 0.0.0.0	ca.gtimg.com
 0.0.0.0	lb.gtimg.com
-0.0.0.0	ltsgdty.gtimg.com
 0.0.0.0	ra.gtimg.com
 0.0.0.0	splashqqlive.gtimg.com
 0.0.0.0	swa.gtimg.com
@@ -4007,7 +3994,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-4know-em.hismarttv.com
 0.0.0.0	api-4know-eu.hismarttv.com
 0.0.0.0	api-cloudfalcon.hismarttv.com
-0.0.0.0	api-dynhost.hismarttv.com
 0.0.0.0	api-gps.hismarttv.com
 0.0.0.0	api-gps-em.hismarttv.com
 0.0.0.0	api-gps-eu.hismarttv.com
@@ -4017,7 +4003,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-launcher-eu.hismarttv.com
 0.0.0.0	api-launcher-na.hismarttv.com
 0.0.0.0	api-launcher-sa.hismarttv.com
-0.0.0.0	api-vidaaasst.hismarttv.com
 0.0.0.0	api.eu.hismarttv.com
 0.0.0.0	auth-em.hismarttv.com
 0.0.0.0	auth-eu.hismarttv.com
@@ -4090,7 +4075,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	abtest-api-data-sg.hoyoverse.com
 0.0.0.0	ad-log-upload-os.hoyoverse.com
 0.0.0.0	apm-log-upload-os.hoyoverse.com
-0.0.0.0	bh3-sdk-os-static.hoyoverse.com
 0.0.0.0	devlog-upload-os.hoyoverse.com
 0.0.0.0	hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0	log-upload-os.hoyoverse.com
@@ -6009,7 +5993,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	anews7.nvwu.com
 0.0.0.0	q35.nwnrd.cn
 0.0.0.0	bd1.nxing.cn
-0.0.0.0	zb.nxing.cn
 0.0.0.0	target.nxp.com.cn
 0.0.0.0	m.nydjsm.cn
 0.0.0.0	nzgpd.cn
@@ -7909,7 +7892,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	livetech.shopee.co.th.tlivecdn.com
 0.0.0.0	tmuseum.com.cn
 0.0.0.0	tnfno.icu
-0.0.0.0	site-p2p-ads.tngdigital.com.my
 0.0.0.0	pxx.tnklrs.cn
 0.0.0.0	to8to.com
 0.0.0.0	hbv.tobeacon.cn
@@ -7974,7 +7956,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tradplus.cn
 0.0.0.0	tradplus.com
 0.0.0.0	tradplusad.com
-0.0.0.0	telemetry.trae.com.cn
 0.0.0.0	trafficjam.cn
 0.0.0.0	transplantation.org.cn
 0.0.0.0	analysis.tratao.com
@@ -8572,7 +8553,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wangzhan5.com
 0.0.0.0	analytics.wanmei.com
 0.0.0.0	analytics-gw.games.wanmei.com
-0.0.0.0	dlog.wanmei.com
 0.0.0.0	h5.wannaplay.cn
 0.0.0.0	m.wantemachine.com.cn
 0.0.0.0	k1.wanwenwan.cn
@@ -8640,8 +8620,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	royalbankofca5.wecom.work
 0.0.0.0	royalbankofca6.wecom.work
 0.0.0.0	weddingeeos.com
-0.0.0.0	dads.wedobest.com.cn
-0.0.0.0	event.wedobest.com.cn
 0.0.0.0	event.stat.wedobest.com.cn
 0.0.0.0	dns.weibo.cn
 0.0.0.0	dp.im.weibo.cn
@@ -9600,7 +9578,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yrszy.com.cn
 0.0.0.0	ys630.com
 0.0.0.0	ys6ot.cn
-0.0.0.0	ad-material.ys7.com
 0.0.0.0	log.ys7.com
 0.0.0.0	ysdqww.com
 0.0.0.0	ysgsq.cn
