@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/10/21 00:15:36
-#!support=9856
+#!date=2025/10/21 08:54:43
+#!support=9848
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0010jz.com
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,117.72.183.111
 DOMAIN-SUFFIX,117.72.184.172
 DOMAIN-SUFFIX,117.72.206.39
 DOMAIN-SUFFIX,117.72.214.21
+DOMAIN-SUFFIX,117.72.222.203
 DOMAIN-SUFFIX,118.178.133.241
 DOMAIN-SUFFIX,118.25.68.152
 DOMAIN-SUFFIX,118.25.85.198
@@ -430,7 +431,6 @@ DOMAIN-SUFFIX,wan.360.cn
 DOMAIN-SUFFIX,wot.360.cn
 DOMAIN-SUFFIX,wows.360.cn
 DOMAIN-SUFFIX,yasuo.360.cn
-DOMAIN-SUFFIX,ykapi.luyou.360.cn
 DOMAIN-SUFFIX,yule.360.com
 DOMAIN-SUFFIX,360ads.com
 DOMAIN-SUFFIX,cps.360buy.com
@@ -855,7 +855,6 @@ DOMAIN-SUFFIX,8.130.74.111
 DOMAIN-SUFFIX,8.131.63.6
 DOMAIN-SUFFIX,8.134.51.218
 DOMAIN-SUFFIX,8.134.74.227
-DOMAIN-SUFFIX,8.137.114.210
 DOMAIN-SUFFIX,8.138.182.17
 DOMAIN-SUFFIX,8.140.239.162
 DOMAIN-SUFFIX,8.141.15.227
@@ -1434,12 +1433,9 @@ DOMAIN-SUFFIX,adx.apicgate.com
 DOMAIN-SUFFIX,us-behavior.apitd.net
 DOMAIN-SUFFIX,aplhz.com
 DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,app-ap-whatsappweb.com.cn
 DOMAIN-SUFFIX,app-guge-google.com.cn
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,app-webwhatsapp.com.cn
-DOMAIN-SUFFIX,app-whats-whatsappweb.com.cn
 DOMAIN-SUFFIX,tongji.app111.com
 DOMAIN-SUFFIX,app1e.cn
 DOMAIN-SUFFIX,app1eploser.cn
@@ -4442,7 +4438,6 @@ DOMAIN-SUFFIX,iqyewu.cn
 DOMAIN-SUFFIX,trk.irco.com.cn
 DOMAIN-SUFFIX,am.g.ireader.com
 DOMAIN-SUFFIX,i.g.ireader.com
-DOMAIN-SUFFIX,bringture.irioygg.cn
 DOMAIN-SUFFIX,irs03.com
 DOMAIN-SUFFIX,iscrv.com
 DOMAIN-SUFFIX,isf-yingyangshi.cn
@@ -5667,7 +5662,6 @@ DOMAIN-SUFFIX,tianji.moonrailgun.com
 DOMAIN-SUFFIX,moonwish.com.cn
 DOMAIN-SUFFIX,cdnjs.mopair-erm.net
 DOMAIN-SUFFIX,moquanad.com
-DOMAIN-SUFFIX,open-monex.morkr.cn
 DOMAIN-SUFFIX,motsjnv.cn
 DOMAIN-SUFFIX,motuopj.cn
 DOMAIN-SUFFIX,elq.mouser.cn
@@ -8560,8 +8554,6 @@ DOMAIN-SUFFIX,wgnpq.com
 DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,whats-app-whatsappweb.com.cn
 DOMAIN-SUFFIX,whatsapp-bd.com
-DOMAIN-SUFFIX,whatscoapp.com.cn
-DOMAIN-SUFFIX,web.whatssaapp.com.cn
 DOMAIN-SUFFIX,whbmy.com
 DOMAIN-SUFFIX,spoaven.top.whecloud.com
 DOMAIN-SUFFIX,xyws.whecloud.com

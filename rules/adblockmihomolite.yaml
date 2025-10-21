@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20251021001536
-  # Last modified: 2025/10/21 00:15:36
-  # Blocked domains: 9856
+  # Version: 20251021085443
+  # Last modified: 2025/10/21 08:54:43
+  # Blocked domains: 9848
   #
   - '+.0010jz.com'
   - '+.395131115419474531.002.sh.cn'
@@ -112,6 +112,7 @@ payload:
   - '+.117.72.184.172'
   - '+.117.72.206.39'
   - '+.117.72.214.21'
+  - '+.117.72.222.203'
   - '+.118.178.133.241'
   - '+.118.25.68.152'
   - '+.118.25.85.198'
@@ -427,7 +428,6 @@ payload:
   - '+.wot.360.cn'
   - '+.wows.360.cn'
   - '+.yasuo.360.cn'
-  - '+.ykapi.luyou.360.cn'
   - '+.yule.360.com'
   - '+.360ads.com'
   - '+.cps.360buy.com'
@@ -852,7 +852,6 @@ payload:
   - '+.8.131.63.6'
   - '+.8.134.51.218'
   - '+.8.134.74.227'
-  - '+.8.137.114.210'
   - '+.8.138.182.17'
   - '+.8.140.239.162'
   - '+.8.141.15.227'
@@ -1431,12 +1430,9 @@ payload:
   - '+.us-behavior.apitd.net'
   - '+.aplhz.com'
   - '+.app-analytics-services.com'
-  - '+.app-ap-whatsappweb.com.cn'
   - '+.app-guge-google.com.cn'
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
-  - '+.app-webwhatsapp.com.cn'
-  - '+.app-whats-whatsappweb.com.cn'
   - '+.tongji.app111.com'
   - '+.app1e.cn'
   - '+.app1eploser.cn'
@@ -4439,7 +4435,6 @@ payload:
   - '+.trk.irco.com.cn'
   - '+.am.g.ireader.com'
   - '+.i.g.ireader.com'
-  - '+.bringture.irioygg.cn'
   - '+.irs03.com'
   - '+.iscrv.com'
   - '+.isf-yingyangshi.cn'
@@ -5664,7 +5659,6 @@ payload:
   - '+.moonwish.com.cn'
   - '+.cdnjs.mopair-erm.net'
   - '+.moquanad.com'
-  - '+.open-monex.morkr.cn'
   - '+.motsjnv.cn'
   - '+.motuopj.cn'
   - '+.elq.mouser.cn'
@@ -8557,8 +8551,6 @@ payload:
   - '+.whalecloud.com'
   - '+.whats-app-whatsappweb.com.cn'
   - '+.whatsapp-bd.com'
-  - '+.whatscoapp.com.cn'
-  - '+.web.whatssaapp.com.cn'
   - '+.whbmy.com'
   - '+.spoaven.top.whecloud.com'
   - '+.xyws.whecloud.com'
