@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251023001628
-# Last modified: 2025/10/23 00:16:28
-# Blocked domains: 9655
+# Version: 20251023085427
+# Last modified: 2025/10/23 08:54:27
+# Blocked domains: 9653
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -92,9 +92,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	100hezi.com
 0.0.0.0	100tone.com
 0.0.0.0	101.126.11.168
+0.0.0.0	101.132.131.225
 0.0.0.0	101.201.227.94
 0.0.0.0	101.226.8.163
 0.0.0.0	101.33.235.96
+0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -102,6 +104,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	103.205.253.156
 0.0.0.0	103.40.13.122
 0.0.0.0	106.14.68.26
+0.0.0.0	106.52.208.143
 0.0.0.0	106.54.239.134
 0.0.0.0	107788.com
 0.0.0.0	adm.10jqka.com.cn
@@ -116,8 +119,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	112.18.10.80
 0.0.0.0	112.53.96.114
 0.0.0.0	oss-asq-static.11222.cn
+0.0.0.0	113.31.111.76
 0.0.0.0	113.98.201.248
 0.0.0.0	1133.cc
+0.0.0.0	114.132.150.96
 0.0.0.0	114.55.106.136
 0.0.0.0	114.55.250.233
 0.0.0.0	114.fm
@@ -133,6 +138,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.184.172
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.214.21
+0.0.0.0	117.72.222.203
+0.0.0.0	118.178.133.241
 0.0.0.0	118.25.68.152
 0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
@@ -169,6 +176,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	124.220.164.98
 0.0.0.0	124.220.48.168
 0.0.0.0	124.221.29.185
+0.0.0.0	124.223.199.39
 0.0.0.0	ent1.12584.cn
 0.0.0.0	health1.12584.cn
 0.0.0.0	img.12584.cn
@@ -266,6 +274,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.17110.com
 0.0.0.0	17173.com
 0.0.0.0	s.17173cdn.com
+0.0.0.0	175.1.251.74
 0.0.0.0	175bar.com
 0.0.0.0	178gg.com
 0.0.0.0	trk1.17admob.com
@@ -338,6 +347,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.21cn.com
 0.0.0.0	ssp.21ic.com
 0.0.0.0	tj.21ic.com
+0.0.0.0	220.180.255.224
 0.0.0.0	222aa333bb.com
 0.0.0.0	233599.com
 0.0.0.0	2345.cc
@@ -569,10 +579,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.109.90.134
 0.0.0.0	47.109.93.252
 0.0.0.0	47.111.146.110
-0.0.0.0	47.113.186.138
+0.0.0.0	47.119.34.138
 0.0.0.0	47.122.30.177
 0.0.0.0	47.93.28.103
 0.0.0.0	47.97.118.238
+0.0.0.0	47.98.136.161
 0.0.0.0	47.98.224.91
 0.0.0.0	m.479db.cn
 0.0.0.0	49.234.48.162
@@ -863,6 +874,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	80vn.cn
 0.0.0.0	81.70.255.195
 0.0.0.0	81.70.85.113
+0.0.0.0	81.71.159.99
 0.0.0.0	m1.81312.com
 0.0.0.0	815ss.cn
 0.0.0.0	8181zx.com
@@ -992,7 +1004,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	9ipin.cn
 0.0.0.0	9kff.com
 0.0.0.0	9kh5b.cn
-0.0.0.0	9tdun9zm3.cn
 0.0.0.0	cpc.9v.cn
 0.0.0.0	9wad.com
 0.0.0.0	9wee.com
@@ -2852,7 +2863,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jb.ecar168.cn
 0.0.0.0	eccki.cn
 0.0.0.0	echarts.cn
-0.0.0.0	eclicks.cn
 0.0.0.0	ecudsc.cn
 0.0.0.0	eddcc.icu
 0.0.0.0	eddong.com
@@ -2971,7 +2981,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eyouv.cn
 0.0.0.0	ez33.org.cn
 0.0.0.0	ez4q2.cn
-0.0.0.0	qp.ezfxpuo.cn
 0.0.0.0	g.f11w.com
 0.0.0.0	c.f1zd.com
 0.0.0.0	c1313.f28014.cn
@@ -3782,7 +3791,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	hh6666.com
 0.0.0.0	m.hhinternational.cn
 0.0.0.0	hhj3.cn
-0.0.0.0	www3-vpass-jp.hhqzr.cn
 0.0.0.0	poke.hhslbz.cn
 0.0.0.0	hhttm.top
 0.0.0.0	hhbs.hhu.edu.cn
@@ -3945,7 +3953,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	hstpnetwork.com
 0.0.0.0	g.hsw.cn
 0.0.0.0	hswfj.cn
-0.0.0.0	hsych.com
 0.0.0.0	hsykj.net
 0.0.0.0	ht55.cn
 0.0.0.0	htgjkm.cn
@@ -4375,7 +4382,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xlstat.izuiyou.com
 0.0.0.0	ee.j06kc.cn
 0.0.0.0	m.j06kc.cn
-0.0.0.0	j208d.xyz
 0.0.0.0	j208e.xyz
 0.0.0.0	ee.j5s9b.cn
 0.0.0.0	m.j5s9b.cn
@@ -6170,7 +6176,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.qianka.com
 0.0.0.0	click.qianqian.com
 0.0.0.0	ttmsg.qianqian.com
-0.0.0.0	cdn.soft.qianxin.com
 0.0.0.0	qianyilamian.cn
 0.0.0.0	jsb.qianzhan.com
 0.0.0.0	qichetansuo.com
@@ -6236,7 +6241,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8131.qizhihaotian.cn
 0.0.0.0	8132.qizhihaotian.cn
 0.0.0.0	bd888.qizuang.com
-0.0.0.0	qjlaw.cn
 0.0.0.0	qka.com.cn
 0.0.0.0	qktmwiq.cn
 0.0.0.0	qkwl.cn
@@ -6264,6 +6268,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.qq.com
 0.0.0.0	ad.weixin.qq.com
 0.0.0.0	adfilter.imtt.qq.com
+0.0.0.0	adnet.qq.com
 0.0.0.0	adping.qq.com
 0.0.0.0	adpm.app.qq.com
 0.0.0.0	adrdir.qq.com
@@ -6480,7 +6485,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wxsnsad.tc.qq.com
 0.0.0.0	wxsnsdy.tc.qq.com
 0.0.0.0	wxsnsdy.video.qq.com
-0.0.0.0	x.adnet.qq.com
 0.0.0.0	xmaterial.tu.qq.com
 0.0.0.0	ysdk.qq.com
 0.0.0.0	yun-hl.3g.qq.com
@@ -6491,7 +6495,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qq4g.cn
 0.0.0.0	qq937.com
 0.0.0.0	a1.qqan.com
-0.0.0.0	qqma.org.cn
 0.0.0.0	sdk-ab-config.qquanquan.com
 0.0.0.0	tracelog-debug.qquanquan.com
 0.0.0.0	img2.qqwangming6.com
@@ -7284,7 +7287,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	syds588.cn
 0.0.0.0	sydtpj.cn
 0.0.0.0	bqgsh.sydyqg.cn
-0.0.0.0	pvab.sydyqg.cn
 0.0.0.0	syfgtby.cn
 0.0.0.0	syiae.com
 0.0.0.0	sykazt.com.cn
@@ -7496,7 +7498,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	teddymobile.cn
 0.0.0.0	telegramcn.co
 0.0.0.0	jpz.telegramn.com.cn
-0.0.0.0	telepzow.cn
 0.0.0.0	teleqpnm.cn
 0.0.0.0	go.telesafe.cn
 0.0.0.0	apd-pcdnvodstat.teg.tencent-cloud.net
@@ -7723,7 +7724,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	turbonamestore.cn
 0.0.0.0	api.tusdk.com
 0.0.0.0	asdkd.tutuapp.com
-0.0.0.0	log.tutuapp.com
 0.0.0.0	smetrics.tuvsud.cn
 0.0.0.0	tuxi.com.cn
 0.0.0.0	m.tv12h.cn
@@ -8281,7 +8281,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wanghejun.cn
 0.0.0.0	wangluoruanjian.com
 0.0.0.0	wangping721.com.cn
-0.0.0.0	wangshang-whatsappweb.com.cn
 0.0.0.0	mlog.wangsu.com
 0.0.0.0	wangzhan5.com
 0.0.0.0	h5.wannaplay.cn
@@ -9289,7 +9288,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yrszy.com.cn
 0.0.0.0	ys630.com
 0.0.0.0	ys6ot.cn
-0.0.0.0	log.ys7.com
 0.0.0.0	ysdqww.com
 0.0.0.0	ysgsq.cn
 0.0.0.0	ysjwj.com
@@ -9424,7 +9422,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	clarity.zepp.com
 0.0.0.0	src.zf313.com
 0.0.0.0	ssp.zf313.com
-0.0.0.0	zfboke.com
+0.0.0.0	www.zfboke.com
 0.0.0.0	zfwgn.icu
 0.0.0.0	zg40c.cn
 0.0.0.0	zg8.cn
