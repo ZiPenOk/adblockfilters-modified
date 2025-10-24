@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251024161712
-! Last modified: 2025/10/24 16:17:12
-! Blocked domains: 10512
+! Version: 20251025001547
+! Last modified: 2025/10/25 00:15:47
+! Blocked domains: 10499
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -85,8 +85,6 @@ huodong.feixin.10086.cn
 101.43.49.183
 1.1010pic.com
 2.1010pic.com
-103.120.89.25
-103.205.253.156
 103.40.13.122
 106.14.0.238
 106.14.68.26
@@ -128,7 +126,6 @@ appversion.115.com
 117.72.206.39
 117.72.214.21
 118.25.68.152
-118.25.85.198
 118678.com
 1188.com
 11888vip.cn
@@ -197,7 +194,6 @@ pg-ad-b1.nosdn.127.net
 wanproxy.127.net
 yt-adp.nosdn.127.net
 129.204.103.151
-129.204.254.108
 12i.cn
 133u.com
 1357902.cn
@@ -275,7 +271,6 @@ tz.1688988.com
 1.17110.com
 17173.com
 s.17173cdn.com
-175.1.251.74
 175bar.com
 178gg.com
 trk1.17admob.com
@@ -283,7 +278,6 @@ trk1.17admob.com
 vstlog.17u.cn
 vstlog.17usoft.com
 17zheng.cn
-180.76.153.78
 1816soso.com
 eezdx.erc.18183.com
 img1.18183.com
@@ -526,7 +520,6 @@ m.38xs.com
 39.104.161.178
 39.105.165.37
 39.106.144.162
-39.107.242.125
 39.107.85.83
 abody.39.net
 app-g.39.net
@@ -588,10 +581,8 @@ m.408uo.cn
 stat.api.4399.com
 44629.com
 46676.cn
-47.101.206.165
 47.104.169.91
 47.104.173.216
-47.104.31.7
 47.104.96.89
 47.108.63.64
 47.109.145.121
@@ -600,7 +591,6 @@ stat.api.4399.com
 47.109.77.84
 47.109.90.134
 47.109.93.252
-47.110.67.64
 47.111.146.110
 47.116.208.81
 47.119.34.138
@@ -788,7 +778,6 @@ union.6.cn
 60999.cn
 609999.xyz
 ee.60w3s.cn
-61.158.158.202
 61165.com
 612.com
 612100.cn
@@ -4483,7 +4472,7 @@ ios-pclog.i4.cn
 fgp.i8l7tg.cn
 gdl.i9dhjx.ru
 iadpush.com
-iask.cn
+dd.iask.cn
 iask.com.cn
 qiyeb.iaskbus.com
 wneia.iaskhot.com
@@ -7649,7 +7638,6 @@ newspush.sinajs.cn
 rs.sinajs.cn
 tjs.sjs.sinajs.cn
 sinawap.com
-sinochem.com
 sinoclick.com
 mail.siom.ac.cn
 sipcoj.com
@@ -9150,7 +9138,6 @@ m.wgewj.cn
 wghjq.cn
 wgnpq.com
 whalecloud.com
-whatsapp-bd.com
 whbmy.com
 spoaven.top.whecloud.com
 xyws.whecloud.com
