@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20251026161527
-# Last modified: 2025/10/26 16:15:27
-# Blocked domains: 10481
+# Version: 20251027001351
+# Last modified: 2025/10/27 00:13:51
+# Blocked domains: 10458
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -94,7 +94,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	101.201.227.94
 0.0.0.0	101.226.8.163
 0.0.0.0	101.43.166.60
-0.0.0.0	101.43.2.116
 0.0.0.0	101.43.49.183
 0.0.0.0	1.1010pic.com
 0.0.0.0	2.1010pic.com
@@ -139,7 +138,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	117.72.183.111
 0.0.0.0	117.72.206.39
 0.0.0.0	117.72.214.21
-0.0.0.0	117.72.222.203
 0.0.0.0	118.25.68.152
 0.0.0.0	118.25.85.198
 0.0.0.0	118678.com
@@ -595,7 +593,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	46676.cn
 0.0.0.0	47.104.169.91
 0.0.0.0	47.104.173.216
-0.0.0.0	47.104.31.7
 0.0.0.0	47.104.96.89
 0.0.0.0	47.108.63.64
 0.0.0.0	47.109.145.121
@@ -610,7 +607,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	47.119.34.138
 0.0.0.0	47.120.70.161
 0.0.0.0	47.122.30.177
-0.0.0.0	47.93.216.2
 0.0.0.0	47.93.28.103
 0.0.0.0	47.97.118.238
 0.0.0.0	47.98.224.91
@@ -893,7 +889,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	7ywl.com
 0.0.0.0	8.131.63.6
 0.0.0.0	8.134.51.218
-0.0.0.0	8.134.74.227
 0.0.0.0	8.137.114.210
 0.0.0.0	8.140.239.162
 0.0.0.0	8.141.15.227
@@ -1044,7 +1039,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tgd.a1eg07.cn
 0.0.0.0	a2m.cn
 0.0.0.0	a2wx.icu
-0.0.0.0	telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
 0.0.0.0	a32a.com.cn
 0.0.0.0	a395813236.cn
 0.0.0.0	a3p4.net
@@ -1376,7 +1370,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bruplong.oss-accelerate.aliyuncs.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	chaoku.oss-cn-chengdu.aliyuncs.com
-0.0.0.0	cknd8dw8eg-default-cn.rum.aliyuncs.com
 0.0.0.0	cloudauth.aliyuncs.com
 0.0.0.0	com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	commondata.oss-cn-hangzhou.aliyuncs.com
@@ -1924,7 +1917,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	du1.bbdj.com
 0.0.0.0	event.bblmw.com
 0.0.0.0	ad-ops.cdn.bcebos.com
-0.0.0.0	aff-im.bj.bcebos.com
 0.0.0.0	aff-im.cdn.bcebos.com
 0.0.0.0	aod-image-material.cdn.bcebos.com
 0.0.0.0	baiducom.bj.bcebos.com
@@ -2186,7 +2178,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.bytegle.site
 0.0.0.0	api.bytegle.tech
 0.0.0.0	p1-feedback.byteimg.com
-0.0.0.0	p3-ad-aweme.byteimg.com
 0.0.0.0	p3-ad-sign.byteimg.com
 0.0.0.0	p3-tt.byteimg.com
 0.0.0.0	p6-ad-sign.byteimg.com
@@ -2210,7 +2201,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cailingwang.cn
 0.0.0.0	adashx.ut.cainiao.com
 0.0.0.0	h-adashx.ut.cainiao.com
-0.0.0.0	nbnest-admonitor.cainiao.com
 0.0.0.0	caiwuje.cn
 0.0.0.0	adfile.caixin.com
 0.0.0.0	apollo.caixin.com
@@ -2999,7 +2989,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	p1-ad.adukwai.com.cdn.dnsv1.com.cn
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
-0.0.0.0	stat.doc88.com
 0.0.0.0	info.meihua.docer.com
 0.0.0.0	fpb.docin.com
 0.0.0.0	zx.docin.com
@@ -3322,9 +3311,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ez4q2.cn
 0.0.0.0	analytics.ezbim.net
 0.0.0.0	qp.ezfxpuo.cn
-0.0.0.0	f103q.xyz
-0.0.0.0	f103r.xyz
-0.0.0.0	f108b.xyz
 0.0.0.0	g.f11w.com
 0.0.0.0	c.f1zd.com
 0.0.0.0	c1313.f28014.cn
@@ -3906,7 +3892,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gtmucs.cn
 0.0.0.0	gtrhnhg.cn
 0.0.0.0	bd1.guancha.cn
-0.0.0.0	sc.guancha.cn
 0.0.0.0	guangdongtaiji.com
 0.0.0.0	bdjs.guangyuanol.cn
 0.0.0.0	bdjsym.guangyuanol.cn
@@ -5181,7 +5166,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kqgn.cn
 0.0.0.0	kqtpd.cn
 0.0.0.0	kqtzl.cn
-0.0.0.0	kqzps.cn
 0.0.0.0	marketing.krones.com
 0.0.0.0	p3-ad.adukwai.com.download.ks-cdn.com
 0.0.0.0	slb-p2p.vcloud.ks-live.com
@@ -5398,7 +5382,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ssai-ads.api.leiniao.com
 0.0.0.0	ssai2-ads.api.leiniao.com
 0.0.0.0	update.lejiao.tv
-0.0.0.0	adm.leju.com
 0.0.0.0	src.leju.com
 0.0.0.0	staticadm.leju.com
 0.0.0.0	lejuliang.com
@@ -6281,7 +6264,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yasu.nunbae.cn
 0.0.0.0	ray2jing.808.nuno.cn
 0.0.0.0	log.nuomi.com
-0.0.0.0	ads.nuonuo.com
 0.0.0.0	metric.nuonuo.com
 0.0.0.0	nuxwlc.cn
 0.0.0.0	m.nuxyz.cn
@@ -6374,7 +6356,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ounion.openadx.com
 0.0.0.0	openinstall.io
 0.0.0.0	iflyad.bj.openstorage.cn
-0.0.0.0	iflyad.bjb.openstorage.cn
 0.0.0.0	ceos.opple.com
 0.0.0.0	dg.opple.com
 0.0.0.0	adsfs.oppomobile.com
@@ -7814,7 +7795,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.m.tv.sohu.com
 0.0.0.0	track.sohu.com
 0.0.0.0	upgrade.m.tv.sohu.com
-0.0.0.0	vbng.at.sohu.com
 0.0.0.0	vstat.my.tv.sohu.com
 0.0.0.0	vstat.v.blog.sohu.com
 0.0.0.0	wl.hd.sohu.com
@@ -8334,7 +8314,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adscfg.togothermany.cn
 0.0.0.0	adsup.togothermany.cn
 0.0.0.0	a.tn.token-ad.com
-0.0.0.0	tokepocket.cn
 0.0.0.0	track.tom.com
 0.0.0.0	track.tomwx.net
 0.0.0.0	tongbaimi.cn
@@ -8593,7 +8572,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	umiwi.com
 0.0.0.0	umkezbh.cn
 0.0.0.0	umm6.cn
-0.0.0.0	stat.umu.cn
 0.0.0.0	ccb.uncle-ad.com
 0.0.0.0	vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0	unionli.com
@@ -8706,7 +8684,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mar.vip.com
 0.0.0.0	n-st.vip.com
 0.0.0.0	sc-thor.vip.com
-0.0.0.0	stat.vip.com
 0.0.0.0	vipads.cn
 0.0.0.0	in.vipliangmei.com
 0.0.0.0	vipprojects.cn
@@ -9000,7 +8977,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vzt.com.cn
 0.0.0.0	vzvvifw.cn
 0.0.0.0	w010w.com.cn
-0.0.0.0	w14m.xyz
 0.0.0.0	w4pma.cn
 0.0.0.0	w59g.icu
 0.0.0.0	e.w6xj6.cn
@@ -9381,6 +9357,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xiaobaixitong.com
 0.0.0.0	xiaobeier.cn
 0.0.0.0	xiaodongrui.com
+0.0.0.0	cdn.xiaoduoai.com
 0.0.0.0	adx.xiaodutv.com
 0.0.0.0	nsclickvideo.xiaodutv.com
 0.0.0.0	xda.xiaodutv.com
@@ -9642,7 +9619,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.j.xinguoyeya.cn
 0.0.0.0	reactor.xingye.work
 0.0.0.0	a2.xinhuanet.com
-0.0.0.0	a3.xinhuanet.com
 0.0.0.0	imgs.xinhuanet.com
 0.0.0.0	xinhuaoffice.cn
 0.0.0.0	xiniuz.com
@@ -10136,6 +10112,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	123.ywxww.net
 0.0.0.0	ftp.ywxww.net
 0.0.0.0	adsclick.yx.js.cn
+0.0.0.0	qiniuyunxz.yxflzs.com
 0.0.0.0	yxgfcj.com
 0.0.0.0	ad.a.yximgs.com
 0.0.0.0	ali-ad.a.yximgs.com

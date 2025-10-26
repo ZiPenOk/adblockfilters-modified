@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20251026161526
-! Last modified: 2025/10/26 16:15:26
-! Blocked domains: 10481
+! Version: 20251027001351
+! Last modified: 2025/10/27 00:13:51
+! Blocked domains: 10458
 ! unBlocked domains: 48
 !
 ||0010jz.com^
@@ -80,7 +80,6 @@
 ||101.201.227.94^
 ||101.226.8.163^
 ||101.43.166.60^
-||101.43.2.116^
 ||101.43.49.183^
 ||1.1010pic.com^
 ||2.1010pic.com^
@@ -125,7 +124,6 @@
 ||117.72.183.111^
 ||117.72.206.39^
 ||117.72.214.21^
-||117.72.222.203^
 ||118.25.68.152^
 ||118.25.85.198^
 ||118678.com^
@@ -581,7 +579,6 @@
 ||46676.cn^
 ||47.104.169.91^
 ||47.104.173.216^
-||47.104.31.7^
 ||47.104.96.89^
 ||47.108.63.64^
 ||47.109.145.121^
@@ -596,7 +593,6 @@
 ||47.119.34.138^
 ||47.120.70.161^
 ||47.122.30.177^
-||47.93.216.2^
 ||47.93.28.103^
 ||47.97.118.238^
 ||47.98.224.91^
@@ -879,7 +875,6 @@
 ||7ywl.com^
 ||8.131.63.6^
 ||8.134.51.218^
-||8.134.74.227^
 ||8.137.114.210^
 ||8.140.239.162^
 ||8.141.15.227^
@@ -1030,7 +1025,6 @@
 ||tgd.a1eg07.cn^
 ||a2m.cn^
 ||a2wx.icu^
-||telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn^
 ||a32a.com.cn^
 ||a395813236.cn^
 ||a3p4.net^
@@ -1362,7 +1356,6 @@
 ||bruplong.oss-accelerate.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
-||cknd8dw8eg-default-cn.rum.aliyuncs.com^
 ||cloudauth.aliyuncs.com^
 ||com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com^
 ||commondata.oss-cn-hangzhou.aliyuncs.com^
@@ -1910,7 +1903,6 @@
 ||du1.bbdj.com^
 ||event.bblmw.com^
 ||ad-ops.cdn.bcebos.com^
-||aff-im.bj.bcebos.com^
 ||aff-im.cdn.bcebos.com^
 ||aod-image-material.cdn.bcebos.com^
 ||baiducom.bj.bcebos.com^
@@ -2172,7 +2164,6 @@
 ||api.bytegle.site^
 ||api.bytegle.tech^
 ||p1-feedback.byteimg.com^
-||p3-ad-aweme.byteimg.com^
 ||p3-ad-sign.byteimg.com^
 ||p3-tt.byteimg.com^
 ||p6-ad-sign.byteimg.com^
@@ -2196,7 +2187,6 @@
 ||cailingwang.cn^
 ||adashx.ut.cainiao.com^
 ||h-adashx.ut.cainiao.com^
-||nbnest-admonitor.cainiao.com^
 ||caiwuje.cn^
 ||adfile.caixin.com^
 ||apollo.caixin.com^
@@ -2985,7 +2975,6 @@
 ||p1-ad.adukwai.com.cdn.dnsv1.com.cn^
 ||dnyzbp.cn^
 ||do-global.com^
-||stat.doc88.com^
 ||info.meihua.docer.com^
 ||fpb.docin.com^
 ||zx.docin.com^
@@ -3308,9 +3297,6 @@
 ||ez4q2.cn^
 ||analytics.ezbim.net^
 ||qp.ezfxpuo.cn^
-||f103q.xyz^
-||f103r.xyz^
-||f108b.xyz^
 ||g.f11w.com^
 ||c.f1zd.com^
 ||c1313.f28014.cn^
@@ -3892,7 +3878,6 @@
 ||gtmucs.cn^
 ||gtrhnhg.cn^
 ||bd1.guancha.cn^
-||sc.guancha.cn^
 ||guangdongtaiji.com^
 ||bdjs.guangyuanol.cn^
 ||bdjsym.guangyuanol.cn^
@@ -5167,7 +5152,6 @@
 ||kqgn.cn^
 ||kqtpd.cn^
 ||kqtzl.cn^
-||kqzps.cn^
 ||marketing.krones.com^
 ||p3-ad.adukwai.com.download.ks-cdn.com^
 ||slb-p2p.vcloud.ks-live.com^
@@ -5384,7 +5368,6 @@
 ||ssai-ads.api.leiniao.com^
 ||ssai2-ads.api.leiniao.com^
 ||update.lejiao.tv^
-||adm.leju.com^
 ||src.leju.com^
 ||staticadm.leju.com^
 ||lejuliang.com^
@@ -6267,7 +6250,6 @@
 ||yasu.nunbae.cn^
 ||ray2jing.808.nuno.cn^
 ||log.nuomi.com^
-||ads.nuonuo.com^
 ||metric.nuonuo.com^
 ||nuxwlc.cn^
 ||m.nuxyz.cn^
@@ -6360,7 +6342,6 @@
 ||ounion.openadx.com^
 ||openinstall.io^
 ||iflyad.bj.openstorage.cn^
-||iflyad.bjb.openstorage.cn^
 ||ceos.opple.com^
 ||dg.opple.com^
 ||adsfs.oppomobile.com^
@@ -7800,7 +7781,6 @@
 ||stat.m.tv.sohu.com^
 ||track.sohu.com^
 ||upgrade.m.tv.sohu.com^
-||vbng.at.sohu.com^
 ||vstat.my.tv.sohu.com^
 ||vstat.v.blog.sohu.com^
 ||wl.hd.sohu.com^
@@ -8320,7 +8300,6 @@
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
 ||a.tn.token-ad.com^
-||tokepocket.cn^
 ||track.tom.com^
 ||track.tomwx.net^
 ||tongbaimi.cn^
@@ -8579,7 +8558,6 @@
 ||umiwi.com^
 ||umkezbh.cn^
 ||umm6.cn^
-||stat.umu.cn^
 ||ccb.uncle-ad.com^
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
 ||unionli.com^
@@ -8692,7 +8670,6 @@
 ||mar.vip.com^
 ||n-st.vip.com^
 ||sc-thor.vip.com^
-||stat.vip.com^
 ||vipads.cn^
 ||in.vipliangmei.com^
 ||vipprojects.cn^
@@ -8986,7 +8963,6 @@
 ||vzt.com.cn^
 ||vzvvifw.cn^
 ||w010w.com.cn^
-||w14m.xyz^
 ||w4pma.cn^
 ||w59g.icu^
 ||e.w6xj6.cn^
@@ -9367,6 +9343,7 @@
 ||xiaobaixitong.com^
 ||xiaobeier.cn^
 ||xiaodongrui.com^
+||cdn.xiaoduoai.com^
 ||adx.xiaodutv.com^
 ||nsclickvideo.xiaodutv.com^
 ||xda.xiaodutv.com^
@@ -9628,7 +9605,6 @@
 ||www.j.xinguoyeya.cn^
 ||reactor.xingye.work^
 ||a2.xinhuanet.com^
-||a3.xinhuanet.com^
 ||imgs.xinhuanet.com^
 ||xinhuaoffice.cn^
 ||xiniuz.com^
@@ -10122,6 +10098,7 @@
 ||123.ywxww.net^
 ||ftp.ywxww.net^
 ||adsclick.yx.js.cn^
+||qiniuyunxz.yxflzs.com^
 ||yxgfcj.com^
 ||ad.a.yximgs.com^
 ||ali-ad.a.yximgs.com^
