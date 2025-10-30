@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、PeterLowe、DanPollock、SmartTV、HageziMultiPro、uBlock Badware risks、OISD Big、Stalkerware、Scam Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20251030001716
-! Last modified: 2025/10/30 00:17:16
-! Blocked domains: 10300
+! Version: 20251030085706
+! Last modified: 2025/10/30 08:57:06
+! Blocked domains: 10308
 !
 0010jz.com
 395131115419474531.002.sh.cn
@@ -81,7 +81,6 @@ huodong.feixin.10086.cn
 101.132.131.225
 101.201.227.94
 101.226.8.163
-101.43.166.60
 101.43.49.183
 1.1010pic.com
 2.1010pic.com
@@ -111,7 +110,6 @@ oss-asq-static.11222.cn
 113.31.111.76
 113.98.201.248
 1133.cc
-114.132.150.96
 114.55.106.136
 114.55.250.233
 114.fm
@@ -209,7 +207,6 @@ yt-adp.nosdn.127.net
 ad.mcloud.139.com
 1391.com
 14.103.234.180
-140.143.194.253
 14198.com
 d.14yaa.com
 150100.cn
@@ -599,6 +596,7 @@ stat.api.4399.com
 47.93.216.2
 47.93.28.103
 47.97.118.238
+47.98.136.161
 47.98.224.91
 m.479db.cn
 49.234.48.162
@@ -677,6 +675,7 @@ pv.5211game.com
 52shouyou.com.cn
 adm.52swine.com
 52xiyou.com
+api.52youtu.com
 52z.com
 a.52zxw.com
 53kf.com
@@ -879,7 +878,6 @@ cp.7y7.com
 7ywl.com
 8.131.63.6
 8.134.51.218
-8.137.114.210
 8.137.149.67
 8.138.182.17
 8.140.239.162
@@ -3307,6 +3305,7 @@ eyouv.cn
 ez33.org.cn
 ez4q2.cn
 analytics.ezbim.net
+qp.ezfxpuo.cn
 g.f11w.com
 c.f1zd.com
 c1313.f28014.cn
@@ -4325,6 +4324,7 @@ hsrgnac.cn
 hstpnetwork.com
 g.hsw.cn
 hswfj.cn
+hsych.com
 hsykj.net
 ht55.cn
 htgjkm.cn
@@ -5666,6 +5666,7 @@ data-sdk-uuid-log.d.meituan.net
 dreport.meituan.net
 mtvod.meituan.net
 wreport1.meituan.net
+cloudcollect.meitudata.com
 mea.meitudata.com
 meitubeauty.meitudata.com
 my-material.zone1.meitudata.com
@@ -6184,6 +6185,7 @@ nhjsw.cn
 nicelabel.cc
 nikey.cn
 nimaxrv.cn
+down.nishuoa.com
 nisihu.com.cn
 taobao.niucha.ren
 niudashu.com
@@ -8354,6 +8356,8 @@ e.tuoaa.com
 tupwnnx.cn
 turbonamestore.cn
 tusdk.com
+asdkd.tutuapp.com
+log.tutuapp.com
 smetrics.tuvsud.cn
 tuxi.com.cn
 blog.tuziip.com
@@ -8505,6 +8509,7 @@ ultrapay.net
 um1.cn
 umapi.cn
 umeng.com
+gf.umenglog.com
 analytics.umetrip.com
 a.umilu.com
 umiwi.com
@@ -8537,6 +8542,8 @@ camp.updays.top
 camptesting.updays.top
 ads-sdk-cn.upltv.com
 upyzqf.cn
+adscfg.uqualities.com
+adsoss.uqualities.com
 uqz.com
 urhu.cn
 uri6.com
@@ -9897,6 +9904,7 @@ yrszy.com.cn
 ys630.com
 ys6ot.cn
 adx.ys7.com
+log.ys7.com
 ysdqww.com
 ysgsq.cn
 ysjwj.com
